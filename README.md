@@ -10,6 +10,7 @@ EduScore 是面向 HR 的候选人学历数据与可解释评分项目。当前�
 | 中国成人高校名单 | 244 | CSV、JSON、原始 XLS |
 | 中国留服认证院校名单 | 7,574 | CSV、JSON、JSONL |
 | 2027 QS 世界大学排名 | 1,504 | CSV、JSON、原始 XLSX |
+| 2026-2027 US News 世界大学排名 | 2,604 | CSV、JSON |
 
 CSV 文件使用 UTF-8 with BOM；学校标识码等标识字段按字符串保存，避免科学计数法和精度损失。
 
@@ -17,12 +18,15 @@ CSV 文件使用 UTF-8 with BOM；学校标识码等标识字段按字符串保�
 
 - 中国留学服务中心“认证院校查询”：https://yxcx.cscse.edu.cn/rzyxmd2
 - 中华人民共和国教育部“全国高等学校名单”（2026-06-18）：http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html
+- U.S. News “Best Global Universities Rankings”：https://www.usnews.com/education/best-global-universities/rankings
 
 教育部页面说明，截至 2026 年 6 月 17 日，全国高等学校共 3,196 所，其中普通高校 2,952 所、成人高校 244 所；本仓库保留页面附件原始文件并提供规范化版本。
 
 当前中国留服快照抓取于 2026-08-09。查询结果是认证业务的院校查询信息，不等同于对院校质量的排名或永久认证承诺。数据可能更新，使用时应记录抓取时间，并保留 `review_note` 等审查提示。
 
 QS 数据来自仓库内提供的原始工作簿。原文件明确提示仅供参考，决策时应与 QS 网站及对应排名说明交叉核对；在 HR 评分中不应把综合排名作为唯一或决定性依据。
+
+US News 当前快照包含 2,604 所大学，其中 2,250 所有排名、354 所未排名，抓取时间记录在 JSON 元数据中。该排名同样只应作为可配置的辅助信号，不应替代中留服查询、学历真实性验证、专业相关性和候选人的实际能力评价。
 
 ## 重新生成
 
@@ -34,3 +38,5 @@ python3 scripts/convert_qs_ranking.py
 ```
 
 `extract_xls.py` 在 macOS 上通过 Microsoft Excel 只读提取旧版 `.xls`。QS 转换仅使用 Python 标准库读取 `.xlsx` 内部 XML。
+
+US News 抓取脚本需在上述排名页面的浏览器开发者工具 Console 中运行；页面数据加载完成后，脚本会下载 CSV 和 JSON 快照。
