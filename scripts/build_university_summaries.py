@@ -325,6 +325,7 @@ def build_international() -> tuple[
                 school.get("country") or "", f"cscse:{school.get('country') or ''}"
             ),
             "us_rank": None,
+            "us_location": "",
             "us_order": None,
             "has_us": False,
             "qs_rank": "",
@@ -355,6 +356,7 @@ def build_international() -> tuple[
                     "names": [row["name"]],
                     "country": country,
                     "us_rank": row.get("rank"),
+                    "us_location": row.get("city") or "",
                     "us_order": order,
                     "has_us": True,
                     "qs_rank": "",
@@ -369,6 +371,7 @@ def build_international() -> tuple[
             entity["names"].append(row["name"])
             entity["display_name"] = row["name"]
             entity["us_rank"] = row.get("rank")
+            entity["us_location"] = row.get("city") or ""
             entity["us_order"] = order
             entity["has_us"] = True
             add_names_to_index(exact_index, index, [row["name"]])
@@ -395,6 +398,7 @@ def build_international() -> tuple[
                     "names": [row["institution_name"]],
                     "country": country,
                     "us_rank": None,
+                    "us_location": "",
                     "us_order": None,
                     "has_us": False,
                     "qs_rank": row.get("rank_2027") or "",
@@ -630,6 +634,7 @@ def build_international() -> tuple[
             "中文名": entity["chinese_name"],
             "外文名": entity["display_name"],
             "USNEWS": entity["us_rank"] if entity["us_rank"] is not None else "",
+            "USNEWS所在地": entity["us_location"],
             "QS": entity["qs_rank"],
         }
         for entity in entities
