@@ -16,7 +16,7 @@ from typing import Any
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
-MASTER = ROOT / "最终产物"
+MASTER = ROOT / "output"
 AUDIT = DATA / "audit"
 STOP_WORDS = {"the", "of", "in", "at", "van"}
 DIRECTION_WORDS = {
