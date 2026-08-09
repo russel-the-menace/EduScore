@@ -11,7 +11,7 @@
     "domestic_head_rows": 590,
     "domestic_non_head_rows": 2381,
     "international_head_rows": 2250,
-    "international_non_head_rows": 7143,
+    "international_non_head_rows": 6171,
     "us_exact": 1000,
     "us_unmatched": 1563,
     "us_base_exact": 11,
@@ -23,12 +23,16 @@
     "qs_exact_global": 8,
     "qs_base_exact": 3,
     "qs_exact_preferred": 1,
-    "shanghai_exact": 447,
-    "final_rows": 9393,
-    "chinese_names": 8017,
-    "missing_chinese_names": 1376,
-    "us_ranked": 2250,
-    "qs_ranked": 1504
+    "head_chinese_cscse": 958,
+    "head_chinese_shanghai": 374,
+    "head_chinese_greater_china": 35,
+    "head_chinese_deepseek": 883,
+    "head_rows": 2250,
+    "head_chinese_names": 2250,
+    "head_missing_chinese_names": 0,
+    "non_head_rows": 6171,
+    "qs_ranked_head": 1011,
+    "qs_ranked_non_head": 148
   },
-  "note": "Missing Chinese names are not automatically errors: the CSCSE snapshot can omit some ranking entries, campus-level entities, and institutions represented under different official names. Unmatched records are retained rather than assigned a guessed name."
+  "note": "Head-table Chinese names are rebuilt in priority order from the Greater China mapping, ShanghaiRanking, CSCSE English-name matches, and saved DeepSeek results. The non-head table contains CSCSE records whose normalized Chinese names are not used by the head table. Same Chinese names can still identify distinct institutions in different countries, so head rows remain keyed by their English ranking entities."
 }

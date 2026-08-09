@@ -1,0 +1,4417 @@
+[
+  {
+    "english_name": "ETH Zurich",
+    "chinese_name": "苏黎世联邦理工学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Queensland Australia",
+    "chinese_name": "昆士兰大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Munich",
+    "chinese_name": "慕尼黑大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Utrecht University",
+    "chinese_name": "乌得勒支大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Karolinska Institute",
+    "chinese_name": "卡罗林斯卡学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Science & Technology of China, CAS",
+    "chinese_name": "中国科学技术大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Leiden University",
+    "chinese_name": "莱顿大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Tokyo",
+    "chinese_name": "东京大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Technical University of Munich",
+    "chinese_name": "慕尼黑工业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Groningen",
+    "chinese_name": "格罗宁根大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "École Polytechnique Federale of Lausanne",
+    "chinese_name": "洛桑联邦理工学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Adelaide University",
+    "chinese_name": "阿德莱德大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Barcelona",
+    "chinese_name": "巴塞罗那大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Ghent University",
+    "chinese_name": "根特大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "PSL Research University Paris (ComUE)",
+    "chinese_name": "巴黎文理研究大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Wageningen University and Research Center",
+    "chinese_name": "瓦赫宁根大学与研究中心",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Seoul National University",
+    "chinese_name": "首尔大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "London School of Hygiene and Tropical Medicine",
+    "chinese_name": "伦敦卫生与热带医学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Geneva",
+    "chinese_name": "日内瓦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Autonomous University of Barcelona",
+    "chinese_name": "巴塞罗那自治大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Yonsei University",
+    "chinese_name": "延世大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Bologna",
+    "chinese_name": "博洛尼亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Sapienza University of Rome",
+    "chinese_name": "罗马第一大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Milan",
+    "chinese_name": "米兰大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Kyoto University",
+    "chinese_name": "京都大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Delft University of Technology",
+    "chinese_name": "代尔夫特理工大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "RMIT University",
+    "chinese_name": "皇家墨尔本理工大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Padua",
+    "chinese_name": "帕多瓦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Bonn",
+    "chinese_name": "波恩大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Lausanne",
+    "chinese_name": "洛桑大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Maastricht University",
+    "chinese_name": "马斯特里赫特大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Göttingen",
+    "chinese_name": "哥廷根大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Colorado Anschutz Medical Campus",
+    "chinese_name": "科罗拉多大学安舒茨医学校区",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Montreal",
+    "chinese_name": "蒙特利尔大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Vienna",
+    "chinese_name": "维也纳大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Newcastle University",
+    "chinese_name": "纽卡斯尔大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Antwerp",
+    "chinese_name": "安特卫普大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Technical University of Dresden",
+    "chinese_name": "德累斯顿工业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Medical University of Vienna",
+    "chinese_name": "维也纳医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Trinity College Dublin",
+    "chinese_name": "都柏林圣三一大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University Catholique of Louvain",
+    "chinese_name": "鲁汶天主教大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Naples Federico II",
+    "chinese_name": "那不勒斯费德里科二世大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "RWTH Aachen University",
+    "chinese_name": "亚琛工业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Freiburg",
+    "chinese_name": "弗赖堡大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Charles University in Prague",
+    "chinese_name": "查理大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Turin",
+    "chinese_name": "都灵大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Stony Brook University--SUNY",
+    "chinese_name": "纽约州立大学石溪分校",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Vita-Salute San Raffaele University",
+    "chinese_name": "圣拉斐尔生命健康大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Cologne",
+    "chinese_name": "科隆大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Witwatersrand",
+    "chinese_name": "威特沃特斯兰德大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Sungkyunkwan University",
+    "chinese_name": "成均馆大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Korea Advanced Institute of Science and Technology",
+    "chinese_name": "韩国科学技术院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Lisbon",
+    "chinese_name": "里斯本大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Aix-Marseille",
+    "chinese_name": "艾克斯-马赛大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Würzburg",
+    "chinese_name": "维尔茨堡大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Technical University of Berlin",
+    "chinese_name": "柏林工业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Korea University",
+    "chinese_name": "高丽大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Florence",
+    "chinese_name": "佛罗伦萨大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Autonomous University of Madrid",
+    "chinese_name": "马德里自治大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Montpellier",
+    "chinese_name": "蒙彼利埃大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Qatar",
+    "chinese_name": "卡塔尔大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Osaka University",
+    "chinese_name": "大阪大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Tohoku University",
+    "chinese_name": "东北大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Durham University",
+    "chinese_name": "杜伦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Pompeu Fabra University",
+    "chinese_name": "庞培法布拉大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Pisa",
+    "chinese_name": "比萨大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Valencia",
+    "chinese_name": "瓦伦西亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Northwest A&F University - China",
+    "chinese_name": "西北农林科技大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Virginia Tech",
+    "chinese_name": "弗吉尼亚理工大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Porto",
+    "chinese_name": "波尔图大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Complutense University of Madrid",
+    "chinese_name": "马德里康普顿斯大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Karlsruhe Institute of Technology",
+    "chinese_name": "卡尔斯鲁厄理工学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Leipzig University",
+    "chinese_name": "莱比锡大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Stellenbosch University",
+    "chinese_name": "斯泰伦博斯大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Milan - Bicocca",
+    "chinese_name": "米兰比可卡大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Sejong University",
+    "chinese_name": "世宗大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Erlangen Nuremberg",
+    "chinese_name": "埃尔朗根-纽伦堡大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Western University",
+    "chinese_name": "韦仕敦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "City St Georges, University of London",
+    "chinese_name": "伦敦大学城市圣乔治学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Lancaster University",
+    "chinese_name": "兰卡斯特大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Institut Polytechnique de Paris",
+    "chinese_name": "巴黎综合理工学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Nagoya University",
+    "chinese_name": "名古屋大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Kyushu University",
+    "chinese_name": "九州大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Strasbourg",
+    "chinese_name": "斯特拉斯堡大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University Paul Sabatier - Toulouse 3",
+    "chinese_name": "保罗·萨巴捷大学（图卢兹第三大学）",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Tennessee",
+    "chinese_name": "田纳西大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Institute of Science Tokyo",
+    "chinese_name": "东京科学大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Khalifa University of Science and Technology",
+    "chinese_name": "哈利法科学技术大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Polytechnic University of Milan",
+    "chinese_name": "米兰理工大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Catholic University of Sacred Heart",
+    "chinese_name": "天主教圣心大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Buenos Aires",
+    "chinese_name": "布宜诺斯艾利斯大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "National Autonomous University of Mexico",
+    "chinese_name": "墨西哥国立自治大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "State University of Campinas",
+    "chinese_name": "坎皮纳斯州立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Free University of Brussels",
+    "chinese_name": "布鲁塞尔自由大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Pavia",
+    "chinese_name": "帕维亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University at Buffalo--SUNY",
+    "chinese_name": "纽约州立大学布法罗分校",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Granada",
+    "chinese_name": "格拉纳达大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Claude Bernard University Lyon 1",
+    "chinese_name": "克洛德·贝尔纳里昂第一大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Trento",
+    "chinese_name": "特伦托大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Northeastern University - China",
+    "chinese_name": "东北大学（中国）",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Genoa",
+    "chinese_name": "热那亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Kiel",
+    "chinese_name": "基尔大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Rome Tor Vergata",
+    "chinese_name": "罗马第二大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Jagiellonian University",
+    "chinese_name": "雅盖隆大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Navarra",
+    "chinese_name": "纳瓦拉大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Eindhoven University of Technology",
+    "chinese_name": "埃因霍温理工大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Trieste",
+    "chinese_name": "的里雅斯特大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Assiut University",
+    "chinese_name": "艾斯尤特大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Hokkaido University",
+    "chinese_name": "北海道大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Kyung Hee University",
+    "chinese_name": "庆熙大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Louisiana State University--Baton Rouge",
+    "chinese_name": "路易斯安那州立大学巴吞鲁日分校",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Hanyang University",
+    "chinese_name": "汉阳大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Ulsan National Institute of Science and Technology",
+    "chinese_name": "蔚山科学技术院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Chile",
+    "chinese_name": "智利大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Liège",
+    "chinese_name": "列日大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Federal University of Rio Grande do Sul",
+    "chinese_name": "南里奥格兰德联邦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Bari",
+    "chinese_name": "巴里大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Warsaw",
+    "chinese_name": "华沙大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Seville",
+    "chinese_name": "塞维利亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Missouri",
+    "chinese_name": "密苏里大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Coimbra",
+    "chinese_name": "科英布拉大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of the Philippines Manila",
+    "chinese_name": "菲律宾大学马尼拉分校",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of the Basque Country",
+    "chinese_name": "巴斯克大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Humanitas University",
+    "chinese_name": "人道大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Massachusetts--Worcester",
+    "chinese_name": "马萨诸塞大学伍斯特分校",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Nantes",
+    "chinese_name": "南特大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Catania",
+    "chinese_name": "卡塔尼亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Tsukuba",
+    "chinese_name": "筑波大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Hannover Medical School",
+    "chinese_name": "汉诺威医学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Southwest University - China",
+    "chinese_name": "西南大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Medical University of Innsbruck",
+    "chinese_name": "因斯布鲁克医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Hamad Bin Khalifa University",
+    "chinese_name": "哈马德·本·哈利法大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Federal University of Rio de Janeiro",
+    "chinese_name": "里约热内卢联邦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Federal University of Minas Gerais",
+    "chinese_name": "米纳斯吉拉斯联邦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Southern Medical University - China",
+    "chinese_name": "南方医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Sechenov First Moscow State Medical University",
+    "chinese_name": "谢切诺夫第一莫斯科国立医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "South Ural State University",
+    "chinese_name": "南乌拉尔国立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Taif University",
+    "chinese_name": "塔伊夫大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "International School for Advanced Studies",
+    "chinese_name": "国际高等研究院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Santiago of Compostela",
+    "chinese_name": "圣地亚哥德孔波斯特拉大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Eotvos Lorand University",
+    "chinese_name": "厄特沃什·罗兰大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Keio University",
+    "chinese_name": "庆应义塾大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Laval University",
+    "chinese_name": "拉瓦尔大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Prince Sattam Bin Abdulaziz University",
+    "chinese_name": "萨塔姆·本·阿卜杜勒阿齐兹亲王大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "M. V. Lomonosov Moscow State University",
+    "chinese_name": "莫斯科国立罗蒙诺索夫大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Polytechnic University of Turin",
+    "chinese_name": "都灵理工大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Verona",
+    "chinese_name": "维罗纳大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Beijing University of Posts",
+    "chinese_name": "北京邮电大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Brunel University",
+    "chinese_name": "布鲁内尔大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Université de Rennes 1",
+    "chinese_name": "雷恩第一大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "NUI Galway",
+    "chinese_name": "爱尔兰国立大学戈尔韦分校",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidad Peruana Cayetano Heredia",
+    "chinese_name": "秘鲁卡耶塔诺埃雷迪亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Bocconi University",
+    "chinese_name": "博科尼大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Luxembourg",
+    "chinese_name": "卢森堡大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "King Faisal University",
+    "chinese_name": "费萨尔国王大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Waseda University",
+    "chinese_name": "早稻田大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Prince Sultan University",
+    "chinese_name": "苏丹亲王大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Semmelweis University",
+    "chinese_name": "塞梅尔维斯大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Ural Federal University",
+    "chinese_name": "乌拉尔联邦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Vienna University of Technology",
+    "chinese_name": "维也纳工业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "China University of Mining",
+    "chinese_name": "中国矿业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Medical University of Graz",
+    "chinese_name": "格拉茨医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Giessen",
+    "chinese_name": "吉森大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Moscow Institute of Physics and Technology",
+    "chinese_name": "莫斯科物理技术学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "National Research University - Higher School of Economics",
+    "chinese_name": "国立研究大学高等经济学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "UNESP - Universidade Estadual Paulista",
+    "chinese_name": "圣保罗州立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Hannover",
+    "chinese_name": "汉诺威大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Federal University of São Paulo",
+    "chinese_name": "圣保罗联邦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Tehran University of Medical Sciences",
+    "chinese_name": "德黑兰医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "North West University - South Africa",
+    "chinese_name": "西北大学（南非）",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Palermo",
+    "chinese_name": "巴勒莫大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Indian Institute of Science - Bangalore",
+    "chinese_name": "印度科学理工学院（班加罗尔）",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Salerno",
+    "chinese_name": "萨莱诺大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Imam Abdulrahman Bin Faisal University",
+    "chinese_name": "伊玛目阿卜杜拉赫曼·本·费萨尔大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Siena",
+    "chinese_name": "锡耶纳大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Tecnologico de Monterrey",
+    "chinese_name": "蒙特雷理工学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of the Andes Colombia",
+    "chinese_name": "哥伦比亚安第斯大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Hiroshima University",
+    "chinese_name": "广岛大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Nanjing University of Technology",
+    "chinese_name": "南京工业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Brescia",
+    "chinese_name": "布雷西亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Cyprus International University",
+    "chinese_name": "塞浦路斯国际大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Al Jouf University",
+    "chinese_name": "焦夫大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Iceland",
+    "chinese_name": "冰岛大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Shanghai for Science",
+    "chinese_name": "上海理工大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Bayero University",
+    "chinese_name": "巴耶罗大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Grenoble Institute of Technology",
+    "chinese_name": "格勒诺布尔理工学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Polytechnic University of Valencia",
+    "chinese_name": "瓦伦西亚理工大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Southwestern University of Finance and Economics - China",
+    "chinese_name": "西南财经大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Taibah University",
+    "chinese_name": "塔伊巴大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universita della Campania Vanvitelli",
+    "chinese_name": "坎帕尼亚大学（万维泰利）",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Kobe University",
+    "chinese_name": "神户大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Menofia University",
+    "chinese_name": "梅努菲亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University Ha'il",
+    "chinese_name": "哈伊勒大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Beni-Suef University",
+    "chinese_name": "贝尼苏韦夫大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Technical University of Darmstadt",
+    "chinese_name": "达姆施塔特工业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Tilburg University",
+    "chinese_name": "蒂尔堡大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "ENS De Lyon",
+    "chinese_name": "里昂高等师范学校",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Okinawa Institute of Science and Technology Graduate University",
+    "chinese_name": "冲绳科学技术大学院大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Auvergne",
+    "chinese_name": "奥弗涅大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Cagliari",
+    "chinese_name": "卡利亚里大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Northwest University, Xi'an",
+    "chinese_name": "西北大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Ferrara",
+    "chinese_name": "费拉拉大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Minho",
+    "chinese_name": "米尼奥大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Paris-Est Creteil",
+    "chinese_name": "巴黎东克雷泰伊大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Abu Dhabi University",
+    "chinese_name": "阿布扎比大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Al-Imam Muhammad Ibn Saud Islamic University",
+    "chinese_name": "伊玛目穆罕默德·本·沙特伊斯兰大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Babes-Bolyai University",
+    "chinese_name": "巴比什-博雅依大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Polytechnic University of Madrid",
+    "chinese_name": "马德里理工大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Roma Tre University",
+    "chinese_name": "罗马第三大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Fribourg",
+    "chinese_name": "弗里堡大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Graz",
+    "chinese_name": "格拉茨大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Rutgers, The State University of New Jersey--Newark",
+    "chinese_name": "罗格斯大学纽瓦克分校",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Ulsan",
+    "chinese_name": "蔚山大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Indiana University Indianapolis",
+    "chinese_name": "印第安纳大学印第安纳波利斯分校",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Pusan National University",
+    "chinese_name": "釜山国立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Luebeck",
+    "chinese_name": "吕贝克大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Tromsø",
+    "chinese_name": "特罗姆瑟大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Çankaya University",
+    "chinese_name": "昌卡亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Bielefeld University",
+    "chinese_name": "比勒费尔德大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Bodenkultur Wien",
+    "chinese_name": "维也纳农业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Haramaya University",
+    "chinese_name": "哈拉马亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University at Albany--SUNY",
+    "chinese_name": "纽约州立大学奥尔巴尼分校",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Asia University Taiwan",
+    "chinese_name": "亚洲大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Shanghai University of Finance",
+    "chinese_name": "上海财经大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Oklahoma Health Sciences Center",
+    "chinese_name": "俄克拉荷马大学健康科学中心",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Northumbria University",
+    "chinese_name": "诺森比亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Messina",
+    "chinese_name": "墨西拿大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Federal University of Santa Catarina",
+    "chinese_name": "圣卡塔琳娜联邦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Parma",
+    "chinese_name": "帕尔马大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Minia University",
+    "chinese_name": "明亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Northeast Normal University - China",
+    "chinese_name": "东北师范大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of La Laguna",
+    "chinese_name": "拉古纳大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Dortmund University of Technology",
+    "chinese_name": "多特蒙德工业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universitetet i Stavanger",
+    "chinese_name": "斯塔万格大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Yeungnam University",
+    "chinese_name": "岭南大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Kyungpook National University",
+    "chinese_name": "庆北国立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Mohammed V University in Rabat",
+    "chinese_name": "拉巴特穆罕默德五世大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Symbiosis International University",
+    "chinese_name": "共生国际大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Zaragoza",
+    "chinese_name": "萨拉戈萨大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Lappeenranta University of Technology",
+    "chinese_name": "拉彭兰塔理工大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)",
+    "chinese_name": "国立核研究大学莫斯科工程物理学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Institut Agro",
+    "chinese_name": "农业学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Bucharest",
+    "chinese_name": "布加勒斯特大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Modena and Reggio Emilia",
+    "chinese_name": "摩德纳和雷焦艾米利亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Ajman University",
+    "chinese_name": "阿治曼大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Keele University",
+    "chinese_name": "基尔大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Mashhad University Medical Science",
+    "chinese_name": "马什哈德医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "All India Institute of Medical Sciences",
+    "chinese_name": "全印度医学科学研究所",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Vigo",
+    "chinese_name": "维戈大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Marche Polytechnic University",
+    "chinese_name": "马尔凯理工大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidad de la Costa",
+    "chinese_name": "海岸大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Shiraz University of Medical Science",
+    "chinese_name": "设拉子医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Salamanca",
+    "chinese_name": "萨拉曼卡大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Chiba University",
+    "chinese_name": "千叶大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Mohammed VI Polytechnic University",
+    "chinese_name": "穆罕默德六世理工大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "AGH University of Krakow",
+    "chinese_name": "AGH克拉科夫大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Royal Holloway, University of London (RHUL)",
+    "chinese_name": "伦敦大学皇家霍洛威学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Ernst Moritz Arndt Universitat Greifswald",
+    "chinese_name": "恩斯特·莫里茨·阿恩特格赖夫斯瓦尔德大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Graduate University for Advanced Studies - Japan",
+    "chinese_name": "综合研究大学院大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Port Said University",
+    "chinese_name": "塞得港大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Casablanca Hassan 2",
+    "chinese_name": "卡萨布兰卡哈桑二世大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Concepción",
+    "chinese_name": "康塞普西翁大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Murcia",
+    "chinese_name": "穆尔西亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Perugia",
+    "chinese_name": "佩鲁贾大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Airlangga University",
+    "chinese_name": "艾尔朗加大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Bilkent University",
+    "chinese_name": "比尔肯特大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Northeast Agricultural University - China",
+    "chinese_name": "东北农业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Saint Petersburg State University",
+    "chinese_name": "圣彼得堡国立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Arkansas",
+    "chinese_name": "阿肯色大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Carol Davila University of Medicine and Pharmacy",
+    "chinese_name": "卡罗尔·达维拉医药大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Udine",
+    "chinese_name": "乌迪内大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Al-Ahliyya Amman University",
+    "chinese_name": "阿赫利亚安曼大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Nguyen Tat Thanh University (NTTU)",
+    "chinese_name": "阮必成大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Université Djillali Liabes",
+    "chinese_name": "吉拉利·利亚贝斯大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Zayed University",
+    "chinese_name": "扎耶德大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Adam Mickiewicz University",
+    "chinese_name": "亚当·密茨凯维奇大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Near East University",
+    "chinese_name": "近东大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Tabuk",
+    "chinese_name": "塔布克大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Alfaisal University",
+    "chinese_name": "阿尔费萨尔大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Sohag University",
+    "chinese_name": "索哈杰大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Juntendo University",
+    "chinese_name": "顺天堂大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Eastern Mediterranean University",
+    "chinese_name": "东地中海大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Brasilia",
+    "chinese_name": "巴西利亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Opole",
+    "chinese_name": "奥波莱大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Peoples Friendship University of Russia",
+    "chinese_name": "俄罗斯人民友谊大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidad de la Republica, Uruguay",
+    "chinese_name": "乌拉圭共和国大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "South Valley University",
+    "chinese_name": "南河谷大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Hosei University",
+    "chinese_name": "法政大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Abdul Wali Khan University",
+    "chinese_name": "阿卜杜勒·瓦利·汗大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Chitkara University Punjab",
+    "chinese_name": "奇特卡拉大学旁遮普分校",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Christian Medical College and Hospital - Vellore",
+    "chinese_name": "韦洛尔基督教医学院与医院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "CUNY--City College",
+    "chinese_name": "纽约城市大学城市学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "National University of Defence Technology - China",
+    "chinese_name": "国防科技大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Scuola Superiore Sant'Anna",
+    "chinese_name": "圣安娜高等研究学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Tomsk Polytechnic University",
+    "chinese_name": "托木斯克理工大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universite de Sfax",
+    "chinese_name": "斯法克斯大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Birkbeck University London",
+    "chinese_name": "伦敦大学伯贝克学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Dongguk University",
+    "chinese_name": "东国大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Ewha Womans University",
+    "chinese_name": "梨花女子大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Hasselt University",
+    "chinese_name": "哈瑟尔特大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Huzhou University",
+    "chinese_name": "湖州师范学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Alicante",
+    "chinese_name": "阿利坎特大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Arizona State University--Downtown Phoenix",
+    "chinese_name": "亚利桑那州立大学凤凰城校区",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Khwaja Fareed University of Engineering & Information Technology, Pakistan",
+    "chinese_name": "赫瓦贾·法里德工程与信息技术大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "National University La Plata",
+    "chinese_name": "拉普拉塔国立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Royal College of Surgeons - Ireland",
+    "chinese_name": "爱尔兰皇家外科医学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "King Saud bin Abdulaziz University for Health Sciences",
+    "chinese_name": "沙特国王本·阿卜杜勒阿齐兹健康科学大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Vilnius University",
+    "chinese_name": "维尔纽斯大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "AgroParisTech",
+    "chinese_name": "巴黎高科农业学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Ca' Foscari University of Venice",
+    "chinese_name": "威尼斯大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Future University in Egypt",
+    "chinese_name": "埃及未来大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Kragujevac",
+    "chinese_name": "克拉古耶瓦茨大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Wuppertal",
+    "chinese_name": "伍珀塔尔大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Bucharest University of Economic Studies",
+    "chinese_name": "布加勒斯特经济研究大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Jeonbuk National University",
+    "chinese_name": "全北国立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Shahid Beheshti University Medical Sciences",
+    "chinese_name": "沙希德·贝赫什提医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Free University of Bozen-Bolzano",
+    "chinese_name": "博尔扎诺自由大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Gdansk University of Technology",
+    "chinese_name": "格但斯克工业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "ITMO University",
+    "chinese_name": "ITMO大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Burgundy",
+    "chinese_name": "勃艮第大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Hanoi Medical University",
+    "chinese_name": "河内医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of West England",
+    "chinese_name": "西英格兰大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "International Islamic University, Pakistan",
+    "chinese_name": "巴基斯坦国际伊斯兰大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Suez University",
+    "chinese_name": "苏伊士大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Skolkovo Institute of Science and Technology",
+    "chinese_name": "斯科尔科沃科学技术学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Calabria",
+    "chinese_name": "卡拉布里亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Federal University of Paraná",
+    "chinese_name": "巴拉那联邦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "SRM Institute of Science and Technology",
+    "chinese_name": "SRM科学技术学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "INSEAD Business School",
+    "chinese_name": "欧洲工商管理学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Tomsk State University",
+    "chinese_name": "托木斯克国立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Seoul",
+    "chinese_name": "首尔市立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Wrocław",
+    "chinese_name": "弗罗茨瓦夫大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Babol University of Medical Sciences",
+    "chinese_name": "巴博勒医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Salento",
+    "chinese_name": "萨伦托大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Otto von Guericke University",
+    "chinese_name": "奥托·冯·格里克大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Peter the Great St. Petersburg Polytechnic University",
+    "chinese_name": "圣彼得堡彼得大帝理工大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Aswan University",
+    "chinese_name": "阿斯旺大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Prince Mohammad Bin Fahd University",
+    "chinese_name": "穆罕默德·本·法赫德亲王大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Nizwa",
+    "chinese_name": "尼兹瓦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Braunschweig University of Technology",
+    "chinese_name": "布伦瑞克工业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Novosibirsk State University",
+    "chinese_name": "新西伯利亚国立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidad Costa Rica",
+    "chinese_name": "哥斯达黎加大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Montana",
+    "chinese_name": "蒙大拿大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Poitiers",
+    "chinese_name": "普瓦捷大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Federal University of Sao Carlos",
+    "chinese_name": "圣卡洛斯联邦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Institut d'Etudes Politiques Paris (Sciences Po)",
+    "chinese_name": "巴黎政治学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "JSS Academy of Higher Education & Research",
+    "chinese_name": "JSS高等教育与研究学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Chung Ang University",
+    "chinese_name": "中央大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Bahrain",
+    "chinese_name": "巴林大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Federal University of Pernambuco",
+    "chinese_name": "伯南布哥联邦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Iran University of Medical Sciences",
+    "chinese_name": "伊朗医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Jamia Hamdard University",
+    "chinese_name": "哈姆达德大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Kermanshah University of Medical Sciences",
+    "chinese_name": "克尔曼沙赫医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "National University of Cordoba",
+    "chinese_name": "科尔多瓦国立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Urmia University of Medical Sciences",
+    "chinese_name": "乌尔米耶医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universite de Franche-Comte",
+    "chinese_name": "弗朗什-孔泰大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Okayama University",
+    "chinese_name": "冈山大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Ryerson University",
+    "chinese_name": "瑞尔森大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Oviedo",
+    "chinese_name": "奥维耶多大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Chonnam National University",
+    "chinese_name": "全南大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Fourth Military Medical University",
+    "chinese_name": "中国人民解放军空军军医大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universite de Monastir",
+    "chinese_name": "莫纳斯提尔大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Vienna University of Economics",
+    "chinese_name": "维也纳经济大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Northeast Forestry University - China",
+    "chinese_name": "东北林业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Savoie",
+    "chinese_name": "萨瓦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Mazandaran University Medical Sciences",
+    "chinese_name": "马赞达兰医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Paracelsus Private Medical University",
+    "chinese_name": "帕拉塞尔苏斯私立医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Silesian University of Technology",
+    "chinese_name": "西里西亚工业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Yokohama City University",
+    "chinese_name": "横滨市立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Al-Farabi Kazakh National University",
+    "chinese_name": "哈萨克国立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Eastern Piedmont Amedeo Avogadro",
+    "chinese_name": "东皮埃蒙特大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of South Bohemia Ceske Budejovice",
+    "chinese_name": "南波希米亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Shiraz University",
+    "chinese_name": "设拉子大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Caen",
+    "chinese_name": "卡昂大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Sofia",
+    "chinese_name": "索非亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "SUNY Upstate Medical University",
+    "chinese_name": "纽约州立大学上州医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Isfahan University Medical Science",
+    "chinese_name": "伊斯法罕医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Obuda University",
+    "chinese_name": "布达佩斯城市大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Najran University",
+    "chinese_name": "奈季兰大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Tianjin Polytechnic University",
+    "chinese_name": "天津工业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Transilvania University of Brașov",
+    "chinese_name": "布拉索夫特兰西瓦尼亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Sulimanyah",
+    "chinese_name": "苏莱曼尼亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Nicolaus Copernicus University",
+    "chinese_name": "哥白尼大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Second Military Medical University",
+    "chinese_name": "中国人民解放军海军军医大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Graz University of Technology",
+    "chinese_name": "格拉茨工业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Third Military Medical University",
+    "chinese_name": "中国人民解放军陆军军医大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Wroclaw Medical University",
+    "chinese_name": "弗罗茨瓦夫医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Insubria",
+    "chinese_name": "因苏布里亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Gwangju Institute of Science and Technology",
+    "chinese_name": "光州科学技术院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Shahid Beheshti University Tehran (SBU)",
+    "chinese_name": "沙希德·贝赫什提大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidade Federal do ABC (UFABC)",
+    "chinese_name": "ABC联邦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Mons",
+    "chinese_name": "蒙斯大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Medical University Gdansk",
+    "chinese_name": "格但斯克医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Nagasaki University",
+    "chinese_name": "长崎大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Hradec Kralove",
+    "chinese_name": "赫拉德茨-克拉洛韦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Jeddah",
+    "chinese_name": "吉达大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Warsaw University of Technology",
+    "chinese_name": "华沙工业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Kerman University of Medical Sciences",
+    "chinese_name": "克尔曼医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Pontificia Universidad Catolica de Valparaiso",
+    "chinese_name": "瓦尔帕莱索天主教大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University Campus Bio-Medico - Rome Italy",
+    "chinese_name": "罗马生物医学大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Inha University",
+    "chinese_name": "仁荷大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Magna Graecia University of Catanzaro",
+    "chinese_name": "卡坦扎罗大希腊大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Gachon University",
+    "chinese_name": "嘉泉大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "G d'Annunzio University of Chieti-Pescara",
+    "chinese_name": "基耶蒂-佩斯卡拉邓南遮大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Medical University Warsaw",
+    "chinese_name": "华沙医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Rouen",
+    "chinese_name": "鲁昂大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Alborz University of Medical Sciences",
+    "chinese_name": "阿尔博兹医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Guilan University of Medical Sciences",
+    "chinese_name": "吉兰医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Ibn Tofail University of Kenitra",
+    "chinese_name": "伊本·托法伊勒大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidad Andres Bello",
+    "chinese_name": "安德烈斯·贝略大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of the West Indies",
+    "chinese_name": "西印度群岛大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Air University Islamabad",
+    "chinese_name": "伊斯兰堡空军大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Kazan Federal University",
+    "chinese_name": "喀山联邦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Foggia",
+    "chinese_name": "福贾大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Maynooth University",
+    "chinese_name": "梅努斯大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Catholic University of Korea",
+    "chinese_name": "韩国天主教大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Saarland University",
+    "chinese_name": "萨尔大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidad de La Serena",
+    "chinese_name": "拉塞雷纳大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Damanhour University",
+    "chinese_name": "达曼胡尔大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Kumamoto University",
+    "chinese_name": "熊本大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Wrocław University of Science and Technology",
+    "chinese_name": "弗罗茨瓦夫理工大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Parthenope University Naples",
+    "chinese_name": "那不勒斯帕特诺珀大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Maribor",
+    "chinese_name": "马里博尔大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Marrakech Cadi Ayyad",
+    "chinese_name": "卡迪·阿雅德大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Gorgan University of Agricultural Sciences & Natural Resources",
+    "chinese_name": "戈尔甘农业科学与自然资源大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Niigata University",
+    "chinese_name": "新潟大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Angers",
+    "chinese_name": "昂热大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Picardie-Jules-Verne",
+    "chinese_name": "皮卡第儒勒·凡尔纳大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Teesside",
+    "chinese_name": "提赛德大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Salzburg University",
+    "chinese_name": "萨尔茨堡大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universite Paul-Valery Montpellier 3",
+    "chinese_name": "蒙彼利埃第三大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Birjand University of Medical Sciences",
+    "chinese_name": "比尔詹德医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Jahangirnagar University",
+    "chinese_name": "贾汉吉尔纳加尔大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Konkuk University",
+    "chinese_name": "建国大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Medical University Lodz",
+    "chinese_name": "罗兹医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidad de Tarapaca",
+    "chinese_name": "塔拉帕卡大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universite de Brest",
+    "chinese_name": "布雷斯特大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Chungnam National University",
+    "chinese_name": "忠南大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Tokai University",
+    "chinese_name": "东海大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of L'Aquila",
+    "chinese_name": "拉奎拉大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Semnan University of Medical Sciences",
+    "chinese_name": "塞姆南医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Shandong First Medical University and Shandong Academy of Medical Sciences",
+    "chinese_name": "山东第一医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Damietta University",
+    "chinese_name": "达米埃塔大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "National University of Science and Technology MISIS",
+    "chinese_name": "国立科技大学MISIS",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Ajou University",
+    "chinese_name": "亚洲大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Medical University Sofia",
+    "chinese_name": "索非亚医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Shaqra University",
+    "chinese_name": "沙克拉大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Basilicata",
+    "chinese_name": "巴西利卡塔大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Pirogov Russian National Research Medical University",
+    "chinese_name": "皮罗戈夫俄罗斯国立研究医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universiti Malaysia Pahang",
+    "chinese_name": "马来西亚彭亨大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of London Royal Veterinary College",
+    "chinese_name": "伦敦大学皇家兽医学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Sassari",
+    "chinese_name": "萨萨里大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Istinye University",
+    "chinese_name": "伊斯坦耶大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidad Autónoma de Chile",
+    "chinese_name": "智利自治大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "West University of Timisoara",
+    "chinese_name": "蒂米什瓦拉西部大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Applied Science University - Jordan",
+    "chinese_name": "约旦应用科学大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "King Mongkuts University of Technology Thonburi",
+    "chinese_name": "吞武里国王科技大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Rio de Janeiro State University",
+    "chinese_name": "里约热内卢州立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "National Institute for Applied Sciences - Lyon",
+    "chinese_name": "里昂国立应用科学学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "TOBB Ekonomi ve Teknoloji University",
+    "chinese_name": "TOBB经济与技术大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidad Europea",
+    "chinese_name": "欧洲大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Babol Noshirvani University of Technology",
+    "chinese_name": "巴博勒努希尔瓦尼理工大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Bangladesh Agricultural University (BAU)",
+    "chinese_name": "孟加拉国农业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Cyprus University of Technology",
+    "chinese_name": "塞浦路斯理工大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "K. N. Toosi University of Technology",
+    "chinese_name": "KN图西理工大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Islamic University of Al Madinah",
+    "chinese_name": "麦地那伊斯兰大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Postgraduate Institute of Medical Education and Research (PGIMER)--Chandigarh",
+    "chinese_name": "昌迪加尔医学教育与研究研究生院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidad Tecnica Federico Santa Maria",
+    "chinese_name": "费德里科·圣玛丽亚技术大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Kanazawa University",
+    "chinese_name": "金泽大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Osaka Metropolitan University",
+    "chinese_name": "大阪公立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Alexandru Ioan Cuza University",
+    "chinese_name": "亚历山德鲁·伊万·库扎大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Orleans",
+    "chinese_name": "奥尔良大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Uttaranchal University",
+    "chinese_name": "北阿坎德大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidade Federal de Juiz de Fora",
+    "chinese_name": "茹伊斯迪福拉联邦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Binghamton University--SUNY",
+    "chinese_name": "宾汉姆顿大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Technical University of Ostrava",
+    "chinese_name": "俄斯特拉发技术大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Gdansk",
+    "chinese_name": "格但斯克大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Sarajevo",
+    "chinese_name": "萨拉热窝大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Graphic Era University",
+    "chinese_name": "图形时代大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Xuzhou Medical College",
+    "chinese_name": "徐州医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Democritus University of Thrace",
+    "chinese_name": "色雷斯德谟克利特大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Camerino",
+    "chinese_name": "卡梅里诺大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Arab Academy for Science, Technology and Maritime Transport",
+    "chinese_name": "阿拉伯科技与海运学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Tokyo Metropolitan University",
+    "chinese_name": "东京都立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Sadat City",
+    "chinese_name": "萨达特城市大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Indian Institute of Science Education and Research - Pune",
+    "chinese_name": "印度科学教育与研究学院浦那分校",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidade Federal de Uberlandia",
+    "chinese_name": "乌贝兰迪亚联邦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Shinshu University",
+    "chinese_name": "信州大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Thapar University",
+    "chinese_name": "塔帕尔大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidad Austral de Chile",
+    "chinese_name": "智利南方大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Zurich University of Applied Sciences",
+    "chinese_name": "苏黎世应用科学大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Beira Interior",
+    "chinese_name": "贝拉内大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Neuchatel",
+    "chinese_name": "纳沙泰尔大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Bisha",
+    "chinese_name": "比沙大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Zambia",
+    "chinese_name": "赞比亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Chungbuk National University",
+    "chinese_name": "忠北大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Mohammed First University of Oujda",
+    "chinese_name": "穆罕默德一世大学乌季达分校",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Tokyo University of Science",
+    "chinese_name": "东京理科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Lodz",
+    "chinese_name": "罗兹大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Ahvaz Jundishapur University of Medical Sciences",
+    "chinese_name": "阿瓦兹朱迪沙普尔医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Golestan University of Medical Sciences",
+    "chinese_name": "戈勒斯坦医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Hamburg University of Technology",
+    "chinese_name": "汉堡工业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Hochiminh City University of Medicine & Pharmacy",
+    "chinese_name": "胡志明市医药大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "National Polytechnic Institute",
+    "chinese_name": "国立理工学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Nelson Mandela Metropolitan University",
+    "chinese_name": "纳尔逊·曼德拉都市大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "SUNY Downstate Health Sciences University",
+    "chinese_name": "纽约州立大学下州健康科学大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Bialystok",
+    "chinese_name": "比亚韦斯托克大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Paris Nord - Paris XIII",
+    "chinese_name": "巴黎第十三大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "GLA University",
+    "chinese_name": "GLA大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Jawaharlal Institute of Postgraduate Medical Education & Research",
+    "chinese_name": "贾瓦哈拉尔研究生医学教育与研究学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Notre Dame Australia",
+    "chinese_name": "澳大利亚圣母大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Al-Balqa Applied University",
+    "chinese_name": "巴尔卡应用大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Kinki University (Kindai University)",
+    "chinese_name": "近畿大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Ibn Zohr University of Agadir",
+    "chinese_name": "伊本·佐尔大学阿加迪尔分校",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Ontario Tech University",
+    "chinese_name": "安大略理工大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Sidi Mohamed Ben Abdellah University of Fez",
+    "chinese_name": "西迪·穆罕默德·本·阿卜杜拉大学非斯分校",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Polytechnic Institute of Porto",
+    "chinese_name": "波尔图理工学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Gyeongsang National University",
+    "chinese_name": "庆尚国立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Slovak University of Agriculture Nitra",
+    "chinese_name": "斯洛伐克农业大学尼特拉分校",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Veterinary & Animal Science - Pakistan",
+    "chinese_name": "巴基斯坦兽医与动物科学大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidad del Rosario",
+    "chinese_name": "罗萨里奥大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Francois Rabelais - Tours",
+    "chinese_name": "弗朗索瓦-拉伯雷大学图尔分校",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Limoges",
+    "chinese_name": "利摩日大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Tokyo Medical University",
+    "chinese_name": "东京医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidad de La Frontera",
+    "chinese_name": "拉弗龙特拉大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "SUNY College of Environmental Science",
+    "chinese_name": "纽约州立大学环境科学与林业学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Medicine & Pharmacy of Craiova",
+    "chinese_name": "克拉约瓦医药大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Al-Mustaqbal University College",
+    "chinese_name": "穆斯塔克巴尔大学学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "American University of the Middle East",
+    "chinese_name": "中东美国大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Kangwon National University",
+    "chinese_name": "江原大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Metropolitan Autonomous University",
+    "chinese_name": "墨西哥自治都市大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidad Catolica del Norte",
+    "chinese_name": "北方天主教大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Warsaw University of Life Sciences",
+    "chinese_name": "华沙生命科学大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Federal University of Vicosa",
+    "chinese_name": "维索萨联邦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Ozyegin University",
+    "chinese_name": "奥兹耶金大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Yuan Ze University",
+    "chinese_name": "元智大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Northern Border University",
+    "chinese_name": "北部边境大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Pukyong National University",
+    "chinese_name": "釜庆大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Science and Technology",
+    "chinese_name": "科学技术联合大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Tuscia University",
+    "chinese_name": "图西亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Abdelmalek Essaadi University of Tetouan",
+    "chinese_name": "阿卜杜勒马利克·埃萨迪大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Namur",
+    "chinese_name": "那慕尔大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Rijeka",
+    "chinese_name": "里耶卡大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Institut National Polytechnique de Toulouse",
+    "chinese_name": "图卢兹国立理工学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Technology - Iraq",
+    "chinese_name": "伊拉克理工大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Urbino",
+    "chinese_name": "乌尔比诺大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Veterinary Medicine Vienna",
+    "chinese_name": "维也纳兽医大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Tokyo University of Agriculture & Technology",
+    "chinese_name": "东京农工大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Daegu Gyeongbuk Institute of Science and Technology",
+    "chinese_name": "大邱庆北科学技术院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Belarusian State University",
+    "chinese_name": "白俄罗斯国立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Ecole de Technologie Superieure - Canada",
+    "chinese_name": "蒙特利尔高等技术学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Suleyman Demirel University",
+    "chinese_name": "苏莱曼德米雷尔大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University Cheikh Anta Diop Dakar",
+    "chinese_name": "达喀尔谢赫·安塔·迪奥普大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Hamadan University of Medical Sciences",
+    "chinese_name": "哈马丹医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Pomeranian Medical University",
+    "chinese_name": "波美拉尼亚医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Ecole nationale superieure de chimie de Montpellier",
+    "chinese_name": "蒙彼利埃国立高等化学学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Escuela Politecnica Nacional Ecuador",
+    "chinese_name": "厄瓜多尔国立理工学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Riga Stradins University",
+    "chinese_name": "里加斯特拉金什大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Babylon",
+    "chinese_name": "巴比伦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Saints Cyril and Methodius University of Skopje",
+    "chinese_name": "斯科普里圣西里尔和迪乌斯大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "William & Mary",
+    "chinese_name": "威廉与玛丽学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Kwangwoon University",
+    "chinese_name": "光云大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Bauman Moscow State Technical University",
+    "chinese_name": "鲍曼莫斯科国立技术大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Bingol University",
+    "chinese_name": "宾格尔大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Indian Statistical Institute Kolkata",
+    "chinese_name": "印度统计学院加尔各答分校",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Istanbul Medeniyet University",
+    "chinese_name": "伊斯坦布尔梅德尼耶特大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Sogang University",
+    "chinese_name": "西江大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Al Baha University",
+    "chinese_name": "巴哈大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Goldsmiths University London",
+    "chinese_name": "伦敦大学金史密斯学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Tibet University",
+    "chinese_name": "西藏大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Agricultural University of Athens",
+    "chinese_name": "雅典农业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Ehime University",
+    "chinese_name": "爱媛大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Institute Technology of Bandung",
+    "chinese_name": "万隆理工学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Louisiana State University Health Sciences Center",
+    "chinese_name": "路易斯安那州立大学健康科学中心",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Nara Institute of Science",
+    "chinese_name": "奈良先端科学技术大学院大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Sanjay Gandhi Postgraduate Institute of Medical Sciences",
+    "chinese_name": "桑贾伊·甘地医学研究生院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Gifu University",
+    "chinese_name": "岐阜大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "International Hellenic University",
+    "chinese_name": "国际希腊大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Opole University of Technology",
+    "chinese_name": "奥波莱工业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Rikkyo University",
+    "chinese_name": "立教大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Ritsumeikan University",
+    "chinese_name": "立命馆大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Abomey Calavi",
+    "chinese_name": "阿波美卡拉维大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Biruni University",
+    "chinese_name": "比鲁尼大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Florida A&M University",
+    "chinese_name": "佛罗里达农工大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Iuliu Hatieganu University of Medicine and Pharmacy",
+    "chinese_name": "尤利乌·哈采加努医药大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Open University of the Netherlands",
+    "chinese_name": "荷兰开放大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidade Federal da Paraiba",
+    "chinese_name": "帕拉伊巴联邦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Agricultural Sciences & Veterinary Medicine Cluj Napoca",
+    "chinese_name": "克卢日-纳波卡农业与兽医大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Maragheh",
+    "chinese_name": "马拉盖大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Guangxi Minzu University",
+    "chinese_name": "广西民族大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Poznan University of Technology",
+    "chinese_name": "波兹南工业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Siirt University",
+    "chinese_name": "锡尔特大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Cassino",
+    "chinese_name": "卡西诺大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of London School Oriental and African Studies (SOAS)",
+    "chinese_name": "伦敦大学亚非学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Silesia",
+    "chinese_name": "西里西亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Izmir Yuksek Teknoloji Enstitusu",
+    "chinese_name": "伊兹密尔高等技术学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Seoul National University of Science and Technology",
+    "chinese_name": "首尔科学技术大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Baqiyatallah University of Medical Sciences (BMSU)",
+    "chinese_name": "巴吉亚特阿拉医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Shahid Chamran University of Ahvaz",
+    "chinese_name": "沙希德·查姆兰大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidad de Antofagasta",
+    "chinese_name": "安托法加斯塔大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidad de Talca",
+    "chinese_name": "塔尔卡大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidade Federal do Para",
+    "chinese_name": "帕拉联邦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of West Bohemia Pilsen",
+    "chinese_name": "西波希米亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "National Kaohsiung University of Science and Technology",
+    "chinese_name": "国立高雄科技大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universitat Oberta de Catalunya",
+    "chinese_name": "加泰罗尼亚开放大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Karadeniz Technical University",
+    "chinese_name": "卡拉德尼兹技术大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Kyushu Institute of Technology",
+    "chinese_name": "九州工业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Robert Gordon University",
+    "chinese_name": "罗伯特戈登大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Koblenz and Landau",
+    "chinese_name": "科布伦茨-兰道大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Brandenburg University of Technology Cottbus",
+    "chinese_name": "勃兰登堡工业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Jeju National University",
+    "chinese_name": "济州国立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Al-Ayen University",
+    "chinese_name": "阿尔艾因大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Karpagam Academy of Higher Education (KAHE)",
+    "chinese_name": "卡尔帕加姆高等教育学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "South Central University for Nationalities",
+    "chinese_name": "中南民族大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Technical University of Cluj Napoca",
+    "chinese_name": "克卢日-纳波卡技术大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Showa University",
+    "chinese_name": "昭和大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidad de los Andes - Chile",
+    "chinese_name": "智利洛斯安第斯大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidade Federal de Lavras",
+    "chinese_name": "拉夫拉斯联邦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidad Nacional de Educacion a Distancia (UNED)",
+    "chinese_name": "西班牙国立远程教育大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Malawi",
+    "chinese_name": "马拉维大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Bogor Agricultural University",
+    "chinese_name": "茂物农业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Bundeswehr University Munich",
+    "chinese_name": "慕尼黑联邦国防军大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Medical University Silesia",
+    "chinese_name": "西里西亚医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universite de Gabes",
+    "chinese_name": "加贝斯大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Craiova",
+    "chinese_name": "克拉约瓦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Van Lang University",
+    "chinese_name": "文朗大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "George Emil Palade University of Medicine, Pharmacy, Science, & Technology of Targu Mures",
+    "chinese_name": "乔治·埃米尔·帕拉德医药科学大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Japan Advanced Institute of Science and Technology",
+    "chinese_name": "北陆先端科学技术大学院大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Sefako Makgatho Health Sciences University",
+    "chinese_name": "塞法科·马克加托健康科学大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Siberian Federal University",
+    "chinese_name": "西伯利亚联邦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Jain University",
+    "chinese_name": "耆那大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidade Federal de Sergipe",
+    "chinese_name": "塞尔希培联邦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Fujita Health University",
+    "chinese_name": "藤田医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Karamanoglu Mehmetbey University",
+    "chinese_name": "卡拉马诺格卢·穆罕默德贝伊大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Szent Istvan University",
+    "chinese_name": "圣伊什特万大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Lodz University of Technology",
+    "chinese_name": "罗兹工业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Bartin University",
+    "chinese_name": "巴尔滕大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Electro-Communications - Japan",
+    "chinese_name": "电气通信大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Jammu",
+    "chinese_name": "查谟大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Puerto Rico--Mayaguez",
+    "chinese_name": "波多黎各大学马亚圭斯分校",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Ryukyus",
+    "chinese_name": "琉球大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Yasouj University",
+    "chinese_name": "亚苏季大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Technical University Freiberg",
+    "chinese_name": "弗赖贝格工业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Ostrava",
+    "chinese_name": "俄斯特拉发大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Tras-os-Montes and Alto Douro",
+    "chinese_name": "特拉兹奥斯蒙蒂斯和上杜罗大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Witten Herdecke University",
+    "chinese_name": "维滕/赫德克大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Hellenic Open University",
+    "chinese_name": "希腊开放大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Jacobs University",
+    "chinese_name": "雅各布大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Nihon University",
+    "chinese_name": "日本大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Southwest Forestry University - China",
+    "chinese_name": "西南林业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Huaiyin Institute of Technology",
+    "chinese_name": "淮阴工学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Incheon National University",
+    "chinese_name": "仁川国立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidad del Norte Colombia",
+    "chinese_name": "哥伦比亚北方大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Pavol Jozef Safarik Kosice",
+    "chinese_name": "帕沃尔·约瑟夫·沙法里克大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Moulay Ismail University of Meknes",
+    "chinese_name": "穆莱伊斯梅尔大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Binzhou Medical University",
+    "chinese_name": "滨州医学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Diponegoro University",
+    "chinese_name": "迪波内戈罗大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Technical University Kosice",
+    "chinese_name": "科希策技术大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Toyama",
+    "chinese_name": "富山大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Arid Agriculture University",
+    "chinese_name": "干旱农业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "CUNY--Hunter College",
+    "chinese_name": "纽约市立大学亨特学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Kagawa University",
+    "chinese_name": "香川大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Tokushima University",
+    "chinese_name": "德岛大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Warmia",
+    "chinese_name": "瓦尔米亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Zielona Gora",
+    "chinese_name": "绿山大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Cracow University of Technology",
+    "chinese_name": "克拉科夫工业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Kagoshima University",
+    "chinese_name": "鹿儿岛大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidade Federal de Mato Grosso do Sul",
+    "chinese_name": "南马托格罗索联邦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Kyoto Prefectural University of Medicine",
+    "chinese_name": "京都府立医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Muhimbili University of Health and Allied Sciences",
+    "chinese_name": "穆希比利健康与联合科学大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidad Mayor",
+    "chinese_name": "马约尔大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University Nacional Cuyo Mendoza",
+    "chinese_name": "库约国立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Occupational and Environmental Health - Japan",
+    "chinese_name": "产业医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "SRM University-AP",
+    "chinese_name": "SRM大学安得拉邦分校",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universite de Valenciennes et du Hainaut-Cambresis",
+    "chinese_name": "瓦朗谢讷与埃诺-康布雷西大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Jikei University",
+    "chinese_name": "慈惠大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Agriculture in Krakow",
+    "chinese_name": "克拉科夫农业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Quebec Trois Rivieres",
+    "chinese_name": "魁北克大学三河城分校",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Lorestan University",
+    "chinese_name": "洛雷斯坦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Maharshi Dayanand University",
+    "chinese_name": "马哈希·达亚南德大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Pandit Deendayal Energy University",
+    "chinese_name": "潘迪特迪恩达亚尔能源大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Yazd",
+    "chinese_name": "亚兹德大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "National University of Rosario",
+    "chinese_name": "国立罗萨里奥大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Yamagata University",
+    "chinese_name": "山形大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Yokohama National University",
+    "chinese_name": "横滨国立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Far Eastern Federal University",
+    "chinese_name": "远东联邦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Nagoya City University",
+    "chinese_name": "名古屋市立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Kaiserslautern",
+    "chinese_name": "凯泽斯劳滕大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Duzce University",
+    "chinese_name": "迪兹杰大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "L.N. Gumilyov Eurasian National University",
+    "chinese_name": "古米廖夫欧亚国立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of West Attica",
+    "chinese_name": "西阿提卡大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Maria Curie-Sklodowska University",
+    "chinese_name": "玛丽亚·居里-斯克沃多夫斯卡大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "National Taiwan Ocean University",
+    "chinese_name": "国立台湾海洋大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "San Pablo CEU University",
+    "chinese_name": "圣帕布洛CEU大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Southern Federal University",
+    "chinese_name": "南方联邦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universite Abou Bekr Belkaid",
+    "chinese_name": "阿布贝克尔贝尔卡伊德大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universite de Haute-Alsace (UHA)",
+    "chinese_name": "上阿尔萨斯大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Tokyo Women's Medical University",
+    "chinese_name": "东京女子医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Saga University",
+    "chinese_name": "佐贺大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Dow University of Health Sciences",
+    "chinese_name": "道健康科学大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Kurume University",
+    "chinese_name": "久留米大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Chemistry and Technology, Prague",
+    "chinese_name": "布拉格化工大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Hirosaki University",
+    "chinese_name": "弘前大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Oradea",
+    "chinese_name": "奥拉迪亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Hafr Albatin University",
+    "chinese_name": "哈费尔巴廷大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Medical University of Bialystok",
+    "chinese_name": "比亚韦斯托克医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Ming Chi University of Technology",
+    "chinese_name": "明志科技大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Dankook University",
+    "chinese_name": "檀国大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Veterinary Medicine Hannover, Foundation",
+    "chinese_name": "汉诺威兽医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of JJ Strossmayer Osijek",
+    "chinese_name": "约瑟普·尤拉伊·斯特罗斯迈耶奥西耶克大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "VetAgro Sup",
+    "chinese_name": "兽医农学高等学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Recep Tayyip Erdogan University",
+    "chinese_name": "雷杰普·塔伊普·埃尔多安大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universita Mediterranea di Reggio Calabria",
+    "chinese_name": "雷焦卡拉布里亚地中海大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Almaarefa University",
+    "chinese_name": "阿尔马雷法大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Ecole Nationale Veterinaire d'Alfort",
+    "chinese_name": "阿尔福国立兽医学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Fukuoka University",
+    "chinese_name": "福冈大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Leoben",
+    "chinese_name": "莱奥本大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "GIK Institute Engineering Science & Technology",
+    "chinese_name": "GIK工程科学与技术学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Harran University",
+    "chinese_name": "哈兰大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Lobachevsky State University Nizhni Novgorod",
+    "chinese_name": "罗巴切夫斯基下诺夫哥罗德国立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Deusto",
+    "chinese_name": "德乌斯托大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Lucian Blaga University of Sibiu",
+    "chinese_name": "锡比乌卢奇安·布拉加大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "National Institute of Technology Patna",
+    "chinese_name": "巴特那国立理工学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Soongsil University",
+    "chinese_name": "崇实大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Jean Monnet University",
+    "chinese_name": "让·莫内大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Medical University of Lublin",
+    "chinese_name": "卢布林医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "National University of Mar del Plata",
+    "chinese_name": "马德普拉塔国立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Northwest Normal University - China",
+    "chinese_name": "西北师范大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidade Estadual de Londrina",
+    "chinese_name": "隆德里纳州立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Technology of Compiegne",
+    "chinese_name": "贡比涅技术大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "NITTE (Deemed to be University)",
+    "chinese_name": "尼特大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Semnan University",
+    "chinese_name": "塞姆南大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Visva Bharati University",
+    "chinese_name": "维斯瓦·巴拉蒂大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Xinxiang Medical University",
+    "chinese_name": "新乡医学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Toho University",
+    "chinese_name": "东邦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Birla Institute of Technology Mesra",
+    "chinese_name": "梅斯拉比尔拉理工学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "SSN College of Engineering",
+    "chinese_name": "SSN工程学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Chaoyang University of Technology",
+    "chinese_name": "朝阳科技大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Hallym University",
+    "chinese_name": "翰林大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Inje University",
+    "chinese_name": "仁济大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Keimyung University",
+    "chinese_name": "启明大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Tokyo University of Marine Science & Technology",
+    "chinese_name": "东京海洋大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Bozok University",
+    "chinese_name": "博佐克大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Jichi Medical University",
+    "chinese_name": "自治医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Siksha 'O' Anusandhan University",
+    "chinese_name": "教育与研究大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Kashmir",
+    "chinese_name": "克什米尔大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Gunma University",
+    "chinese_name": "群马大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Louisiana State University Health Sciences Center--Shreveport",
+    "chinese_name": "路易斯安那州立大学健康科学中心什里夫波特分校",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Wrocław University of Environmental and Life Sciences",
+    "chinese_name": "弗罗茨瓦夫环境与生命科学大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidade Federal de Mato Grosso",
+    "chinese_name": "马托格罗索联邦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Dunarea De Jos University Galati",
+    "chinese_name": "加拉茨下多瑙河大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Sinop University",
+    "chinese_name": "锡诺普大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Molise",
+    "chinese_name": "莫利塞大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Changshu Institute of Technology",
+    "chinese_name": "常熟理工学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Cumhuriyet University",
+    "chinese_name": "共和大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Shahid Sadoughi University of Medical Sciences",
+    "chinese_name": "沙希德·萨杜吉医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidad Catolica de Murcia",
+    "chinese_name": "穆尔西亚天主教大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Gaziantep University",
+    "chinese_name": "加济安泰普大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Nagoya Institute of Technology",
+    "chinese_name": "名古屋工业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Nippon Medical School",
+    "chinese_name": "日本医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Bergamo",
+    "chinese_name": "贝加莫大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Victor Babes University of Medicine and Pharmacy, Timisoara",
+    "chinese_name": "蒂米什瓦拉维克托·巴贝什医药大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Nagaoka University of Technology",
+    "chinese_name": "长冈技术科学大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Tomas Bata University Zlin",
+    "chinese_name": "兹林托马斯·巴塔大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Puerto Rico--Medical Sciences Campus",
+    "chinese_name": "波多黎各大学医学科学校区",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Institute of Chemical Technology - Mumbai",
+    "chinese_name": "孟买化学技术学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Institut National des Sciences Appliquées de Toulouse",
+    "chinese_name": "图卢兹国立应用科学学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Pochon Cha University",
+    "chinese_name": "浦项车大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Islamic University College",
+    "chinese_name": "伊斯兰大学学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Rzeszow",
+    "chinese_name": "热舒夫大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Brawijaya University",
+    "chinese_name": "布拉维贾亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Kafkas University",
+    "chinese_name": "卡夫卡斯大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Lusofona University",
+    "chinese_name": "卢索福纳大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Polytechnic University of Timisoara",
+    "chinese_name": "蒂米什瓦拉理工大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Wakayama Medical University",
+    "chinese_name": "和歌山县立医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Kitasato University",
+    "chinese_name": "北里大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Sathyabama Institute of Science & Technology",
+    "chinese_name": "萨蒂亚巴马科学技术学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidade Federal de Sao Joao del-Rei",
+    "chinese_name": "圣若昂德尔雷伊联邦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Shimane University",
+    "chinese_name": "岛根大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Chosun University",
+    "chinese_name": "朝鲜大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Erzincan Binali Yildirim University",
+    "chinese_name": "埃尔津詹比纳利耶尔德勒姆大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Kastamonu University",
+    "chinese_name": "卡斯塔莫努大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidade Federal do Maranhao",
+    "chinese_name": "马拉尼昂联邦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidad Nacional del Comahue",
+    "chinese_name": "科马韦国立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universite de Bejaia",
+    "chinese_name": "贝贾亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "National Institute of Technology Karnataka",
+    "chinese_name": "卡纳塔克国家技术学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Kookmin University",
+    "chinese_name": "国民大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidad Catolica del Maule",
+    "chinese_name": "马乌莱天主教大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidad de Sonora",
+    "chinese_name": "索诺拉大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Chouaib Doukkali University of El Jadida",
+    "chinese_name": "杰迪代舒艾卜·杜卡利大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Acibadem University",
+    "chinese_name": "阿奇巴德姆大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Kunsan National University",
+    "chinese_name": "群山国立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Persian Gulf University",
+    "chinese_name": "波斯湾大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Sookmyung Women's University",
+    "chinese_name": "淑明女子大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Yildirim Beyazit University",
+    "chinese_name": "耶尔德勒姆贝亚泽特大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Hamamatsu University School of Medicine",
+    "chinese_name": "滨松医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Saint Marianna University",
+    "chinese_name": "圣玛丽安娜医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Adiyaman University",
+    "chinese_name": "阿德亚曼大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Razi University",
+    "chinese_name": "拉齐大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Saint Marys University - Canada",
+    "chinese_name": "圣玛丽大学（加拿大）",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Central School of Lyon",
+    "chinese_name": "里昂中央理工学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Kansai Medical University",
+    "chinese_name": "关西医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Primorska",
+    "chinese_name": "普里莫尔斯卡大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Babasaheb Bhimrao Ambedkar University",
+    "chinese_name": "巴巴萨海布·比姆拉奥·安贝德卡尔大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidade Federal de Amazonas",
+    "chinese_name": "亚马孙联邦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Aichi Medical University",
+    "chinese_name": "爱知医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Centre of Postgraduate Medical Education",
+    "chinese_name": "医学研究生教育中心",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Gandhi Institute of Technology & Management (GITAM)",
+    "chinese_name": "甘地技术与管理学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidad Catolica de la Santisima Concepcion",
+    "chinese_name": "天主教圣康塞普西翁大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Saratov State University",
+    "chinese_name": "萨拉托夫国立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Wannan Medical College",
+    "chinese_name": "皖南医学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Amrita Vishwa Vidyapeetham Coimbatore",
+    "chinese_name": "阿姆里塔大学哥印拜陀校区",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Can Tho University",
+    "chinese_name": "芹苴大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "West Pomeranian University of Technology",
+    "chinese_name": "西波美拉尼亚理工大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Kyorin University",
+    "chinese_name": "杏林大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Lublin University of Technology",
+    "chinese_name": "卢布林理工大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "TU Clausthal",
+    "chinese_name": "克劳斯塔尔工业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Gaziosmanpasa University",
+    "chinese_name": "加齐奥斯曼帕夏大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "National University of the Littoral",
+    "chinese_name": "滨海国立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "National University of the South",
+    "chinese_name": "南方国立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Sultan Moulay Slimane University of Beni Mellal",
+    "chinese_name": "苏丹穆莱·斯利曼大学贝尼迈拉勒校区",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidade Federal do Piaui",
+    "chinese_name": "皮奥伊联邦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Evora",
+    "chinese_name": "埃武拉大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Kumoh National University Technology",
+    "chinese_name": "金乌国立理工大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Yamanashi",
+    "chinese_name": "山梨大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Chung Shan Medical University",
+    "chinese_name": "中山医学大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Giresun University",
+    "chinese_name": "吉雷松大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Soonchunhyang University",
+    "chinese_name": "顺天乡大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Tyumen State University",
+    "chinese_name": "秋明国立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Jiangxi University of Traditional Chinese Medicine",
+    "chinese_name": "江西中医药大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Shahid Rajaee Teacher Training University (SRTTU)",
+    "chinese_name": "沙希德·拉贾伊师范大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Danang",
+    "chinese_name": "岘港大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "German Sport University Cologne",
+    "chinese_name": "科隆德国体育大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Ho Chi Minh City University of Technology (HCMCUT)",
+    "chinese_name": "胡志明市理工大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Teramo",
+    "chinese_name": "泰拉莫大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Manipal University Jaipur",
+    "chinese_name": "马尼帕尔大学斋浦尔校区",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidad San Sebastian",
+    "chinese_name": "圣塞巴斯蒂安大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Vel Tech Rangarajan Dr Sagunthala R&D Institute of Science & Technology",
+    "chinese_name": "维尔技术大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Canakkale Onsekiz Mart University",
+    "chinese_name": "恰纳卡莱三月十八日大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Shizuoka University",
+    "chinese_name": "静冈大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Tottori University",
+    "chinese_name": "鸟取大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Grigore T Popa University of Medicine and Pharmacy",
+    "chinese_name": "格奥尔基·波帕医药大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Kwansei Gakuin University",
+    "chinese_name": "关西学院大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Meiji University",
+    "chinese_name": "明治大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "I Shou University",
+    "chinese_name": "义守大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Saitama Medical University",
+    "chinese_name": "埼玉医科大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Teikyo University",
+    "chinese_name": "帝京大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Tokyo University of Agriculture",
+    "chinese_name": "东京农业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Basrah",
+    "chinese_name": "巴士拉大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Yamaguchi University",
+    "chinese_name": "山口大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Celal Bayar University",
+    "chinese_name": "杰拉勒·巴亚尔大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Izmir Katip Celebi University",
+    "chinese_name": "伊兹密尔卡蒂普切莱比大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Mahatma Gandhi University, Kerala",
+    "chinese_name": "圣雄甘地大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universite du Maine",
+    "chinese_name": "勒芒大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Pau and Pays Adour",
+    "chinese_name": "波城大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Szczecin",
+    "chinese_name": "什切青大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Dong A University",
+    "chinese_name": "东亚大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Agricultural University Lublin",
+    "chinese_name": "卢布林农业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "GH Asachi Technical University",
+    "chinese_name": "格奥尔基·阿萨基技术大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "King Mongkuts Institute of Technology Ladkrabang",
+    "chinese_name": "拉卡邦先皇技术学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Konya Technical University",
+    "chinese_name": "科尼亚技术大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidad Nacional de Tucuman",
+    "chinese_name": "图库曼国立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Kalyani University",
+    "chinese_name": "卡利亚尼大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Netaji Subhas University of Technology",
+    "chinese_name": "内塔吉·苏巴斯技术大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Saitama University",
+    "chinese_name": "埼玉大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Shibaura Institute of Technology",
+    "chinese_name": "芝浦工业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "University of Quebec Chicoutimi",
+    "chinese_name": "魁北克大学希库蒂米分校",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Comillas Pontifical University",
+    "chinese_name": "科米利亚斯主教大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Mie University",
+    "chinese_name": "三重大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "National Defense Medical University",
+    "chinese_name": "国防医学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Industrial University of Ho Chi Minh City",
+    "chinese_name": "胡志明市工业大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Punjabi University",
+    "chinese_name": "旁遮普大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidade Federal do Triângulo Mineiro",
+    "chinese_name": "米内罗三角联邦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Ecole Nationale Veterinaire de Toulouse",
+    "chinese_name": "图卢兹国立兽医学院",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Kangnung Wonju National University",
+    "chinese_name": "江陵原州国立大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Universidade Federal de Ouro Preto",
+    "chinese_name": "欧鲁普雷图联邦大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Baskent University",
+    "chinese_name": "巴什肯特大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Hankuk University Foreign Studies",
+    "chinese_name": "韩国外国语大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "National Chin-Yi University of Technology",
+    "chinese_name": "国立勤益科技大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "SVKM's NMIMS (Deemed to be University)",
+    "chinese_name": "NMIMS大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Inonu University",
+    "chinese_name": "伊诺努大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Lucknow University",
+    "chinese_name": "勒克瑙大学",
+    "source": "DeepSeek deepseek-chat"
+  },
+  {
+    "english_name": "Nigde Omer Halisdemir University",
+    "chinese_name": "尼代奥梅尔哈利斯代米尔大学",
+    "source": "DeepSeek deepseek-chat"
+  }
+]

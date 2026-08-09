@@ -268,7 +268,15 @@ def build_domestic() -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
     return head_rows, non_head_rows
 
 
-def build_international() -> tuple[list[dict[str, Any]], dict[str, int]]:
+def load_greater_china_names() -> list[dict[str, str]]:
+    path = DATA / "international/greater_china/港澳台院校中英文对照.csv"
+    with path.open(encoding="utf-8-sig", newline="") as source:
+        return list(csv.DictReader(source))
+
+
+def build_international() -> tuple[
+    list[dict[str, Any]], list[dict[str, Any]], dict[str, int]
+]:
     cscse = load_json(
         DATA / "international/cscse/中国留服认证院校名单.json"
     )["schools"]
@@ -277,6 +285,9 @@ def build_international() -> tuple[list[dict[str, Any]], dict[str, int]]:
     )["universities"]
     qs = load_json(DATA / "rankings/qs/2027_QS世界大学排名.json")["records"]
     shanghai = load_json(DATA / "china/shanghairanking/全部高校.json")
+    greater_china = load_greater_china_names()
+    generated_path = DATA / "international/generated/DeepSeek补充中文名.json"
+    generated_names = load_json(generated_path) if generated_path.exists() else []
 
     world_rows = [
         {"name": row["name"], "country": row["country"]} for row in usnews
@@ -288,6 +299,7 @@ def build_international() -> tuple[list[dict[str, Any]], dict[str, int]]:
     entities: list[dict[str, Any]] = [
         {
             "chinese_name": school.get("chinese_name") or "",
+            "cscse_chinese_name": school.get("chinese_name") or "",
             "display_name": school.get("english_name") or school.get("chinese_name") or "",
             "names": [school.get("english_name") or ""],
             "country": cscse_country_map.get(
@@ -318,6 +330,7 @@ def build_international() -> tuple[list[dict[str, Any]], dict[str, int]]:
             entities.append(
                 {
                     "chinese_name": "",
+                    "cscse_chinese_name": "",
                     "display_name": row["name"],
                     "names": [row["name"]],
                     "country": country,
@@ -356,6 +369,7 @@ def build_international() -> tuple[list[dict[str, Any]], dict[str, int]]:
             entities.append(
                 {
                     "chinese_name": "",
+                    "cscse_chinese_name": "",
                     "display_name": row["institution_name"],
                     "names": [row["institution_name"]],
                     "country": country,
@@ -377,15 +391,72 @@ def build_international() -> tuple[list[dict[str, Any]], dict[str, int]]:
             entity["has_qs"] = True
             add_names_to_index(exact_index, index, [row["institution_name"]])
 
-    # ShanghaiRanking supplies Chinese names for exact English-name matches.
-    exact_index = rebuild_index(entities)
+    # Rebuild head-table Chinese names from explicit English-name matches only.
+    region_country = {"香港": "hong kong", "澳门": "macau", "台湾": "taiwan"}
+    manual_index: dict[tuple[str, str], str] = {}
+    for school in greater_china:
+        aliases = [school["外文名"]]
+        aliases.extend(
+            alias.strip() for alias in school.get("英文别名", "").split("|") if alias.strip()
+        )
+        for alias in aliases:
+            manual_index[(region_country[school["地区"]], normalize_name(alias))] = school["中文名"]
+
+    generated_index = {
+        normalize_name(row.get("english_name")): row.get("chinese_name") or ""
+        for row in generated_names
+        if row.get("english_name") and row.get("chinese_name")
+    }
+    shanghai_index: dict[str, str] = {}
     for university in shanghai:
         english_name = university.get("nameEn") or ""
-        candidates = exact_index.get(normalize_name(english_name), [])
-        if english_name and len(candidates) == 1:
-            entity = entities[candidates[0]]
-            entity["chinese_name"] = university.get("nameCn") or entity["chinese_name"]
-            stats["shanghai_exact"] += 1
+        chinese_name = university.get("nameCn") or ""
+        if english_name and chinese_name:
+            shanghai_index.setdefault(normalize_name(english_name), chinese_name)
+    pending: list[dict[str, Any]] = []
+    used_head_chinese_names: set[str] = set()
+    for entity in entities:
+        if entity["us_rank"] is None:
+            continue
+        entity["chinese_name"] = ""
+        manual_name = next(
+            (
+                manual_index[(entity["country"], normalize_name(name))]
+                for name in entity["names"]
+                if (entity["country"], normalize_name(name)) in manual_index
+            ),
+            "",
+        )
+        if manual_name:
+            entity["chinese_name"] = manual_name
+            stats["head_chinese_greater_china"] += 1
+        elif entity["country"] == "china" and normalize_name(entity["display_name"]) in shanghai_index:
+            entity["chinese_name"] = shanghai_index[normalize_name(entity["display_name"])]
+            stats["head_chinese_shanghai"] += 1
+        elif entity["cscse_chinese_name"]:
+            entity["chinese_name"] = entity["cscse_chinese_name"]
+            stats["head_chinese_cscse"] += 1
+        else:
+            generated_name = generated_index.get(normalize_name(entity["display_name"]), "")
+            if generated_name:
+                entity["chinese_name"] = generated_name
+                stats["head_chinese_deepseek"] += 1
+            else:
+                pending.append(
+                    {
+                        "english_name": entity["display_name"],
+                        "country": entity["country"],
+                        "usnews_rank": entity["us_rank"],
+                    }
+                )
+        if entity["chinese_name"]:
+            used_head_chinese_names.add(re.sub(r"\s+", "", entity["chinese_name"]))
+
+    pending_path = DATA / "international/generated/DeepSeek待补中文名.json"
+    pending_path.parent.mkdir(parents=True, exist_ok=True)
+    pending_path.write_text(
+        json.dumps(pending, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
 
     def sort_key(entity: dict[str, Any]) -> tuple[Any, ...]:
         name = normalize_name(entity["display_name"])
@@ -396,7 +467,7 @@ def build_international() -> tuple[list[dict[str, Any]], dict[str, int]]:
         return (2, name)
 
     entities.sort(key=sort_key)
-    rows = [
+    head_rows = [
         {
             "中文名": entity["chinese_name"],
             "外文名": entity["display_name"],
@@ -404,13 +475,37 @@ def build_international() -> tuple[list[dict[str, Any]], dict[str, int]]:
             "QS": entity["qs_rank"],
         }
         for entity in entities
+        if entity["us_rank"] is not None
     ]
-    stats["final_rows"] = len(rows)
-    stats["chinese_names"] = sum(bool(row["中文名"]) for row in rows)
-    stats["missing_chinese_names"] = len(rows) - stats["chinese_names"]
-    stats["us_ranked"] = sum(row["USNEWS"] != "" for row in rows)
-    stats["qs_ranked"] = sum(row["QS"] != "" for row in rows)
-    return rows, dict(stats)
+
+    qs_by_cscse_chinese: dict[str, str] = {}
+    for entity in entities:
+        chinese_name = re.sub(r"\s+", "", entity["cscse_chinese_name"])
+        if chinese_name and entity["qs_rank"]:
+            qs_by_cscse_chinese.setdefault(chinese_name, entity["qs_rank"])
+    non_head_rows: list[dict[str, Any]] = []
+    seen_chinese_names: set[str] = set()
+    for school in cscse:
+        chinese_key = re.sub(r"\s+", "", school.get("chinese_name") or "")
+        if not chinese_key or chinese_key in used_head_chinese_names or chinese_key in seen_chinese_names:
+            continue
+        seen_chinese_names.add(chinese_key)
+        non_head_rows.append(
+            {
+                "中文名": school.get("chinese_name") or "",
+                "外文名": school.get("english_name") or "",
+                "QS": qs_by_cscse_chinese.get(chinese_key, ""),
+            }
+        )
+    non_head_rows.sort(key=lambda row: normalize_name(row["外文名"]))
+
+    stats["head_rows"] = len(head_rows)
+    stats["head_chinese_names"] = sum(bool(row["中文名"]) for row in head_rows)
+    stats["head_missing_chinese_names"] = len(pending)
+    stats["non_head_rows"] = len(non_head_rows)
+    stats["qs_ranked_head"] = sum(row["QS"] != "" for row in head_rows)
+    stats["qs_ranked_non_head"] = sum(row["QS"] != "" for row in non_head_rows)
+    return head_rows, non_head_rows, dict(stats)
 
 
 def write_csv(path: Path, rows: list[dict[str, Any]]) -> None:
@@ -425,14 +520,7 @@ def write_csv(path: Path, rows: list[dict[str, Any]]) -> None:
 
 def main() -> None:
     domestic_head, domestic_non_head = build_domestic()
-    international, stats = build_international()
-    international_head = [row for row in international if row["USNEWS"] != ""]
-    international_non_head = [
-        {"中文名": row["中文名"], "外文名": row["外文名"], "QS": row["QS"]}
-        for row in international
-        if row["USNEWS"] == ""
-    ]
-    international_non_head.sort(key=lambda row: normalize_name(row["外文名"]))
+    international_head, international_non_head, stats = build_international()
     write_csv(MASTER / "国内头部大学汇总.csv", domestic_head)
     write_csv(MASTER / "国内非头部大学汇总.csv", domestic_non_head)
     write_csv(MASTER / "国外头部大学汇总.csv", international_head)
@@ -454,9 +542,11 @@ def main() -> None:
             **stats,
         },
         "note": (
-            "Missing Chinese names are not automatically errors: the CSCSE snapshot can omit "
-            "some ranking entries, campus-level entities, and institutions represented under "
-            "different official names. Unmatched records are retained rather than assigned a guessed name."
+            "Head-table Chinese names are rebuilt in priority order from the Greater China "
+            "mapping, ShanghaiRanking, CSCSE English-name matches, and saved DeepSeek results. "
+            "The non-head table contains CSCSE records whose normalized Chinese names are not "
+            "used by the head table. Same Chinese names can still identify distinct institutions "
+            "in different countries, so head rows remain keyed by their English ranking entities."
         ),
     }
     (MASTER / "国外大学排名匹配审计.json").write_text(

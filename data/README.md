@@ -16,7 +16,8 @@ data/
 │   ├── moe/                        # 教育部普通、成人高校名单及原始 XLS
 │   └── shanghairanking/            # 软科全部院校、分类 JSON、CSV、元数据
 ├── international/
-│   └── cscse/                      # 中国留服认证院校查询快照
+│   ├── cscse/                      # 中国留服认证院校查询快照
+│   └── greater_china/              # 港澳台院校中英文对照
 └── rankings/
     ├── qs/                         # 2027 QS 排名及原始 XLSX
     └── usnews/                     # 2026-2027 US News 排名
@@ -60,21 +61,21 @@ data/
 - `USNEWS`
 - `QS`
 
-该表只包含带 US News 名次的院校，按名次升序，同名次保持 US News 页面顺序，并补充 QS 名次和中文名。
+该表只包含带 US News 名次的院校，按名次升序，同名次保持 US News 页面顺序，并补充 QS 名次。中文名先清空后重新匹配，优先级为港澳台人工对照、软科中国院校库、中留服英文名匹配、DeepSeek 补充。
 
 ### 国外非头部大学汇总
 
-`master/国外非头部大学汇总.csv` 共 7,143 行，字段为：
+`master/国外非头部大学汇总.csv` 共 6,171 行，字段为：
 
 - `中文名`
 - `外文名`
 - `QS`
 
-该表包含 US News 收录但未给出名次的院校，以及仅在 QS 或中国留服中出现的院校，按规范化外文名排序。两张国外表合计 9,393 行，其中 1,504 行带 QS 名次、8,017 行带中文名。
+该表以中国留服名单为基准，按中文名排除已经出现在国外头部表中的院校，再按规范化外文名排序。两张国外表合计 8,421 行，全部带中文名；头部表 1,011 行带 QS 名次，非头部表 148 行带 QS 名次。
 
-匹配方式和无中文名统计见 `master/国外大学排名匹配审计.json`。无中文名不一定表示漏抓，可能是中留服快照未收录、排名使用了校区名称或两边正式名称不同。
+匹配统计见 `master/国外大学排名匹配审计.json`。DeepSeek 处理前的未匹配记录和生成结果分别保存在 `international/generated/DeepSeek待补中文名.json` 与 `international/generated/DeepSeek补充中文名.json`；最终待补文件为空，模型补充结果共 883 行。模型生成名称不是权威数据源，涉及正式业务决策时仍应人工抽查。
 
-合并时保留全部来源记录，包括中国大陆学校。中文名优先采用中国留服；中国大陆院校在英文名精确一致时由软科补充中文名。排名区间如 `601-650`、`1401+` 保持源值，不转换成虚构的单一名次。
+头部表保留 US News 的全部有名次记录，包括中国大陆学校。中文名优先采用港澳台对照；中国大陆院校以软科英文名精确匹配；其余院校再匹配中国留服。排名区间如 `601-650`、`1401+` 保持源值，不转换成虚构的单一名次。
 
 名称匹配依次使用规范化精确匹配、国家一致的高置信模糊匹配和保守的歧义拦截。同名但国家、校区或方向词不同的记录不会仅因字符串相似而合并。
 
@@ -98,6 +99,15 @@ data/
 - 当前快照：7,574 所，抓取时间见 `international/cscse/中国留服认证院校名单.metadata.json`
 
 查询结果用于院校名称和认证业务检索，不代表对院校质量的排名或永久认证承诺。应保留 `review_note` 等源站审查提示。
+
+### 港澳台院校中英文对照
+
+- 香港：香港教育局“专上院校”页面，https://www.edb.gov.hk/tc/edu-system/postsecondary/local-higher-edu/institutions/index.html
+- 澳门：澳门特别行政区政府实体名录“高等教育”分类，https://www.bo.dsaj.gov.mo/cn/entities/priv/cat/tertiary
+- 台湾：uniRank 台湾院校 A-Z 名录，https://www.unirank.org/tw/a-z/
+- 整理结果：`international/greater_china/港澳台院校中英文对照.csv`
+
+当前整理结果共 64 所，其中香港 22 所、澳门 10 所、台湾 32 所。香港和澳门来源为当地政府网站；台湾来源为第三方院校目录，不等同于台湾教育主管部门的官方完整名单。表内 `英文别名` 用于处理冠词、省略词、Macau/Macao 拼写及排名网站常见简称，不替代来源中的正式外文名。
 
 ### 软科
 
@@ -134,6 +144,8 @@ python3 scripts/extract_xls.py data/china/moe/sources/中国成人高校名单.x
 node scripts/fetch_cscse_schools.mjs
 node scripts/fetch_shanghairanking_universities.js
 python3 scripts/convert_qs_ranking.py
+python3 scripts/build_university_summaries.py
+DEEPSEEK_API_KEY=... python3 scripts/fill_chinese_names_with_deepseek.py
 python3 scripts/build_university_summaries.py
 ```
 
