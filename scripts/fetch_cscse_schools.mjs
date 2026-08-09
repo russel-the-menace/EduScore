@@ -15,7 +15,7 @@ const PAGE_SIZE = 1000;
 const REQUEST_DELAY_MS = 120;
 const SOURCE_URL = "https://yxcx.cscse.edu.cn/rzyxmd2";
 const API_URL = "https://yxcx.cscse.edu.cn/api/xlxwrzz/xlxwrz/getUniversityListOrPage";
-const outputDirectory = resolve(process.argv[2] ?? "./data");
+const outputDirectory = resolve(process.argv[2] ?? "./data/international/cscse");
 const execFileAsync = promisify(execFile);
 
 function delay(milliseconds) {

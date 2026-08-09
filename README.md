@@ -1,48 +1,18 @@
-# EduScore
+# 中国及世界大学汇总
 
-EduScore 是面向 HR 的候选人学历数据与可解释评分项目。当前仓库先建立可追溯的院校基础数据，后续评分规则见 `docs/学历评分方案.md`。
+本项目汇总中国大陆、海外及港澳台院校的中外文名称、国内院校标签和世界大学排名，为院校检索、名称标准化和数据分析提供可复现的基础数据。
 
-## 数据集
+## 最终文件
 
-| 数据集 | 记录数 | 格式 |
-| --- | ---: | --- |
-| 中国普通高校名单 | 2,952 | CSV、JSON、原始 XLS |
-| 中国成人高校名单 | 244 | CSV、JSON、原始 XLS |
-| 中国留服认证院校名单 | 7,574 | CSV、JSON、JSONL |
-| 2027 QS 世界大学排名 | 1,504 | CSV、JSON、原始 XLSX |
-| 2026-2027 US News 世界大学排名 | 2,604 | CSV、JSON |
-| 软科中国院校库 | 2,971 | CSV、分类 JSON、元数据 |
+- `data/master/国内大学排名.csv`：2,971 所国内院校。前 590 所按软科院校库顺序排列并保留软科排名，之后的院校不计排名，按中文名拼音顺序排列；同时标注 985、211、双一流。
+- `data/master/国外大学排名.csv`：共 9,401 行，合并 US News、QS 和中国留服院校查询结果。以 US News 名次排序，补充 QS 名次和中留服中文名；未出现在 US News 的 QS/中留服院校置于后段按外文名排序。该文件按来源完整收录，不排除中国大陆学校。
 
-CSV 文件使用 UTF-8 with BOM；学校标识码等标识字段按字符串保存，避免科学计数法和精度损失。
+项目还保留各来源的原始或规范化数据，以及生成最终文件的脚本。完整目录、数据来源、版本和重建方式见 `data/README.md`。
 
-## 官方数据源
-
-- 中国留学服务中心“认证院校查询”：https://yxcx.cscse.edu.cn/rzyxmd2
-- 中华人民共和国教育部“全国高等学校名单”（2026-06-18）：http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/202606/t20260618_1441074.html
-- U.S. News “Best Global Universities Rankings”：https://www.usnews.com/education/best-global-universities/rankings
-- QS “World University Rankings”：https://www.topuniversities.com/world-university-rankings
-- 软科“中国院校库”：https://www.shanghairanking.cn/institution?name=&c=0&r=0&l=0&e=0
-
-教育部页面说明，截至 2026 年 6 月 17 日，全国高等学校共 3,196 所，其中普通高校 2,952 所、成人高校 244 所；本仓库保留页面附件原始文件并提供规范化版本。
-
-当前中国留服快照抓取于 2026-08-09。查询结果是认证业务的院校查询信息，不等同于对院校质量的排名或永久认证承诺。数据可能更新，使用时应记录抓取时间，并保留 `review_note` 等审查提示。
-
-QS 数据来自仓库内提供的原始工作簿。原文件明确提示仅供参考，决策时应与 QS 网站及对应排名说明交叉核对；在 HR 评分中不应把综合排名作为唯一或决定性依据。
-
-US News 当前快照包含 2,604 所大学，其中 2,250 所有排名、354 所未排名，抓取时间记录在 JSON 元数据中。该排名同样只应作为可配置的辅助信号，不应替代中留服查询、学历真实性验证、专业相关性和候选人的实际能力评价。
-
-软科院校库当前快照包含 2,971 所院校，并按源站标签导出双一流、985、211、合作办学、民办高校和独立学院等分类。分类标签适合作为可解释特征，但应保留数据版本，避免把历史政策标签等同于当前办学质量。
-
-## 重新生成
+## 生成
 
 ```bash
-python3 scripts/extract_xls.py data/sources/中国普通高校名单.xls data 中国普通高校名单
-python3 scripts/extract_xls.py data/sources/中国成人高校名单.xls data 中国成人高校名单
-node scripts/fetch_cscse_schools.mjs data
-python3 scripts/convert_qs_ranking.py
-node scripts/fetch_shanghairanking_universities.js
+python3 scripts/build_university_summaries.py
 ```
 
-`extract_xls.py` 在 macOS 上通过 Microsoft Excel 只读提取旧版 `.xls`。QS 转换仅使用 Python 标准库读取 `.xlsx` 内部 XML。
-
-US News 抓取脚本需在上述排名页面的浏览器开发者工具 Console 中运行；页面数据加载完成后，脚本会下载 CSV 和 JSON 快照。
+脚本仅自动合并国家一致且名称高度可信的学校。无法可靠判断的相似名称会保留为独立记录，避免误合并同名或近似名称的不同院校。

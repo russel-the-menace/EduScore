@@ -9,7 +9,7 @@ const vm = require("vm");
 const PAGE_URL =
   "https://www.shanghairanking.cn/institution?name=&c=0&r=0&l=0&e=0";
 const OUTPUT_DIR = path.resolve(
-  process.argv[2] || path.join(__dirname, "..", "data", "软科院校库")
+  process.argv[2] || path.join(__dirname, "..", "data", "china", "shanghairanking")
 );
 
 const categories = [

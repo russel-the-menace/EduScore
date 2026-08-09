@@ -139,9 +139,9 @@ def main() -> None:
         "source",
         type=Path,
         nargs="?",
-        default=Path("data/sources/2027_QS世界大学排名原始数据.xlsx"),
+        default=Path("data/rankings/qs/sources/2027_QS世界大学排名原始数据.xlsx"),
     )
-    parser.add_argument("--output-dir", type=Path, default=Path("data"))
+    parser.add_argument("--output-dir", type=Path, default=Path("data/rankings/qs"))
     args = parser.parse_args()
 
     records = convert(args.source)
