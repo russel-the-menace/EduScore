@@ -17,6 +17,7 @@ from typing import Any
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 MASTER = DATA / "master"
+AUDIT = DATA / "audit"
 STOP_WORDS = {"the", "of", "in", "at", "van"}
 DIRECTION_WORDS = {
     "north", "south", "east", "west", "central", "northern", "southern",
@@ -597,7 +598,7 @@ def build_international() -> tuple[
                 "candidate_count": len(candidates),
             }
         )
-    qs_audit_path = MASTER / "QS中文名回填审计.json"
+    qs_audit_path = AUDIT / "QS中文名回填审计.json"
     qs_audit_path.parent.mkdir(parents=True, exist_ok=True)
     qs_audit_path.write_text(
         json.dumps(qs_match_audit, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
@@ -708,7 +709,8 @@ def main() -> None:
             "in different countries, so head rows remain keyed by their English ranking entities."
         ),
     }
-    (MASTER / "国外大学排名匹配审计.json").write_text(
+    AUDIT.mkdir(parents=True, exist_ok=True)
+    (AUDIT / "国外大学排名匹配审计.json").write_text(
         json.dumps(audit, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
     print(

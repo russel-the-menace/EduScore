@@ -6,12 +6,14 @@
 
 ```text
 data/
-├── master/                         # 最终交付文件
+├── master/                         # 核心交付文件，仅 CSV
 │   ├── 国内头部大学汇总.csv
 │   ├── 国内非头部大学汇总.csv
 │   ├── 国外头部大学汇总.csv
-│   ├── 国外非头部大学汇总.csv
-│   └── 国外大学排名匹配审计.json
+│   └── 国外非头部大学汇总.csv
+├── audit/                          # 匹配过程与结果审计
+│   ├── 国外大学排名匹配审计.json
+│   └── QS中文名回填审计.json
 ├── china/
 │   ├── moe/                        # 教育部普通、成人高校名单及原始 XLS
 │   └── shanghairanking/            # 软科全部院校、分类 JSON、CSV、元数据
@@ -73,9 +75,9 @@ data/
 
 该表以中国留服名单为基准，按中文名排除已经出现在国外头部表中的院校，再按规范化外文名排序。两张国外表合计 8,421 行，全部带中文名；头部表 1,194 行带 QS 名次，非头部表 125 行带 QS 名次。
 
-匹配统计见 `master/国外大学排名匹配审计.json`。DeepSeek 处理前的未匹配记录和生成结果分别保存在 `international/generated/DeepSeek待补中文名.json` 与 `international/generated/DeepSeek补充中文名.json`；最终待补文件为空，模型补充结果共 883 行。
+匹配统计见 `audit/国外大学排名匹配审计.json`。DeepSeek 处理前的未匹配记录和生成结果分别保存在 `international/generated/DeepSeek待补中文名.json` 与 `international/generated/DeepSeek补充中文名.json`；最终待补文件为空，模型补充结果共 883 行。
 
-QS 二次回填的 493 条中文名保存在 `international/generated/DeepSeek_QS补充中文名.json`，逐条结果见 `master/QS中文名回填审计.json`：其中 183 条回填头部表，306 条未找到安全对应项，4 条经人工确认属于不同学校或校区后排除。人工修正和排除规则保存在 `international/greater_china/QS院校中文名人工修正.csv` 与 `international/greater_china/QS错误匹配排除.csv`。模型生成名称不是权威数据源，涉及正式业务决策时仍应人工抽查。
+QS 二次回填的 493 条中文名保存在 `international/generated/DeepSeek_QS补充中文名.json`，逐条结果见 `audit/QS中文名回填审计.json`：其中 183 条回填头部表，306 条未找到安全对应项，4 条经人工确认属于不同学校或校区后排除。人工修正和排除规则保存在 `international/greater_china/QS院校中文名人工修正.csv` 与 `international/greater_china/QS错误匹配排除.csv`。模型生成名称不是权威数据源，涉及正式业务决策时仍应人工抽查。
 
 头部表保留 US News 的全部有名次记录，包括中国大陆学校。中文名优先采用港澳台对照；中国大陆院校以软科英文名精确匹配；其余院校再匹配中国留服。排名区间如 `601-650`、`1401+` 保持源值，不转换成虚构的单一名次。
 
