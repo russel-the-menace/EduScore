@@ -14,6 +14,7 @@ from zipfile import ZipFile
 
 
 NAMESPACE = {"m": "http://schemas.openxmlformats.org/spreadsheetml/2006/main"}
+SOURCE_URL = "https://www.topuniversities.com/world-university-rankings"
 SOURCE_HEADERS = [
     "Index", "Rank", "Previous Rank", "Name", "Country/Territory", "Region",
     "Size", "Focus", "Research", "Status", "AR SCORE", "AR RANK", "ER SCORE",
@@ -120,6 +121,8 @@ def write_outputs(source: Path, output_dir: Path, records: list[dict[str, object
 
     payload = {
         "name": "2027 QS World University Rankings",
+        "publisher": "QS Quacquarelli Symonds",
+        "source_url": SOURCE_URL,
         "source_file": source.name,
         "record_count": len(records),
         "fields": FIELDS,

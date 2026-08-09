@@ -1,0 +1,41 @@
+{
+  "publisher": "软科（ShanghaiRanking）",
+  "source_url": "https://www.shanghairanking.cn/institution?name=&c=0&r=0&l=0&e=0",
+  "payload_url": "https://www.shanghairanking.cn/_nuxt/static/1785119786/institution/payload.js",
+  "exported_at": "2026-08-09T04:32:09.251Z",
+  "counts": {
+    "全部高校": 2971,
+    "双一流高校": 147,
+    "985高校": 39,
+    "211高校": 115,
+    "合作高校": 16,
+    "民办高校": 679,
+    "独立学院": 148
+  },
+  "files": {
+    "全部高校.json": {
+      "sha256": "25c9e009c45abfa63338c293c8b51fdb62d0ddb9f8f78d83768f426e83147f63"
+    },
+    "双一流高校.json": {
+      "sha256": "b1d4c263bcd06772f870ae9bba26ad304ac96420d054e5515a1a7e1ef23a1dd5"
+    },
+    "985高校.json": {
+      "sha256": "69ba4267e2c9050dd7cb5d1339dd5ef1ccf5d369424d46031c60dc52b3f7804e"
+    },
+    "211高校.json": {
+      "sha256": "7b1cd5dab49e36d1c611b77d4f7b954e7a6ad94aec353640e61e6ff9f8ae96f0"
+    },
+    "合作高校.json": {
+      "sha256": "c8b897f74224a9c9ac8e5104480d6ab226c65716610e681315922d74fd4fab6a"
+    },
+    "民办高校.json": {
+      "sha256": "92bbbc2a0e59c67d7a0b8c356e9d14a7cc6f5e2ea0db632dc39edabba78f38b9"
+    },
+    "独立学院.json": {
+      "sha256": "91db12038741ea6131888a59bc2cc42cad026c82990d161bbf7730a0a0740b45"
+    },
+    "软科全部高校.csv": {
+      "sha256": "8805e351c723d9a82c888a367ea3d87bce8f01a91e72542e6a7f3c5db0a0f53d"
+    }
+  }
+}

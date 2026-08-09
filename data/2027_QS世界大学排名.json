@@ -1,5 +1,7 @@
 {
   "name": "2027 QS World University Rankings",
+  "publisher": "QS Quacquarelli Symonds",
+  "source_url": "https://www.topuniversities.com/world-university-rankings",
   "source_file": "2027_QS世界大学排名原始数据.xlsx",
   "record_count": 1504,
   "fields": [

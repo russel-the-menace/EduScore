@@ -1,0 +1,4738 @@
+[
+  {
+    "up": "clinic-medical-college-of-anhui-medical-university",
+    "univCode": "RC01073",
+    "nameCn": "安徽医科大学临床医学院",
+    "nameEn": "Clinic Medical College of Anhui Medical University",
+    "logo": "logo-jpg/3003442800.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "安徽",
+    "cityName": "合肥市",
+    "categoryName": "医药",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "医药"
+    ]
+  },
+  {
+    "up": "beijing-hospitality-institute",
+    "univCode": "RC00964",
+    "nameCn": "北京第二外国语学院中瑞酒店管理学院",
+    "nameEn": "Beijing Hospitality Institute",
+    "logo": "logo-jpg/1452969700.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "北京",
+    "cityName": "北京市",
+    "categoryName": "语言",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "语言"
+    ]
+  },
+  {
+    "up": "gengdan-institute-of-beijing-university-of-technology",
+    "univCode": "RC00963",
+    "nameCn": "北京工业大学耿丹学院",
+    "nameEn": "Gengdan Institute of Beijing University of Technology",
+    "logo": "logo-jpg/6941880800.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "北京",
+    "cityName": "北京市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "bei-jing-hang-kong-hang-tian-da-xue-bei-hai-xue-yuan",
+    "univCode": "RC01185",
+    "nameCn": "北京航空航天大学北海学院",
+    "nameEn": "Beihai College of Beihang University",
+    "logo": "logo/99525593.png",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "广西",
+    "cityName": "北海市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "tianjin-college-university-of-science-and-technology-beijing",
+    "univCode": "RC00970",
+    "nameCn": "北京科技大学天津学院",
+    "nameEn": "Tianjin college, University of Science and Technology Beijing",
+    "logo": "logo-jpg/6546011100.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "天津",
+    "cityName": "天津市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "beijing-institute-of-technology-zhuhai",
+    "univCode": "RC01165",
+    "nameCn": "北京理工大学珠海学院",
+    "nameEn": "Beijing Institute of Technology, Zhuhai",
+    "logo": "logo-jpg/9568355400.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "广东",
+    "cityName": "珠海市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "beijing-normal-university-zhuhai",
+    "univCode": "RC01161",
+    "nameCn": "北京师范大学珠海分校",
+    "nameEn": "Beijing Normal University, Zhuhai",
+    "logo": "logo-jpg/3525393800.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "广东",
+    "cityName": "珠海市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "century-college-beijing-university-of-posts-and-telecommunications",
+    "univCode": "RC00962",
+    "nameCn": "北京邮电大学世纪学院",
+    "nameEn": "Century College, Beijing University of Posts and Telecommunications",
+    "logo": "logo-jpg/9685827400.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "北京",
+    "cityName": "北京市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "beijing-university-of-chinese-medicine-dongfang-college",
+    "univCode": "RC00990",
+    "nameCn": "北京中医药大学东方学院",
+    "nameEn": "Beijing University of Chinese Medicine Dongfang College",
+    "logo": "logo-jpg/2863249000.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "河北",
+    "cityName": "廊坊市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "changan-university-xinghua-college",
+    "univCode": "RC01227",
+    "nameCn": "长安大学兴华学院",
+    "nameEn": "Chang'an University Xinghua College",
+    "logo": "logo-jpg/1688299200.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "陕西",
+    "cityName": "西安市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "the-tourism-college-of-changchun-university",
+    "univCode": "RC01018",
+    "nameCn": "长春大学旅游学院",
+    "nameEn": "The Tourism College of Changchun University",
+    "logo": "logo-jpg/3021998600.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "吉林",
+    "cityName": "长春市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "college-of-humanities-and-information-changchun-university-of-technology",
+    "univCode": "RC01014",
+    "nameCn": "长春工业大学人文信息学院",
+    "nameEn": "College of Humanities & Information Changchun University of Technology",
+    "logo": "logo-jpg/9284009600.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "吉林",
+    "cityName": "长春市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "yangtze-university-college-of-arts-and-sciences",
+    "univCode": "RC01141",
+    "nameCn": "长江大学文理学院",
+    "nameEn": "Yangtze University College of Arts and Sciences",
+    "logo": "logo-jpg/6915491800.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "湖北",
+    "cityName": "荆州市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "chengnan-college-changsha-university-of-science-and-technology",
+    "univCode": "RC01150",
+    "nameCn": "长沙理工大学城南学院",
+    "nameEn": "Chengnan College, Changsha University of Science & Technology",
+    "logo": "logo-jpg/3014995600.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "湖南",
+    "cityName": "长沙市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "changzhou-university-huaide-college",
+    "univCode": "RC01045",
+    "nameCn": "常州大学怀德学院",
+    "nameEn": "Changzhou University Huaide College",
+    "logo": "logo-jpg/7967632000.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "江苏",
+    "cityName": "泰州市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "the-engineering-and-technical-college-of-chengdu-university-of-technology",
+    "univCode": "RC01192",
+    "nameCn": "成都理工大学工程技术学院",
+    "nameEn": "The Engineering & Technical College of Chengdu University of Technology",
+    "logo": "logo-jpg/8165840000.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "四川",
+    "cityName": "乐山市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "pass-college-of-chongqing-technology-and-business-university",
+    "univCode": "RC01189",
+    "nameCn": "重庆工商大学派斯学院",
+    "nameEn": "Pass College of Chongqing Technology & Business University",
+    "logo": "logo-jpg/2755291900.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "重庆",
+    "cityName": "重庆市",
+    "categoryName": "财经",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "财经"
+    ]
+  },
+  {
+    "up": "college-of-arts-information-engineering-dalian-polytechnic-university",
+    "univCode": "RC01004",
+    "nameCn": "大连工业大学艺术与信息工程学院",
+    "nameEn": "College of Arts & Information Engineering, Dalian Polytechnic University",
+    "logo": "logo-jpg/4317357300.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "辽宁",
+    "cityName": "大连市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "city-institute-dalian-university-of-technology",
+    "univCode": "RC01002",
+    "nameCn": "大连理工大学城市学院",
+    "nameEn": "City Institute, Dalian University of Technology",
+    "logo": "logo-jpg/4064222500.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "辽宁",
+    "cityName": "大连市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "zhongshan-college-of-dalian-medical-university",
+    "univCode": "RC01010",
+    "nameCn": "大连医科大学中山学院",
+    "nameEn": "Zhongshan College of Dalian Medical University",
+    "logo": "logo-jpg/7464102600.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "辽宁",
+    "cityName": "大连市",
+    "categoryName": "医药",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "医药"
+    ]
+  },
+  {
+    "up": "chengdu-college-of-university-of-electronic-science-and-technology-of-china",
+    "univCode": "RC01196",
+    "nameCn": "电子科技大学成都学院",
+    "nameEn": "Chengdu college Of University Of Electronic Science And Technology of china",
+    "logo": "logo-jpg/8687523200.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "四川",
+    "cityName": "成都市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "university-of-electronic-science-and-technology-of-china-zhongshan-institute",
+    "univCode": "RC01162",
+    "nameCn": "电子科技大学中山学院",
+    "nameEn": "University of Electronic Science and Technology of China, Zhongshan Institute",
+    "logo": "logo-jpg/9575847700.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "广东",
+    "cityName": "中山市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "southeast-university-chengxian-college",
+    "univCode": "RC01023",
+    "nameCn": "东南大学成贤学院",
+    "nameEn": "Southeast University Chengxian College",
+    "logo": "logo-jpg/7506902700.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "江苏",
+    "cityName": "南京市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "jinshan-college-of-fujian-agriculture-and-forestry-university",
+    "univCode": "RC01089",
+    "nameCn": "福建农林大学金山学院",
+    "nameEn": "Jinshan College of Fujian Agriculture and Forestry University",
+    "logo": "logo-jpg/7401000300.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "福建",
+    "cityName": "福州市",
+    "categoryName": "农业",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "农业"
+    ]
+  },
+  {
+    "up": "concord-university-college-fujian-normal-university",
+    "univCode": "RC01083",
+    "nameCn": "福建师范大学协和学院",
+    "nameEn": "Concord University College Fujian Normal University",
+    "logo": "logo-jpg/1064567100.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "福建",
+    "cityName": "福州市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "fuzhou-university-zhicheng-college",
+    "univCode": "RC01088",
+    "nameCn": "福州大学至诚学院",
+    "nameEn": "Fuzhou University Zhicheng College",
+    "logo": "logo-jpg/2257360900.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "福建",
+    "cityName": "福州市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "science-and-technology-college-gannan-normal-university",
+    "univCode": "RC01099",
+    "nameCn": "赣南师范大学科技学院",
+    "nameEn": "Science and Technology College Gannan Normal University",
+    "logo": "logo-jpg/6539199200.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "江西",
+    "cityName": "赣州市",
+    "categoryName": "师范",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "师范"
+    ]
+  },
+  {
+    "up": "south-china-business-college-guangdong-university-of-foreign-studies",
+    "univCode": "RC01176",
+    "nameCn": "广东外语外贸大学南国商学院",
+    "nameEn": "South China Business College Guangdong University of Foreign Studies",
+    "logo": "logo-jpg/8782379700.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "广东",
+    "cityName": "广州市",
+    "categoryName": "财经",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "财经"
+    ]
+  },
+  {
+    "up": "xiangsihu-college-guangxi-university-for-nationalities",
+    "univCode": "RC01182",
+    "nameCn": "广西民族大学相思湖学院",
+    "nameEn": "Xiangsihu College of GuangXi Minzu University",
+    "logo": "logo-jpg/6974866700.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "广西",
+    "cityName": "南宁市",
+    "categoryName": "民族",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "民族"
+    ]
+  },
+  {
+    "up": "faculty-of-chinese-medicine-science-guangxi-university-of-chinese-medicine",
+    "univCode": "RC01184",
+    "nameCn": "广西中医药大学赛恩斯新医药学院",
+    "nameEn": "Faculty of Chinese Medicine Science Guangxi university of Chinese medicine",
+    "logo": "logo-jpg/7953465300.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "广西",
+    "cityName": "南宁市",
+    "categoryName": "医药",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "医药"
+    ]
+  },
+  {
+    "up": "shenqi-ethnic-medicine-college-of-guizhou-medical-university",
+    "univCode": "RC01209",
+    "nameCn": "贵州医科大学神奇民族医药学院",
+    "nameEn": "ShenQi Ethnic Medicine College of Guizhou Medical University",
+    "logo": "logo-jpg/1970170200.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "贵州",
+    "cityName": "贵阳市",
+    "categoryName": "医药",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "医药"
+    ]
+  },
+  {
+    "up": "shizhen-college-of-guizhou-university-of-traditional-chinese-medicine",
+    "univCode": "RC01206",
+    "nameCn": "贵州中医药大学时珍学院",
+    "nameEn": "Shizhen College of Guizhou University of Traditional Chinese Medicine",
+    "logo": "logo-jpg/9943550300.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "贵州",
+    "cityName": "贵阳市",
+    "categoryName": "医药",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "医药"
+    ]
+  },
+  {
+    "up": "hangzhou-dianzi-university-information-engineering-school",
+    "univCode": "RC01053",
+    "nameCn": "杭州电子科技大学信息工程学院",
+    "nameEn": "Hangzhou Dianzi University Information Engineering School",
+    "logo": "logo-jpg/8027725000.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "浙江",
+    "cityName": "杭州市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "hangzhou-normal-university-qianjiang-college",
+    "univCode": "RC01059",
+    "nameCn": "杭州师范大学钱江学院",
+    "nameEn": "Hangzhou Normal University Qianjiang College",
+    "logo": "logo-jpg/9275234800.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "浙江",
+    "cityName": "杭州市",
+    "categoryName": "师范",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "师范"
+    ]
+  },
+  {
+    "up": "industrial-and-commercial-college-hebei-university",
+    "univCode": "RC00979",
+    "nameCn": "河北大学工商学院",
+    "nameEn": "Industrial and Commercial College, Hebei University",
+    "logo": "logo-jpg/2350545400.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "河北",
+    "cityName": "保定市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "huaxin-college-of-hebei-geo-university",
+    "univCode": "RC00986",
+    "nameCn": "河北地质大学华信学院",
+    "nameEn": "Huaxin College of Hebei Geo University",
+    "logo": "logo-jpg/7839729800.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "河北",
+    "cityName": "石家庄市",
+    "categoryName": "财经",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "财经"
+    ]
+  },
+  {
+    "up": "kexin-college-hebei-university-of-engineering",
+    "univCode": "RC00976",
+    "nameCn": "河北工程大学科信学院",
+    "nameEn": "Kexin college, Hebei University of Engineering",
+    "logo": "logo/43103863.png",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "河北",
+    "cityName": "邯郸市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "college-of-economics-and-management-hebei-university-of-economics-and-business",
+    "univCode": "RC00982",
+    "nameCn": "河北经贸大学经济管理学院",
+    "nameEn": "College of Economics & Management Hebei University of Economics & Business",
+    "logo": "logo-jpg/1699137700.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "河北",
+    "cityName": "石家庄市",
+    "categoryName": "财经",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "财经"
+    ]
+  },
+  {
+    "up": "hebei-agriculture-university-college-of-modern-science-and-technology",
+    "univCode": "RC00987",
+    "nameCn": "河北农业大学现代科技学院",
+    "nameEn": "College of Modern Science and Technology Hebei Agricultural University",
+    "logo": "logo-jpg/9342515300.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "河北",
+    "cityName": "保定市",
+    "categoryName": "农业",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "农业"
+    ]
+  },
+  {
+    "up": "huihua-college-of-hebei-normal-university",
+    "univCode": "RC00980",
+    "nameCn": "河北师范大学汇华学院",
+    "nameEn": "Huihua College of Hebei Normal University",
+    "logo": "logo-jpg/8393894800.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "河北",
+    "cityName": "石家庄市",
+    "categoryName": "师范",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "师范"
+    ]
+  },
+  {
+    "up": "clinical-college-of-hebei-medical-university",
+    "univCode": "RC00981",
+    "nameCn": "河北医科大学临床学院",
+    "nameEn": "Clinical College of Hebei Medical University",
+    "logo": "logo-jpg/7147007000.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "河北",
+    "cityName": "石家庄市",
+    "categoryName": "医药",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "医药"
+    ]
+  },
+  {
+    "up": "kunlun-tourism-college-of-heilongjiang-institute-of-technology",
+    "univCode": "RC01020",
+    "nameCn": "黑龙江工程学院昆仑旅游学院",
+    "nameEn": "Kunlun Tourism College, Heilongjiang University of Engineering",
+    "logo": "logo-jpg/5495485300.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "黑龙江",
+    "cityName": "哈尔滨市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "nanyue-college-of-hengyang-normal-university",
+    "univCode": "RC01160",
+    "nameCn": "衡阳师范学院南岳学院",
+    "nameEn": "Nanyue College of Hengyang Normal University",
+    "logo": "logo/99380258.png",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "湖南",
+    "cityName": "衡阳市",
+    "categoryName": "师范",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "师范"
+    ]
+  },
+  {
+    "up": "jitang-college-north-china-university-of-science-and-technology",
+    "univCode": "RC00988",
+    "nameCn": "华北理工大学冀唐学院",
+    "nameEn": "Jitang College Of North China University of Science and Technology",
+    "logo": "logo-jpg/9792052300.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "河北",
+    "cityName": "唐山市",
+    "categoryName": "医药",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "医药"
+    ]
+  },
+  {
+    "up": "qinggong-college-north-china-university-of-science-and-technology",
+    "univCode": "RC00975",
+    "nameCn": "华北理工大学轻工学院",
+    "nameEn": "Qing Gong college, North China University of Science and Technology",
+    "logo": "logo-jpg/7639800300.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "河北",
+    "cityName": "唐山市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "zhujiang-college-south-china-agriculture-university",
+    "univCode": "RC01169",
+    "nameCn": "华南农业大学珠江学院",
+    "nameEn": "Zhujiang College, South China Agriculture University",
+    "logo": "logo-jpg/8778312900.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "广东",
+    "cityName": "广州市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "zhixing-college-of-hubei-university",
+    "univCode": "RC01125",
+    "nameCn": "湖北大学知行学院",
+    "nameEn": "Zhixing College of Hubei University",
+    "logo": "logo-jpg/2414920900.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "湖北",
+    "cityName": "武汉市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "college-of-technology-hubei-engineering-university",
+    "univCode": "RC01137",
+    "nameCn": "湖北工程学院新技术学院",
+    "nameEn": "College of Technology, Hubei Engineering University",
+    "logo": "logo-jpg/4865217600.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "湖北",
+    "cityName": "孝感市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "hubei-university-of-technology-engineering-and-technology-college",
+    "univCode": "RC01128",
+    "nameCn": "湖北工业大学工程技术学院",
+    "nameEn": "Hubei University of Technology Engineering and Technology College",
+    "logo": "logo-jpg/6250810100.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "湖北",
+    "cityName": "武汉市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "law-business-college-of-hubei-university-of-economics",
+    "univCode": "RC01134",
+    "nameCn": "湖北经济学院法商学院",
+    "nameEn": "Law & Business College of Hubei University of Economics",
+    "logo": "logo-jpg/2485763800.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "湖北",
+    "cityName": "武汉市",
+    "categoryName": "财经",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "财经"
+    ]
+  },
+  {
+    "up": "science-and-technology-college-of-hubei-university-of-automotive-technology",
+    "univCode": "RC01133",
+    "nameCn": "湖北汽车工业学院科技学院",
+    "nameEn": "Science and Technology College of Hubei University of Automotive Technology",
+    "logo": "logo/56533079.png",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "湖北",
+    "cityName": "十堰市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "college-of-arts-and-science-of-hubei-normal-university",
+    "univCode": "RC01136",
+    "nameCn": "湖北师范大学文理学院",
+    "nameEn": "College of Arts and Science of Hubei Normal University",
+    "logo": "logo-jpg/9597130800.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "湖北",
+    "cityName": "黄石市",
+    "categoryName": "师范",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "师范"
+    ]
+  },
+  {
+    "up": "science-and-technology-college-of-hubei-university-of-arts-and-science",
+    "univCode": "RC01140",
+    "nameCn": "湖北文理学院理工学院",
+    "nameEn": "Science and Technology College of Hubei University of Arts and Science",
+    "logo": "logo-jpg/1262034300.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "湖北",
+    "cityName": "襄阳市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "institute-of-medicine-and-nursing-hubei-university-of-medicine",
+    "univCode": "RC01139",
+    "nameCn": "湖北医药学院药护学院",
+    "nameEn": "Institute of Medicine and Nursing, Hubei University of Medicine",
+    "logo": "logo-jpg/7462166000.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "湖北",
+    "cityName": "十堰市",
+    "categoryName": "医药",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "医药"
+    ]
+  },
+  {
+    "up": "applied-technical-school-hunan-institute-of-engineering",
+    "univCode": "RC01158",
+    "nameCn": "湖南工程学院应用技术学院",
+    "nameEn": "Applied Technical School, Hunan Institute of Engineering",
+    "logo": "logo-jpg/5503106400.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "湖南",
+    "cityName": "湘潭市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "college-of-science-and-technology-hnut",
+    "univCode": "RC01152",
+    "nameCn": "湖南工业大学科技学院",
+    "nameEn": "College of Science and Technology HNUT",
+    "logo": "logo-jpg/8762965000.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "湖南",
+    "cityName": "株洲市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "xiaoxiang-college-hunan-university-of-science-and-technology",
+    "univCode": "RC01151",
+    "nameCn": "湖南科技大学潇湘学院",
+    "nameEn": "Xiaoxiang College, Hunan University of Science and Technology",
+    "logo": "logo-jpg/2376514000.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "湖南",
+    "cityName": "湘潭市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "orient-science-technology-college-of-hunan-agriculture-university",
+    "univCode": "RC01149",
+    "nameCn": "湖南农业大学东方科技学院",
+    "nameEn": "Orient Science & Technology College of Hunan Agriculture University",
+    "logo": "logo-jpg/1129175800.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "湖南",
+    "cityName": "长沙市",
+    "categoryName": "农业",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "农业"
+    ]
+  },
+  {
+    "up": "xiangxing-college-of-hunan-university-of-chinese-medicine",
+    "univCode": "RC01159",
+    "nameCn": "湖南中医药大学湘杏学院",
+    "nameEn": "Xiangxing College of Hunan University of TCM",
+    "logo": "logo-jpg/9451094600.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "湖南",
+    "cityName": "长沙市",
+    "categoryName": "医药",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "医药"
+    ]
+  },
+  {
+    "up": "jiangsu-university-jingjiang-college",
+    "univCode": "RC01039",
+    "nameCn": "江苏大学京江学院",
+    "nameEn": "Jiangsu University Jingjiang College",
+    "logo": "logo-jpg/4911684500.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "江苏",
+    "cityName": "镇江市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "suzhou-institute-of-technology-jiangsu-university-of-science-and-technology",
+    "univCode": "RC01044",
+    "nameCn": "江苏科技大学苏州理工学院",
+    "nameEn": "Suzhou Institute of Technology, Jiangsu University of Science and Technology",
+    "logo": "logo-jpg/9255524400.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "江苏",
+    "cityName": "苏州市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "jiangsu-normal-university-kewen-college",
+    "univCode": "RC01041",
+    "nameCn": "江苏师范大学科文学院",
+    "nameEn": "Jiangsu Normal University Kewen College",
+    "logo": "logo-jpg/9053068900.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "江苏",
+    "cityName": "徐州市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "college-of-modern-economics-management-jufe",
+    "univCode": "RC01098",
+    "nameCn": "江西财经大学现代经济管理学院",
+    "nameEn": "College of Modern Economics & Management JUFE",
+    "logo": "logo/82946839.png",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "江西",
+    "cityName": "南昌市",
+    "categoryName": "财经",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "财经"
+    ]
+  },
+  {
+    "up": "nanchang-business-college-of-jxau",
+    "univCode": "RC01091",
+    "nameCn": "江西农业大学南昌商学院",
+    "nameEn": "Nanchang Business College of JXAU",
+    "logo": "logo-jpg/9726048800.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "江西",
+    "cityName": "南昌市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "jiangxi-normal-university-science-and-technology-college",
+    "univCode": "RC01092",
+    "nameCn": "江西师范大学科学技术学院",
+    "nameEn": "Jiangxi Normal University Science and Technology College",
+    "logo": "logo-jpg/9313272400.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "江西",
+    "cityName": "南昌市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "boda-college-of-jilin-normal-university",
+    "univCode": "RC01017",
+    "nameCn": "吉林师范大学博达学院",
+    "nameEn": "Boda College of Jilin Normal University",
+    "logo": "logo-jpg/8775817300.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "吉林",
+    "cityName": "四平市",
+    "categoryName": "师范",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "师范"
+    ]
+  },
+  {
+    "up": "chengyi-university-college-jimei-university",
+    "univCode": "RC01087",
+    "nameCn": "集美大学诚毅学院",
+    "nameEn": "Chengyi College, Jimei University",
+    "logo": "logo-jpg/6364810800.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "福建",
+    "cityName": "厦门市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "medical-college-of-jinzhou-medical-university",
+    "univCode": "RC01009",
+    "nameCn": "锦州医科大学医疗学院",
+    "nameEn": "Medical College of Jinzhou Medical University",
+    "logo": "logo-jpg/6145231100.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "辽宁",
+    "cityName": "锦州市",
+    "categoryName": "医药",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "医药"
+    ]
+  },
+  {
+    "up": "kunming-university-of-science-and-technology-oxbridge-college",
+    "univCode": "RC01216",
+    "nameCn": "昆明理工大学津桥学院",
+    "nameEn": "Kunming University of Science and Technology Oxbridge College",
+    "logo": "logo-jpg/5489393900.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "云南",
+    "cityName": "昆明市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "kunming-medical-university-hai-yuan-college",
+    "univCode": "RC01213",
+    "nameCn": "昆明医科大学海源学院",
+    "nameEn": "Kunming Medical University Hai Yuan College",
+    "logo": "logo-jpg/9464969800.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "云南",
+    "cityName": "昆明市",
+    "categoryName": "医药",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "医药"
+    ]
+  },
+  {
+    "up": "liaocheng-university-dongchang-college",
+    "univCode": "RC01111",
+    "nameCn": "聊城大学东昌学院",
+    "nameEn": "Liaocheng University Dongchang College",
+    "logo": "logo-jpg/3371189000.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "山东",
+    "cityName": "聊城市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "liaoning-normal-university-haihua-college",
+    "univCode": "RC01007",
+    "nameCn": "辽宁师范大学海华学院",
+    "nameEn": "Haihua College, Liaoning Normal University",
+    "logo": "logo-jpg/5648852900.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "辽宁",
+    "cityName": "大连市",
+    "categoryName": "师范",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "师范"
+    ]
+  },
+  {
+    "up": "liaoning-university-of-traditional-chinese-medicine-xinglin-college",
+    "univCode": "RC01008",
+    "nameCn": "辽宁中医药大学杏林学院",
+    "nameEn": "Liaoning University of Traditional Chinese Medicine Xinglin College",
+    "logo": "logo-jpg/4146897700.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "辽宁",
+    "cityName": "沈阳市",
+    "categoryName": "医药",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "医药"
+    ]
+  },
+  {
+    "up": "gongqing-college-of-nanchang-university",
+    "univCode": "RC01102",
+    "nameCn": "南昌大学共青学院",
+    "nameEn": "Gongqing College of Nanchang University",
+    "logo": "logo-jpg/6232910800.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "江西",
+    "cityName": "九江市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "nanchang-university-college-of-science-and-technology",
+    "univCode": "RC01090",
+    "nameCn": "南昌大学科学技术学院",
+    "nameEn": "Nanchang University College of Science and Technology",
+    "logo": "logo-jpg/2126800600.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "江西",
+    "cityName": "南昌市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "science-and-technology-college-of-nchu",
+    "univCode": "RC01096",
+    "nameCn": "南昌航空大学科技学院",
+    "nameEn": "Science and Technology College of NCHU",
+    "logo": "logo/94236139.png",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "江西",
+    "cityName": "南昌市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "chuanshan-college-university-of-south-china",
+    "univCode": "RC01154",
+    "nameCn": "南华大学船山学院",
+    "nameEn": "Chuanshan College University of South China",
+    "logo": "logo-jpg/2709833400.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "湖南",
+    "cityName": "衡阳市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "nanjing-university-of-finance-and-economics-hongshan-college",
+    "univCode": "RC01043",
+    "nameCn": "南京财经大学红山学院",
+    "nameEn": "Nanjing University of Finance & Economics Hongshan College",
+    "logo": "logo-jpg/4592710700.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "江苏",
+    "cityName": "南京市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "nanjing-university-jinling-college",
+    "univCode": "RC01025",
+    "nameCn": "南京大学金陵学院",
+    "nameEn": "Nanjing University Jinling College",
+    "logo": "logo-jpg/8363744600.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "江苏",
+    "cityName": "南京市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "nanjing-tech-university-pujiang-institute",
+    "univCode": "RC01031",
+    "nameCn": "南京工业大学浦江学院",
+    "nameEn": "Nanjing Tech University Pujiang Institute",
+    "logo": "logo-jpg/4557052200.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "江苏",
+    "cityName": "南京市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "nanhang-jincheng-college",
+    "univCode": "RC01027",
+    "nameCn": "南京航空航天大学金城学院",
+    "nameEn": "Nanhang Jincheng College",
+    "logo": "logo-jpg/2619799100.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "江苏",
+    "cityName": "南京市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "taizhou-institute-of-sci-tech-njust",
+    "univCode": "RC01029",
+    "nameCn": "南京理工大学泰州科技学院",
+    "nameEn": "Taizhou Institute of Sci.&Tech., NJUST.",
+    "logo": "logo-jpg/4777321000.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "江苏",
+    "cityName": "泰州市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "nanjing-university-of-science-and-technology-zijin-college",
+    "univCode": "RC01026",
+    "nameCn": "南京理工大学紫金学院",
+    "nameEn": "Nanjing University of Science and Technology ZiJin College",
+    "logo": "logo/98171360.png",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "江苏",
+    "cityName": "南京市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "nanjing-audit-university-jinshen-college",
+    "univCode": "RC01047",
+    "nameCn": "南京审计大学金审学院",
+    "nameEn": "Nanjing Audit University Jinshen College",
+    "logo": "logo-jpg/2021317900.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "江苏",
+    "cityName": "南京市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "nanjing-normal-university-taizhou-college",
+    "univCode": "RC01030",
+    "nameCn": "南京师范大学泰州学院",
+    "nameEn": "Nanjing Normal University Taizhou College",
+    "logo": "logo-jpg/3834731200.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "江苏",
+    "cityName": "泰州市",
+    "categoryName": "师范",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "师范"
+    ]
+  },
+  {
+    "up": "nanjing-normal-university-zhongbei-college",
+    "univCode": "RC01032",
+    "nameCn": "南京师范大学中北学院",
+    "nameEn": "Nanjing Normal University Zhongbei College",
+    "logo": "logo-jpg/8090701600.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "江苏",
+    "cityName": "镇江市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "kangda-college-of-nanjing-medical-university",
+    "univCode": "RC01033",
+    "nameCn": "南京医科大学康达学院",
+    "nameEn": "Kangda College of Nanjing Medical University",
+    "logo": "logo-jpg/5658199300.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "江苏",
+    "cityName": "连云港市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "tongda-college-of-nanjing-university-of-posts-and-telecommunications",
+    "univCode": "RC01042",
+    "nameCn": "南京邮电大学通达学院",
+    "nameEn": "Tongda College of Nanjing University of Posts & Telecommunications",
+    "logo": "logo-jpg/2943035000.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "江苏",
+    "cityName": "扬州市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "nanjing-university-of-chinese-medicine-hanlin-college",
+    "univCode": "RC01034",
+    "nameCn": "南京中医药大学翰林学院",
+    "nameEn": "Nanjing University of Chinese Medicine Hanlin College",
+    "logo": "logo-jpg/7676667400.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "江苏",
+    "cityName": "泰州市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "nankai-university-binhai-college",
+    "univCode": "RC00965",
+    "nameCn": "南开大学滨海学院",
+    "nameEn": "Nankai University Binhai College",
+    "logo": "logo-jpg/7024928300.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "天津",
+    "cityName": "天津市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "shiyuan-college-of-nanning-normal-university",
+    "univCode": "RC01181",
+    "nameCn": "南宁师范大学师园学院",
+    "nameEn": "Shiyuan College of Nanning Normal University",
+    "logo": "logo-jpg/4136704400.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "广西",
+    "cityName": "南宁市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "nantong-university-xinglin-college",
+    "univCode": "RC01046",
+    "nameCn": "南通大学杏林学院",
+    "nameEn": "Nantong University Xinglin College",
+    "logo": "logo-jpg/9909178700.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "江苏",
+    "cityName": "南通市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "pioneer-college-inner-mongolia-university",
+    "univCode": "RC01000",
+    "nameCn": "内蒙古大学创业学院",
+    "nameEn": "Pioneer College, Inner Mongolia University",
+    "logo": "logo-jpg/9814769200.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "内蒙古",
+    "cityName": "呼和浩特市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "college-of-science-and-technology-ningbo-university",
+    "univCode": "RC01052",
+    "nameCn": "宁波大学科学技术学院",
+    "nameEn": "College of Science & Technology Ningbo University",
+    "logo": "logo-jpg/8137083500.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "浙江",
+    "cityName": "宁波市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "xinhua-college-of-ningxia-university",
+    "univCode": "RC01234",
+    "nameCn": "宁夏大学新华学院",
+    "nameEn": "Xinhua College of Ningxia University",
+    "logo": "logo-jpg/2812416900.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "宁夏",
+    "cityName": "银川市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "haidu-college-qingdao-agricultural-university",
+    "univCode": "RC01108",
+    "nameCn": "青岛农业大学海都学院",
+    "nameEn": "Haidu College Qingdao Agricultural University",
+    "logo": "logo-jpg/6017514100.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "山东",
+    "cityName": "烟台市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "kunlun-college-of-qinghai-university",
+    "univCode": "RC01236",
+    "nameCn": "青海大学昆仑学院",
+    "nameEn": "Kunlun College of Qinghai University",
+    "logo": "logo-jpg/2586801800.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "青海",
+    "cityName": "西宁市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "college-of-science-and-technology-of-china-three-gorges-university",
+    "univCode": "RC01126",
+    "nameCn": "三峡大学科技学院",
+    "nameEn": "College of Science and Technology of China Three Gorges University",
+    "logo": "logo-jpg/2999011700.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "湖北",
+    "cityName": "宜昌市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "dongfang-college-shandong-university-of-finance-and-economics",
+    "univCode": "RC01109",
+    "nameCn": "山东财经大学东方学院",
+    "nameEn": "Dongfang College, ShanDong University of Finance and Economics",
+    "logo": "logo-jpg/4239356900.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "山东",
+    "cityName": "泰安市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "yanshan-college-shandong-university-of-finance-and-economics",
+    "univCode": "RC01107",
+    "nameCn": "山东财经大学燕山学院",
+    "nameEn": "Yanshan college Shandong University of Finance and Economics",
+    "logo": "logo-jpg/4790534600.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "山东",
+    "cityName": "济南市",
+    "categoryName": "财经",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "财经"
+    ]
+  },
+  {
+    "up": "shanghai-university-of-finance-and-economics-zhejiang-college",
+    "univCode": "RC01069",
+    "nameCn": "上海财经大学浙江学院",
+    "nameEn": "Shanghai University of Finance and Economics Zhejiang College",
+    "logo": "logo-jpg/4157655500.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "浙江",
+    "cityName": "金华市",
+    "categoryName": "财经",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "财经"
+    ]
+  },
+  {
+    "up": "shanghai-normal-university-tianhua-college",
+    "univCode": "RC01022",
+    "nameCn": "上海师范大学天华学院",
+    "nameEn": "Shanghai Normal University TIANHUA College",
+    "logo": "logo-jpg/6114069900.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "上海",
+    "cityName": "上海市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "xianda-college-of-economics-humanities-shanghai-international-studies-university",
+    "univCode": "RC01021",
+    "nameCn": "上海外国语大学贤达经济人文学院",
+    "nameEn": "Xianda College of Economics & Humanities Shanghai International Studies University",
+    "logo": "logo-jpg/9027832600.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "上海",
+    "cityName": "上海市",
+    "categoryName": "财经",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "财经"
+    ]
+  },
+  {
+    "up": "shanxi-university-of-finance-and-economics-huashang-college",
+    "univCode": "RC00999",
+    "nameCn": "山西财经大学华商学院",
+    "nameEn": "Shanxi University of Finance and Economics Huashang College",
+    "logo": "logo-jpg/4988668200.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "山西",
+    "cityName": "太原市",
+    "categoryName": "财经",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "财经"
+    ]
+  },
+  {
+    "up": "hao-jing-college-of-shaanxi-university-of-science-and-technology",
+    "univCode": "RC01221",
+    "nameCn": "陕西科技大学镐京学院",
+    "nameEn": "Haojing College of Shaanxi University of Science & Technology",
+    "logo": "logo-jpg/5665481500.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "陕西",
+    "cityName": "咸阳市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "shen-yang-gong-ye-da-xue-gong-cheng-xue-yuan",
+    "univCode": "RC01011",
+    "nameCn": "沈阳工业大学工程学院",
+    "nameEn": "Engineering College of Shenyang University of Technology",
+    "logo": "logo/24046795.png",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "辽宁",
+    "cityName": "辽阳市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "shen-yang-hang-kong-hang-tian-da-xue-bei-fang-ke-ji-xue-yuan",
+    "univCode": "RC01003",
+    "nameCn": "沈阳航空航天大学北方科技学院",
+    "nameEn": "North Science and Technology College of Shenyang Aerospace University",
+    "logo": "logo/52099845.png",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "辽宁",
+    "cityName": "沈阳市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "shijiazhuang-tiedao-university-sifang-college",
+    "univCode": "RC00985",
+    "nameCn": "石家庄铁道大学四方学院",
+    "nameEn": "Shijiazhuang Tiedao University Sifang College",
+    "logo": "logo-jpg/7426131200.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "河北",
+    "cityName": "石家庄市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "kede-college-of-capital-normal-university",
+    "univCode": "RC00960",
+    "nameCn": "首都师范大学科德学院",
+    "nameEn": "Kede College of Capital Normal University",
+    "logo": "logo-jpg/9578038000.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "北京",
+    "cityName": "北京市",
+    "categoryName": "语言",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "语言"
+    ]
+  },
+  {
+    "up": "sichuan-university-jinjiang-college",
+    "univCode": "RC01199",
+    "nameCn": "四川大学锦江学院",
+    "nameEn": "Sichuan University Jinjiang College",
+    "logo": "logo-jpg/2892673900.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "四川",
+    "cityName": "眉山市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "applied-technology-college-of-soochow-university",
+    "univCode": "RC01037",
+    "nameCn": "苏州大学应用技术学院",
+    "nameEn": "Applied Technology College of Soochow University",
+    "logo": "logo-jpg/9639178300.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "江苏",
+    "cityName": "苏州市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "tianping-college-of-suzhou-university-of-science-and-technology",
+    "univCode": "RC01038",
+    "nameCn": "苏州科技大学天平学院",
+    "nameEn": "Tianping College of Suzhou University of Science and Technology",
+    "logo": "logo-jpg/7836984900.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "江苏",
+    "cityName": "南京市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "tianjin-university-of-finance-and-economics-pearl-river-college",
+    "univCode": "RC00974",
+    "nameCn": "天津财经大学珠江学院",
+    "nameEn": "Tianjin University of Finance and Economics Pearl River College",
+    "logo": "logo-jpg/7860947400.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "天津",
+    "cityName": "天津市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "zhonghuan-information-college-tianjin-university-of-technology",
+    "univCode": "RC00972",
+    "nameCn": "天津理工大学中环信息学院",
+    "nameEn": "Zhonghuan information College Tianjin University of Technology",
+    "logo": "logo-jpg/4327971200.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "天津",
+    "cityName": "天津市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "tianjin-university-of-commerce-boustead-of-college",
+    "univCode": "RC00968",
+    "nameCn": "天津商业大学宝德学院",
+    "nameEn": "Tianjin University of Commerce Boustead College",
+    "logo": "logo-jpg/4735356300.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "天津",
+    "cityName": "天津市",
+    "categoryName": "财经",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "财经"
+    ]
+  },
+  {
+    "up": "tianjin-normal-university-jingu-college",
+    "univCode": "RC00971",
+    "nameCn": "天津师范大学津沽学院",
+    "nameEn": "Tianjin Normal University Jingu College",
+    "logo": "logo-jpg/1235686500.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "天津",
+    "cityName": "天津市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "binhai-school-of-foreign-affairs-of-tianjin-foreign-studies-university",
+    "univCode": "RC00966",
+    "nameCn": "天津外国语大学滨海外事学院",
+    "nameEn": "BinHai School of Foreign Affairs of Tianjin Foreign Studies University",
+    "logo": "logo-jpg/1802201800.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "天津",
+    "cityName": "天津市",
+    "categoryName": "语言",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "语言"
+    ]
+  },
+  {
+    "up": "clinical-medical-college-of-tianjin-medical-university",
+    "univCode": "RC00969",
+    "nameCn": "天津医科大学临床医学院",
+    "nameEn": "Clinical Medical College of Tianjin Medical University",
+    "logo": "logo-jpg/3061239600.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "天津",
+    "cityName": "天津市",
+    "categoryName": "医药",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "医药"
+    ]
+  },
+  {
+    "up": "tongji-zhejiang-college",
+    "univCode": "RC01068",
+    "nameCn": "同济大学浙江学院",
+    "nameEn": "TongJi ZheJiang College",
+    "logo": "logo-jpg/9597852300.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "浙江",
+    "cityName": "嘉兴市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "wenzhou-medical-university-renji-college",
+    "univCode": "RC01057",
+    "nameCn": "温州医科大学仁济学院",
+    "nameEn": "Wenzhou Medical University RenJi College",
+    "logo": "logo-jpg/7156266700.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "浙江",
+    "cityName": "温州市",
+    "categoryName": "医药",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "医药"
+    ]
+  },
+  {
+    "up": "college-of-international-business-and-economics-wtu",
+    "univCode": "RC01131",
+    "nameCn": "武汉纺织大学外经贸学院",
+    "nameEn": "College of International Business and Economics, WTU",
+    "logo": "logo/55173340.png",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "湖北",
+    "cityName": "武汉市",
+    "categoryName": "财经",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "财经"
+    ]
+  },
+  {
+    "up": "the-college-of-post-and-telecommunication-of-wit",
+    "univCode": "RC01130",
+    "nameCn": "武汉工程大学邮电与信息工程学院",
+    "nameEn": "College of Post and Telecommunication of WIT",
+    "logo": "logo-jpg/8189523900.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "湖北",
+    "cityName": "武汉市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "wu-han-ti-yu-xue-yuan-ti-yu-ke-ji-xue-yuan",
+    "univCode": "RC01135",
+    "nameCn": "武汉体育学院体育科技学院",
+    "nameEn": "The College of Sports Science and Technology of Wuhan Sports University",
+    "logo": "logo-jpg/9318637500.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "湖北",
+    "cityName": "武汉市",
+    "categoryName": "体育",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "体育"
+    ]
+  },
+  {
+    "up": "xiamen-university-tan-kah-kee-college",
+    "univCode": "RC01081",
+    "nameCn": "厦门大学嘉庚学院",
+    "nameEn": "Xiamen University Tan Kah Kee College",
+    "logo": "logo-jpg/4810609600.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "福建",
+    "cityName": "漳州市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "xing-zhi-college-of-xian-university-of-finance-and-economics",
+    "univCode": "RC01220",
+    "nameCn": "西安财经大学行知学院",
+    "nameEn": "Xing Zhi College of Xi'an University of Finance and Economics",
+    "logo": "logo-jpg/4088825800.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "陕西",
+    "cityName": "西安市",
+    "categoryName": "财经",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "财经"
+    ]
+  },
+  {
+    "up": "xi-an-dian-zi-ke-ji-da-xue-chang-an-xue-yuan",
+    "univCode": "RC01224",
+    "nameCn": "西安电子科技大学长安学院",
+    "nameEn": "Chang'an College Of Xidian University",
+    "logo": "logo/89407459.png",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "陕西",
+    "cityName": "西安市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "xingxiang-college-of-xiangtan-university",
+    "univCode": "RC01153",
+    "nameCn": "湘潭大学兴湘学院",
+    "nameEn": "Xingxiang College of Xiangtan University",
+    "logo": "logo-jpg/9942540300.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "湖南",
+    "cityName": "湘潭市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "xian-university-of-architecture-and-technology-huaqing-college",
+    "univCode": "RC01219",
+    "nameCn": "西安建筑科技大学华清学院",
+    "nameEn": "Xi'an University of Architecture and Technology Huaqing College",
+    "logo": "logo-jpg/2272597400.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "陕西",
+    "cityName": "西安市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "xian-jiaotong-university-city-college",
+    "univCode": "RC01217",
+    "nameCn": "西安交通大学城市学院",
+    "nameEn": "Xi'an Jiaotong University City College",
+    "logo": "logo-jpg/7028513000.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "陕西",
+    "cityName": "西安市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "xian-kedagaoxin-university",
+    "univCode": "RC01226",
+    "nameCn": "西安科技大学高新学院",
+    "nameEn": "Xi'an Kedagaoxin University",
+    "logo": "logo-jpg/2455115900.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "陕西",
+    "cityName": "西安市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "the-hi-tech-college-of-xian-university-of-technology",
+    "univCode": "RC01228",
+    "nameCn": "西安理工大学高科学院",
+    "nameEn": "The Hi-Tech College of Xi'an University of Technology",
+    "logo": "logo/63282908.png",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "陕西",
+    "cityName": "西安市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "modern-college-of-northwest-university",
+    "univCode": "RC01218",
+    "nameCn": "西北大学现代学院",
+    "nameEn": "Modern College of Northwest University",
+    "logo": "logo-jpg/5080307900.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "陕西",
+    "cityName": "西安市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "tianfu-college-of-swufe",
+    "univCode": "RC01200",
+    "nameCn": "西南财经大学天府学院",
+    "nameEn": "Tianfu College of Swufe",
+    "logo": "logo-jpg/1904588400.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "四川",
+    "cityName": "绵阳市",
+    "categoryName": "财经",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "财经"
+    ]
+  },
+  {
+    "up": "southwest-jiaotong-university-hope-college",
+    "univCode": "RC01201",
+    "nameCn": "西南交通大学希望学院",
+    "nameEn": "Southwest Jiaotong University Hope College",
+    "logo": "logo-jpg/2065016500.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "四川",
+    "cityName": "南充市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "xian-innovation-college-of-yanan-university",
+    "univCode": "RC01223",
+    "nameCn": "延安大学西安创新学院",
+    "nameEn": "Xi'an Innovation College of Yan'an University",
+    "logo": "logo-jpg/6217282200.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "陕西",
+    "cityName": "西安市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "guangling-college-of-yangzhou-university",
+    "univCode": "RC01040",
+    "nameCn": "扬州大学广陵学院",
+    "nameEn": "Guangling College of Yangzhou University",
+    "logo": "logo-jpg/4598657500.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "江苏",
+    "cityName": "扬州市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "liren-college-yanshan-university",
+    "univCode": "RC00984",
+    "nameCn": "燕山大学里仁学院",
+    "nameEn": "LiRen College, Yanshan University",
+    "logo": "logo-jpg/5722128900.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "河北",
+    "cityName": "秦皇岛市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "zhejiang-university-of-finance-and-economics-dongfang-college",
+    "univCode": "RC01065",
+    "nameCn": "浙江财经大学东方学院",
+    "nameEn": "Zhejiang University of Finance and Economics Dongfang College",
+    "logo": "logo-jpg/5018316900.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "浙江",
+    "cityName": "嘉兴市",
+    "categoryName": "财经",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "财经"
+    ]
+  },
+  {
+    "up": "zhejiang-gongshang-university-hangzhou-college-of-commerce",
+    "univCode": "RC01063",
+    "nameCn": "浙江工商大学杭州商学院",
+    "nameEn": "Zhejiang Gongshang University Hangzhou College of Commerce",
+    "logo": "logo-jpg/6374408800.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "浙江",
+    "cityName": "杭州市",
+    "categoryName": "财经",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "财经"
+    ]
+  },
+  {
+    "up": "zhijiang-college-of-zhejiang-university-of-technology",
+    "univCode": "RC01050",
+    "nameCn": "浙江工业大学之江学院",
+    "nameEn": "Zhijiang College of Zhejiang University of Technology",
+    "logo": "logo-jpg/7599861000.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "浙江",
+    "cityName": "杭州市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "keyi-college-of-zhejiang-sci-tech-university",
+    "univCode": "RC01054",
+    "nameCn": "浙江理工大学科技与艺术学院",
+    "nameEn": "Keyi College of Zhejiang Sci-Tech University",
+    "logo": "logo/27004386.png",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "浙江",
+    "cityName": "杭州市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "jiyang-college-of-zhejiang-a-f-university",
+    "univCode": "RC01056",
+    "nameCn": "浙江农林大学暨阳学院",
+    "nameEn": "Jiyang College of Zhejiang A&F University",
+    "logo": "logo-jpg/7104799100.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "浙江",
+    "cityName": "绍兴市",
+    "categoryName": "林业",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "林业"
+    ]
+  },
+  {
+    "up": "xingzhi-college-zhejiang-normal-university",
+    "univCode": "RC01051",
+    "nameCn": "浙江师范大学行知学院",
+    "nameEn": "Xingzhi College Zhejiang Normal University",
+    "logo": "logo-jpg/9406397200.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "浙江",
+    "cityName": "金华市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "zhejiang-chinese-medicine-university-binjiang-college",
+    "univCode": "RC01058",
+    "nameCn": "浙江中医药大学滨江学院",
+    "nameEn": "ZheJiang Chinese Medicine University BinJiang College",
+    "logo": "logo-jpg/8564827400.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "浙江",
+    "cityName": "杭州市",
+    "categoryName": "医药",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "医药"
+    ]
+  },
+  {
+    "up": "china-jiliang-university-college-of-modern-science-and-technology",
+    "univCode": "RC01064",
+    "nameCn": "中国计量大学现代科技学院",
+    "nameEn": "China Jiliang University College of Modern Science and Technology",
+    "logo": "logo-jpg/1914222200.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "浙江",
+    "cityName": "杭州市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "xuhai-college-china-university-of-mining-and-technology",
+    "univCode": "RC01024",
+    "nameCn": "中国矿业大学徐海学院",
+    "nameEn": "Xuhai College, China University of Mining and Technology",
+    "logo": "logo-jpg/9475760700.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "江苏",
+    "cityName": "徐州市",
+    "categoryName": "理工",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "理工"
+    ]
+  },
+  {
+    "up": "swan-college-central-south-university-of-forestry-and-technology",
+    "univCode": "RC01148",
+    "nameCn": "中南林业科技大学涉外学院",
+    "nameEn": "Swan college, Central South University of Forestry and Technology",
+    "logo": "logo-jpg/1217785400.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "湖南",
+    "cityName": "长沙市",
+    "categoryName": "综合",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "综合"
+    ]
+  },
+  {
+    "up": "medicine-technology-school-of-zunyi-medical-university",
+    "univCode": "RC01205",
+    "nameCn": "遵义医科大学医学与科技学院",
+    "nameEn": "Medicine & Technology College of Zunyi Medical University",
+    "logo": "logo-jpg/9540072000.jpg",
+    "tags": [],
+    "inbound": false,
+    "liked": false,
+    "univLikeCount": 0,
+    "adminType": "独立学院",
+    "provinceShort": "贵州",
+    "cityName": "遵义市",
+    "categoryName": "医药",
+    "level": "独立学院",
+    "eduLevel": 10,
+    "univEnv": {
+      "consultPhone": null,
+      "email": null,
+      "inds": null,
+      "pubPicture": null,
+      "publishedAt": null,
+      "reason": null
+    },
+    "isVocational": false,
+    "charCode": [
+      22
+    ],
+    "cateCode": [
+      "医药"
+    ]
+  }
+]
