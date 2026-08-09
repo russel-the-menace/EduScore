@@ -17,7 +17,7 @@ from typing import Any
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 MASTER = DATA / "master"
-STOP_WORDS = {"the", "of", "in", "at"}
+STOP_WORDS = {"the", "of", "in", "at", "van"}
 DIRECTION_WORDS = {
     "north", "south", "east", "west", "central", "northern", "southern",
     "eastern", "western",
@@ -71,6 +71,13 @@ def normalize_name(value: str | None, *, strip_parenthetical: bool = True) -> st
         text = re.sub(r"\([^)]*\)", " ", text)
     words = [WORD_ALIASES.get(word, word) for word in re.findall(r"[a-z0-9]+", text)]
     return " ".join(word for word in words if word not in STOP_WORDS)
+
+
+def base_name(value: str | None) -> str:
+    """Remove a campus/location suffix used by ranking sites."""
+    text = value or ""
+    text = re.split(r"\s*(?:--|—)\s*", text, maxsplit=1)[0]
+    return normalize_name(text)
 
 
 def normalize_country(value: str | None) -> str:
@@ -141,6 +148,9 @@ def rebuild_index(entities: list[dict[str, Any]]) -> dict[str, list[int]]:
             normalized = normalize_name(name)
             if normalized and entity_index not in index[normalized]:
                 index[normalized].append(entity_index)
+            base = base_name(name)
+            if base and entity_index not in index[f"__base__:{base}"]:
+                index[f"__base__:{base}"].append(entity_index)
     return index
 
 
@@ -151,6 +161,9 @@ def add_names_to_index(
         normalized = normalize_name(name)
         if normalized and entity_index not in index[normalized]:
             index[normalized].append(entity_index)
+        base = base_name(name)
+        if base and entity_index not in index[f"__base__:{base}"]:
+            index[f"__base__:{base}"].append(entity_index)
 
 
 def match_entity(
@@ -174,6 +187,14 @@ def match_entity(
         preferred = [index for index in exact if entities[index][preferred_field]]
         if len(preferred) == 1:
             return preferred[0], "exact_preferred"
+    base_exact = [
+        index
+        for index in exact_index.get(f"__base__:{base_name(name)}", [])
+        if entities[index]["country"] == country
+        and not entities[index][occupied_field]
+    ]
+    if len(base_exact) == 1:
+        return base_exact[0], "base_exact"
     global_exact = [
         index
         for index in exact_index.get(normalize_name(name), [])
@@ -212,27 +233,39 @@ def match_entity(
     return best[2], "fuzzy"
 
 
-def build_domestic() -> list[dict[str, Any]]:
+def build_domestic() -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
     universities = load_json(DATA / "china/shanghairanking/全部高校.json")
     ranked = universities[:590]
     unranked = universities[590:]
     locale.setlocale(locale.LC_COLLATE, "zh_CN.UTF-8")
     unranked.sort(key=lambda row: locale.strxfrm(row.get("nameCn") or ""))
 
-    rows: list[dict[str, Any]] = []
-    for source_index, university in enumerate([*ranked, *unranked]):
+    head_rows: list[dict[str, Any]] = []
+    for university in ranked:
         codes = set(university.get("charCode") or [])
-        rows.append(
+        head_rows.append(
             {
                 "中文名": university.get("nameCn") or "",
                 "外文名": university.get("nameEn") or "",
-                "软科排名": (university.get("rankBcur") or "") if source_index < 590 else "",
+                "软科排名": university.get("rankBcur") or "",
                 "985": "是" if 985 in codes else "否",
                 "211": "是" if 211 in codes else "否",
                 "双一流": "是" if 105 in codes else "否",
             }
         )
-    return rows
+    non_head_rows: list[dict[str, Any]] = []
+    for university in unranked:
+        codes = set(university.get("charCode") or [])
+        non_head_rows.append(
+            {
+                "中文名": university.get("nameCn") or "",
+                "外文名": university.get("nameEn") or "",
+                "软科排名": "",
+                "独立学院": "是" if 22 in codes else "否",
+                "民办高校": "是" if 20 in codes else "否",
+            }
+        )
+    return head_rows, non_head_rows
 
 
 def build_international() -> tuple[list[dict[str, Any]], dict[str, int]]:
@@ -252,7 +285,6 @@ def build_international() -> tuple[list[dict[str, Any]], dict[str, int]]:
         for row in qs
     ]
     cscse_country_map = infer_cscse_country_map(cscse, world_rows)
-    cscse = deduplicate_cscse(cscse, cscse_country_map)
     entities: list[dict[str, Any]] = [
         {
             "chinese_name": school.get("chinese_name") or "",
@@ -375,6 +407,7 @@ def build_international() -> tuple[list[dict[str, Any]], dict[str, int]]:
     ]
     stats["final_rows"] = len(rows)
     stats["chinese_names"] = sum(bool(row["中文名"]) for row in rows)
+    stats["missing_chinese_names"] = len(rows) - stats["chinese_names"]
     stats["us_ranked"] = sum(row["USNEWS"] != "" for row in rows)
     stats["qs_ranked"] = sum(row["QS"] != "" for row in rows)
     return rows, dict(stats)
@@ -391,13 +424,53 @@ def write_csv(path: Path, rows: list[dict[str, Any]]) -> None:
 
 
 def main() -> None:
-    domestic = build_domestic()
+    domestic_head, domestic_non_head = build_domestic()
     international, stats = build_international()
-    write_csv(MASTER / "国内大学排名.csv", domestic)
-    write_csv(MASTER / "国外大学排名.csv", international)
+    international_head = [row for row in international if row["USNEWS"] != ""]
+    international_non_head = [
+        {"中文名": row["中文名"], "外文名": row["外文名"], "QS": row["QS"]}
+        for row in international
+        if row["USNEWS"] == ""
+    ]
+    international_non_head.sort(key=lambda row: normalize_name(row["外文名"]))
+    write_csv(MASTER / "国内头部大学汇总.csv", domestic_head)
+    write_csv(MASTER / "国内非头部大学汇总.csv", domestic_non_head)
+    write_csv(MASTER / "国外头部大学汇总.csv", international_head)
+    write_csv(MASTER / "国外非头部大学汇总.csv", international_non_head)
+    audit = {
+        "rules": {
+            "domestic_ranked_rows": 590,
+            "domestic_tail_sort": "zh_CN.UTF-8 collation",
+            "international_primary_sort": "USNEWS rank, then source order",
+            "international_tail_sort": "normalized foreign name",
+            "mainland_chinese_names_are_allowed": True,
+            "fuzzy_matching_is_conservative": True,
+        },
+        "counts": {
+            "domestic_head_rows": len(domestic_head),
+            "domestic_non_head_rows": len(domestic_non_head),
+            "international_head_rows": len(international_head),
+            "international_non_head_rows": len(international_non_head),
+            **stats,
+        },
+        "note": (
+            "Missing Chinese names are not automatically errors: the CSCSE snapshot can omit "
+            "some ranking entries, campus-level entities, and institutions represented under "
+            "different official names. Unmatched records are retained rather than assigned a guessed name."
+        ),
+    }
+    (MASTER / "国外大学排名匹配审计.json").write_text(
+        json.dumps(audit, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
     print(
         json.dumps(
-            {"domestic_rows": len(domestic), "international": stats},
+            {
+                "domestic_head_rows": len(domestic_head),
+                "domestic_non_head_rows": len(domestic_non_head),
+                "international_head_rows": len(international_head),
+                "international_non_head_rows": len(international_non_head),
+                "international": stats,
+            },
             ensure_ascii=False,
             indent=2,
         )

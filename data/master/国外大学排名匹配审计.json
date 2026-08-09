@@ -1,0 +1,34 @@
+{
+  "rules": {
+    "domestic_ranked_rows": 590,
+    "domestic_tail_sort": "zh_CN.UTF-8 collation",
+    "international_primary_sort": "USNEWS rank, then source order",
+    "international_tail_sort": "normalized foreign name",
+    "mainland_chinese_names_are_allowed": true,
+    "fuzzy_matching_is_conservative": true
+  },
+  "counts": {
+    "domestic_head_rows": 590,
+    "domestic_non_head_rows": 2381,
+    "international_head_rows": 2250,
+    "international_non_head_rows": 7143,
+    "us_exact": 1000,
+    "us_unmatched": 1563,
+    "us_base_exact": 11,
+    "us_exact_global": 3,
+    "us_fuzzy": 27,
+    "qs_exact": 1212,
+    "qs_unmatched": 256,
+    "qs_fuzzy": 24,
+    "qs_exact_global": 8,
+    "qs_base_exact": 3,
+    "qs_exact_preferred": 1,
+    "shanghai_exact": 447,
+    "final_rows": 9393,
+    "chinese_names": 8017,
+    "missing_chinese_names": 1376,
+    "us_ranked": 2250,
+    "qs_ranked": 1504
+  },
+  "note": "Missing Chinese names are not automatically errors: the CSCSE snapshot can omit some ranking entries, campus-level entities, and institutions represented under different official names. Unmatched records are retained rather than assigned a guessed name."
+}
