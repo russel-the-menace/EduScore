@@ -288,6 +288,24 @@ def build_international() -> tuple[
     greater_china = load_greater_china_names()
     generated_path = DATA / "international/generated/DeepSeek补充中文名.json"
     generated_names = load_json(generated_path) if generated_path.exists() else []
+    qs_generated_path = DATA / "international/generated/DeepSeek_QS补充中文名.json"
+    qs_generated_names = load_json(qs_generated_path) if qs_generated_path.exists() else []
+    corrections_path = DATA / "international/greater_china/院校中文名人工修正.csv"
+    with corrections_path.open(encoding="utf-8-sig", newline="") as source:
+        chinese_name_corrections = {
+            normalize_name(row["外文名"]): row["中文名"] for row in csv.DictReader(source)
+        }
+    qs_corrections_path = DATA / "international/greater_china/QS院校中文名人工修正.csv"
+    with qs_corrections_path.open(encoding="utf-8-sig", newline="") as source:
+        qs_chinese_name_corrections = {
+            normalize_name(row["QS外文名"]): row["中文名"] for row in csv.DictReader(source)
+        }
+    qs_exclusions_path = DATA / "international/greater_china/QS错误匹配排除.csv"
+    with qs_exclusions_path.open(encoding="utf-8-sig", newline="") as source:
+        qs_match_exclusions = {
+            (normalize_name(row["QS外文名"]), normalize_name(row["USNEWS外文名"]))
+            for row in csv.DictReader(source)
+        }
 
     world_rows = [
         {"name": row["name"], "country": row["country"]} for row in usnews
@@ -309,6 +327,7 @@ def build_international() -> tuple[
             "us_order": None,
             "has_us": False,
             "qs_rank": "",
+            "qs_source_name": "",
             "has_qs": False,
         }
         for school in cscse
@@ -338,6 +357,7 @@ def build_international() -> tuple[
                     "us_order": order,
                     "has_us": True,
                     "qs_rank": "",
+                    "qs_source_name": "",
                     "has_qs": False,
                 }
             )
@@ -377,6 +397,7 @@ def build_international() -> tuple[
                     "us_order": None,
                     "has_us": False,
                     "qs_rank": row.get("rank_2027") or "",
+                    "qs_source_name": row["institution_name"],
                     "has_qs": True,
                 }
             )
@@ -388,6 +409,7 @@ def build_international() -> tuple[
             if entity["us_order"] is None:
                 entity["display_name"] = row["institution_name"]
             entity["qs_rank"] = row.get("rank_2027") or ""
+            entity["qs_source_name"] = row["institution_name"]
             entity["has_qs"] = True
             add_names_to_index(exact_index, index, [row["institution_name"]])
 
@@ -451,6 +473,141 @@ def build_international() -> tuple[
                 )
         if entity["chinese_name"]:
             used_head_chinese_names.add(re.sub(r"\s+", "", entity["chinese_name"]))
+
+    for entity in entities:
+        correction = chinese_name_corrections.get(normalize_name(entity["display_name"]))
+        if entity["us_rank"] is not None and correction:
+            entity["chinese_name"] = correction
+            stats["head_chinese_manual_correction"] += 1
+
+    qs_pending = [
+        {
+            "english_name": entity["qs_source_name"],
+            "country": entity["country"],
+            "qs_rank": entity["qs_rank"],
+        }
+        for entity in entities
+        if entity["has_qs"] and entity["us_rank"] is None
+    ]
+    qs_pending_path = DATA / "international/generated/DeepSeek_QS待补中文名.json"
+    qs_pending_path.parent.mkdir(parents=True, exist_ok=True)
+    qs_pending_path.write_text(
+        json.dumps(qs_pending, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
+    qs_generated_index = {
+        normalize_name(row.get("english_name")): row.get("chinese_name") or ""
+        for row in qs_generated_names
+        if row.get("english_name") and row.get("chinese_name")
+    }
+    qs_match_audit: list[dict[str, Any]] = []
+    for qs_entity in entities:
+        if not qs_entity["has_qs"] or qs_entity["us_rank"] is not None:
+            continue
+        generated_chinese = qs_generated_index.get(
+            normalize_name(qs_entity["qs_source_name"]), ""
+        )
+        generated_chinese = qs_chinese_name_corrections.get(
+            normalize_name(qs_entity["qs_source_name"]), generated_chinese
+        )
+        if not generated_chinese:
+            continue
+        chinese_aliases = {generated_chinese}
+        if qs_entity["cscse_chinese_name"]:
+            chinese_aliases.add(qs_entity["cscse_chinese_name"])
+        chinese_keys = {re.sub(r"\s+", "", name) for name in chinese_aliases}
+        candidates = [
+            entity
+            for entity in entities
+            if entity["us_rank"] is not None
+            and not entity["qs_rank"]
+            and entity["country"] == qs_entity["country"]
+            and re.sub(r"\s+", "", entity["chinese_name"]) in chinese_keys
+        ]
+        method = "unique_chinese_country"
+        matched: dict[str, Any] | None = candidates[0] if len(candidates) == 1 else None
+        if len(candidates) > 1:
+            scored = sorted(
+                (
+                    max(similarity(qs_entity["qs_source_name"], name)[0] for name in candidate["names"]),
+                    candidate,
+                )
+                for candidate in candidates
+            )
+            if scored[-1][0] >= 0.65 and (
+                len(scored) == 1 or scored[-1][0] - scored[-2][0] >= 0.10
+            ):
+                matched = scored[-1][1]
+                method = "chinese_country_english_disambiguated"
+        if matched is None and not candidates:
+            english_candidates: list[tuple[float, float, dict[str, Any]]] = []
+            for entity in entities:
+                if (
+                    entity["us_rank"] is None
+                    or entity["qs_rank"]
+                    or entity["country"] != qs_entity["country"]
+                ):
+                    continue
+                sequence, jaccard = max(
+                    (
+                        similarity(qs_entity["qs_source_name"], name)
+                        for name in entity["names"]
+                    ),
+                    default=(0.0, 0.0),
+                )
+                english_candidates.append((sequence, jaccard, entity))
+            english_candidates.sort(key=lambda item: (item[0], item[1]))
+            if english_candidates:
+                best_sequence, best_jaccard, best_entity = english_candidates[-1]
+                second_sequence = (
+                    english_candidates[-2][0] if len(english_candidates) > 1 else 0.0
+                )
+                if (
+                    best_sequence >= 0.88
+                    and best_sequence - second_sequence >= 0.08
+                ) or (
+                    best_sequence >= 0.82
+                    and best_jaccard >= 0.66
+                    and best_sequence - second_sequence >= 0.06
+                ):
+                    matched = best_entity
+                    method = "english_high_confidence"
+        if matched is not None and (
+            normalize_name(qs_entity["qs_source_name"]),
+            normalize_name(matched["display_name"]),
+        ) in qs_match_exclusions:
+            matched = None
+            method = "manually_excluded"
+        if matched is not None:
+            matched["qs_rank"] = qs_entity["qs_rank"]
+            matched["has_qs"] = True
+            matched["names"].append(qs_entity["qs_source_name"])
+            qs_entity["qs_rank"] = ""
+            stats[f"qs_deepseek_{method}"] += 1
+        qs_match_audit.append(
+            {
+                "qs_english_name": qs_entity["qs_source_name"],
+                "deepseek_chinese_name": generated_chinese,
+                "cscse_chinese_name": qs_entity["cscse_chinese_name"],
+                "country": qs_entity["country"],
+                "qs_rank": matched["qs_rank"] if matched is not None else qs_entity["qs_rank"],
+                "matched_usnews_english_name": matched["display_name"] if matched else "",
+                "method": method if matched else (
+                    method if method == "manually_excluded" else ("ambiguous" if candidates else "unmatched")
+                ),
+                "candidate_count": len(candidates),
+            }
+        )
+    qs_audit_path = MASTER / "QS中文名回填审计.json"
+    qs_audit_path.parent.mkdir(parents=True, exist_ok=True)
+    qs_audit_path.write_text(
+        json.dumps(qs_match_audit, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
+
+    used_head_chinese_names |= {
+        re.sub(r"\s+", "", entity["chinese_name"])
+        for entity in entities
+        if entity["us_rank"] is not None and entity["chinese_name"]
+    }
 
     pending_path = DATA / "international/generated/DeepSeek待补中文名.json"
     pending_path.parent.mkdir(parents=True, exist_ok=True)
@@ -533,6 +690,8 @@ def main() -> None:
             "international_tail_sort": "normalized foreign name",
             "mainland_chinese_names_are_allowed": True,
             "fuzzy_matching_is_conservative": True,
+            "qs_second_pass": "DeepSeek Chinese name + country, then conservative English disambiguation",
+            "qs_manual_exclusions_are_enforced": True,
         },
         "counts": {
             "domestic_head_rows": len(domestic_head),

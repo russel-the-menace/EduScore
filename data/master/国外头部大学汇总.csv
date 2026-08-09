@@ -7,7 +7,7 @@
 清华大学,Tsinghua University,6,14
 加利福尼亚大学伯克利分校,University of California--Berkeley,7,20
 耶鲁大学,Yale University,8,16
-伦敦大学学院,University College London,9,
+伦敦大学学院,University College London,9,8
 哥伦比亚大学,Columbia University,10,43
 加利福尼亚大学洛杉矶分校,University of California--Los Angeles,11,49
 华盛顿大学,University of Washington,12,92
@@ -25,7 +25,7 @@
 加利福尼亚大学圣地亚哥分校,University of California--San Diego,23,81
 芝加哥大学,University of Chicago,25,24
 西北大学,Northwestern University,26,45
-南洋理工大学,Nanyang Technological University,27,
+南洋理工大学,Nanyang Technological University,27,12
 香港中文大学,Chinese University Hong Kong,28,18
 墨尔本大学,University of Melbourne,28,22
 杜克大学,Duke University,30,70
@@ -42,13 +42,13 @@
 爱丁堡大学,University of Edinburgh,41,35
 伦敦国王学院,King's College London,42,37
 不列颠哥伦比亚大学,University of British Columbia,42,45
-昆士兰大学,University of Queensland Australia,42,
+昆士兰大学,University of Queensland Australia,42,40
 哥本哈根大学,University of Copenhagen,45,90
 西奈山伊坎医学院,Icahn School of Medicine at Mount Sinai,46,
 香港城市大学,City University Hong Kong,47,52
 鲁汶天主教大学,KU Leuven,48,59
 复旦大学,Fudan University,49,26
-慕尼黑大学,University of Munich,50,
+慕尼黑大学,University of Munich,50,61
 柏林洪堡大学,Humboldt-Universität zu Berlin,51,140
 香港理工大学,Hong Kong Polytechnic University,52,50
 中国科学院大学,University of Chinese Academy of Sciences,53,360
@@ -61,7 +61,7 @@
 威斯康星大学麦迪逊分校,University of Wisconsin--Madison,60,131
 莱顿大学,Leiden University,61,119
 巴黎大学,Université de Paris,61,
-柏林自由大学,Freie Universität Berlin,63,
+柏林自由大学,Freie Universität Berlin,63,98
 埃默里大学,Emory University,64,183
 俄亥俄州立大学,Ohio State University--Columbus,64,201
 苏黎世大学,University of Zurich,64,98
@@ -78,7 +78,7 @@
 南京大学,Nanjing University,77,90
 格拉斯哥大学,University of Glasgow,77,80
 格罗宁根大学,University of Groningen,77,157
-洛桑联邦理工学院,École Polytechnique Federale of Lausanne,80,
+洛桑联邦理工学院,École Polytechnique Federale of Lausanne,80,22
 澳大利亚国立大学,Australian National University,81,29
 香港科技大学,Hong Kong University of Science and Technology,82,33
 巴黎萨克雷大学,Universite Paris Saclay,82,76
@@ -86,7 +86,7 @@
 阿德莱德大学,Adelaide University,85,79
 悉尼科技大学,University of Technology Sydney,85,87
 武汉大学,Wuhan University,85,165
-巴塞罗那大学,University of Barcelona,88,
+巴塞罗那大学,University of Barcelona,88,165
 鹿特丹伊拉斯姆斯大学,Erasmus University Rotterdam,89,148
 西澳大利亚大学,University of Western Australia,90,77
 阿姆斯特丹自由大学,Vrije Universiteit Amsterdam,91,185
@@ -106,7 +106,7 @@
 科罗拉多大学博德分校,University of Colorado--Boulder,105,320
 佛罗里达大学,University of Florida,105,228
 奥斯陆大学,University of Oslo,105,131
-巴黎文理研究大学,PSL Research University Paris (ComUE),108,
+巴黎文理研究大学,PSL Research University Paris (ComUE),108,34
 赫尔辛基大学,University of Helsinki,109,123
 同济大学,Tongji University,110,146
 哈尔滨工业大学,Harbin Institute of Technology,111,190
@@ -128,8 +128,8 @@
 伦敦卫生与热带医学院,London School of Hygiene and Tropical Medicine,127,
 密歇根州立大学,Michigan State University,127,182
 日内瓦大学,University of Geneva,129,168
-西安交通大学,Xi'an Jiaotong University,129,
-巴塞罗那自治大学,Autonomous University of Barcelona,131,
+西安交通大学,Xi'an Jiaotong University,129,296
+巴塞罗那自治大学,Autonomous University of Barcelona,131,211
 中南大学,Central South University,131,452
 东南大学,Southeast University,133,335
 圣保罗大学,Universidade de São Paulo,134,133
@@ -141,7 +141,7 @@
 四川大学,Sichuan University,139,300
 加利福尼亚大学圣克鲁斯分校,University of California--Santa Cruz,141,458
 迪肯大学,Deakin University,142,227
-奈梅亨大学,Radboud University Nijmegen,142,
+奈梅亨大学,Radboud University Nijmegen,142,283
 贝勒医学院,Baylor College of Medicine,144,
 布朗大学,Brown University,144,66
 南开大学,Nankai University,146,329
@@ -149,7 +149,7 @@
 利兹大学,University of Leeds,146,77
 乌普萨拉大学,Uppsala University,146,87
 麦克马斯特大学,McMaster University,150,174
-博洛尼亚大学,University of Bologna,150,
+博洛尼亚大学,University of Bologna,150,123
 北京理工大学,Beijing Institute of Technology,152,243
 普渡大学,Purdue University--West Lafayette,152,100
 电子科技大学,University of Electronic Science and Technology of China,152,488
@@ -173,12 +173,12 @@
 昆士兰科技大学,Queensland University of Technology,172,240
 麦考瑞大学,Macquarie University,173,126
 皇家墨尔本理工大学,RMIT University,173,119
-帕多瓦大学,University of Padua,175,
+帕多瓦大学,University of Padua,175,204
 厦门大学,Xiamen University,176,303
 德克萨斯农工大学,Texas A&M University--College Station,177,169
 哥德堡大学,University of Gothenburg,177,225
 亚利桑那州立大学,Arizona State University--Tempe,179,172
-波恩大学,University of Bonn,179,
+波恩大学,University of Bonn,179,209
 洛桑大学,University of Lausanne,179,233
 西北工业大学,Northwestern Polytechnical University,182,425
 北京航空航天大学,Beihang University,183,349
@@ -195,7 +195,7 @@
 斯德哥尔摩大学,Stockholm University,193,167
 特拉维夫大学,Tel Aviv University,193,208
 科罗拉多大学安舒茨医学校区,University of Colorado Anschutz Medical Campus,193,851-900
-蒙特利尔大学,University of Montreal,193,
+蒙特利尔大学,University of Montreal,193,162
 维也纳大学,University of Vienna,193,140
 滑铁卢大学,University of Waterloo,199,113
 华威大学,University of Warwick,200,68
@@ -210,13 +210,13 @@
 罗切斯特大学,University of Rochester,208,251
 郑州大学,Zhengzhou University,208,581
 卡迪夫大学,Cardiff University,211,179
-德累斯顿工业大学,Technical University of Dresden,212,
+德累斯顿工业大学,Technical University of Dresden,212,185
 维也纳医科大学,Medical University of Vienna,213,
-都柏林圣三一大学,Trinity College Dublin,213,
+都柏林圣三一大学,Trinity College Dublin,213,75
 辛辛那提大学,University of Cincinnati,213,741-750
-鲁汶天主教大学,University Catholique of Louvain,216,
+鲁汶天主教大学,University Catholique of Louvain,216,196
 那不勒斯费德里科二世大学,University of Naples Federico II,216,401
-法兰克福大学,Johann Wolfgang Goethe University Frankfurt am Main,218,
+法兰克福大学,Johann Wolfgang Goethe University Frankfurt am Main,218,376
 俄勒冈健康与科学大学,Oregon Health and Science University,218,
 明斯特大学,University of Münster,218,370
 开罗大学,Cairo University,221,363
@@ -228,14 +228,14 @@
 华东师范大学,East China Normal University,227,394
 雅典大学,National and Kapodistrian University of Athens,227,402
 弗赖堡大学,University of Freiburg,227,
-查理大学,Charles University in Prague,230,
+查理大学,Charles University in Prague,230,273
 都灵大学,University of Turin,230,405
 东北大学,Northeastern University,232,385
 江苏大学,Jiangsu University,233,701-710
 国立台湾大学,National Taiwan University,233,54
 迈阿密大学（佛罗里达州）,University of Miami,233,338
-纽约州立大学石溪分校,Stony Brook University--SUNY,236,
-圣拉斐尔生命健康大学,Vita-Salute San Raffaele University,237,
+纽约州立大学石溪分校,Stony Brook University--SUNY,236,468
+圣拉斐尔生命健康大学,Vita-Salute San Raffaele University,237,465
 挪威科技大学,Norwegian University of Science and Technology,238,264
 科隆大学,University of Cologne,238,269
 威特沃特斯兰德大学,University of Witwatersrand,240,302
@@ -243,53 +243,53 @@
 纽卡斯尔大学,University of Newcastle,242,
 西悉尼大学,Western Sydney University,242,370
 成均馆大学,Sungkyunkwan University,244,108
-韩国科学技术院,Korea Advanced Institute of Science and Technology,245,
+韩国科学技术院,Korea Advanced Institute of Science and Technology,245,65
 里斯本大学,University of Lisbon,245,237
-艾克斯-马赛大学,University of Aix-Marseille,247,
+艾克斯-马赛大学,University of Aix-Marseille,247,443
 沙迦大学,University of Sharjah,247,283
-皇家工学院,Royal Institute of Technology,249,
+皇家工学院,Royal Institute of Technology,249,82
 爱荷华大学,University of Iowa,249,597
-维尔茨堡大学,University of Würzburg,249,
-柏林工业大学,Technical University of Berlin,252,
+维尔茨堡大学,University of Würzburg,249,430
+柏林工业大学,Technical University of Berlin,252,158
 伊利诺伊大学芝加哥分校,University of Illinois--Chicago,252,370
 大连理工大学,Dalian University of Technology,254,463
 吉林大学,Jilin University,255,488
 高丽大学,Korea University,255,52
 佛罗伦萨大学,University of Florence,255,409
 都柏林大学学院,University College Dublin,258,100
-马德里自治大学,Autonomous University of Madrid,259,
+马德里自治大学,Autonomous University of Madrid,259,226
 乔治华盛顿大学,George Washington University,259,381
-蒙彼利埃大学,University of Montpellier,259,
+蒙彼利埃大学,University of Montpellier,259,473
 加利福尼亚大学河滨分校,University of California--Riverside,262,398
-卡塔尔大学,University of Qatar,262,
-大阪大学,Osaka University,264,
+卡塔尔大学,University of Qatar,262,109
+大阪大学,Osaka University,264,95
 伊巴丹大学,University of Ibadan,264,1001-1200
 渥太华大学,University of Ottawa,264,228
 曼苏拉大学,Mansoura University,267,1001-1200
 北卡罗莱纳州立大学,North Carolina State University--Raleigh,268,320
 东北大学,Tohoku University,268,102
 杜伦大学,Durham University,270,85
-庞培法布拉大学,Pompeu Fabra University,270,
+庞培法布拉大学,Pompeu Fabra University,270,263
 比萨大学,University of Pisa,270,341
 塔斯马尼亚大学,University of Tasmania,270,311
-瓦伦西亚大学,University of Valencia,270,
+瓦伦西亚大学,University of Valencia,270,449
 塔夫茨大学,Tufts University,275,338
-（法语）布鲁塞尔自由大学,Université Libre de Bruxelles,275,248
+布鲁塞尔自由大学,Université Libre de Bruxelles,275,248
 卑尔根大学,University of Bergen,275,283
 南丹麦大学,University of Southern Denmark,278,283
 爱资哈尔大学,Al Azhar University,279,1001-1200
 上海大学,Shanghai University,279,443
-西北农林科技大学,Northwest A&F University - China,281,
-波尔多大学,Universite de Bordeaux,281,
+西北农林科技大学,Northwest A&F University - China,281,731-740
+波尔多大学,Universite de Bordeaux,281,485
 约翰内斯堡大学,University of Johannesburg,281,292
 塔尔图大学,University of Tartu,281,367
 乐卓博大学,La Trobe University,285,241
 阿联酋大学,United Arab Emirates University,285,217
-弗吉尼亚理工大学,Virginia Tech,285,
+弗吉尼亚理工大学,Virginia Tech,285,366
 奥尔堡大学,Aalborg University,288,329
 希伯来大学,Hebrew University of Jerusalem,288,218
 阿尔托大学,Aalto University,290,126
-艾因夏姆斯大学,Ain Shams University,290,
+艾因夏姆斯大学,Ain Shams University,290,551
 乔治敦大学,Georgetown University,290,289
 奥塔哥大学,University of Otago,290,198
 波尔图大学,University of Porto,290,255
@@ -297,17 +297,17 @@
 马德里康普顿斯大学,Complutense University of Madrid,296,199
 萨塞克斯大学,University of Sussex,296,273
 德克萨斯大学圣安东尼奥分校,University of Texas--San Antonio,296,1001-1200
-卡尔斯鲁厄理工学院,Karlsruhe Institute of Technology,299,
-莱比锡大学,Leipzig University,299,
+卡尔斯鲁厄理工学院,Karlsruhe Institute of Technology,299,110
+莱比锡大学,Leipzig University,299,540
 斯泰伦博斯大学,Stellenbosch University,299,296
-米兰比可卡大学,University of Milan - Bicocca,299,
+米兰比可卡大学,University of Milan - Bicocca,299,544
 武汉理工大学,Wuhan University of Technology,299,951-1000
 亚历山大大学,Alexandria University,304,801-850
 扎加齐克大学,Zagazig University,304,1201-1400
 哈立德国王大学,King Khalid University,306,514
 林雪平大学,Linköping University,306,308
 世宗大学,Sejong University,306,398
-埃尔朗根-纽伦堡大学,University of Erlangen Nuremberg,309,
+埃尔朗根-纽伦堡大学,University of Erlangen Nuremberg,309,218
 韦仕敦大学,Western University,309,142
 马来亚大学,University of Malaya,311,56
 苏州大学,Soochow University,312,711-720
@@ -331,42 +331,42 @@
 约克大学,University of York,328,158
 达特茅斯学院,Dartmouth College,331,270
 九州大学,Kyushu University,331,171
-斯特拉斯堡大学,University of Strasbourg,331,
-保罗·萨巴捷大学（图卢兹第三大学）,University Paul Sabatier - Toulouse 3,331,
+斯特拉斯堡大学,University of Strasbourg,331,456
+保罗·萨巴捷大学（图卢兹第三大学）,University Paul Sabatier - Toulouse 3,331,565
 佐治亚大学,University of Georgia,335,536
 智利天主教大学,Pontificia University Católica de Chile,336,119
 田纳西大学,University of Tennessee,336,
 东京科学大学,Institute of Science Tokyo,338,97
 萨里大学,University of Surrey,339,246
 哈利法科学技术大学,Khalifa University of Science and Technology,340,
-米兰理工大学,Polytechnic University of Milan,340,
+米兰理工大学,Polytechnic University of Milan,340,87
 比萨高等师范学校,Scuola Normale Superiore di Pisa,340,
-天主教圣心大学,Catholic University of Sacred Heart,343,
+天主教圣心大学,Catholic University of Sacred Heart,343,388
 中国人民大学,Renmin University of China,343,521
 科技大学,Pohang University of Science and Technology,345,106
 南昆士兰大学,University of Southern Queensland,345,411
 科罗拉多州立大学,Colorado State University,347,540
 查尔姆斯理工大学,Chalmers University of Technology,348,174
-布宜诺斯艾利斯大学,University of Buenos Aires,348,
+布宜诺斯艾利斯大学,University of Buenos Aires,348,84
 奥卢大学,University of Oulu,348,360
 中国医药大学,China Medical University Taiwan,351,
 华中农业大学,Huazhong Agricultural University,351,1001-1200
 上海科技大学,ShanghaiTech University,351,
 里尔大学,Université de Lille,351,686
-墨西哥国立自治大学,National Autonomous University of Mexico,355,
+墨西哥国立自治大学,National Autonomous University of Mexico,355,145
 北京科技大学,University of Science and Technology Beijing,355,443
 江南大学,Jiangnan University,357,771-780
 堪萨斯大学,University of Kansas,357,515
 北京化工大学,Beijing University of Chemical Technology,359,649
 新加坡科技与设计大学,Singapore University of Technology and Design,359,266
-坎皮纳斯州立大学,State University of Campinas,359,
+坎皮纳斯州立大学,State University of Campinas,359,277
 南佛罗里达大学,University of South Florida,362,761-770
 图尔库大学,University of Turku,362,398
-布鲁塞尔自由大学,Free University of Brussels,364,
+布鲁塞尔自由大学,Free University of Brussels,364,295
 波鸿大学,Ruhr University Bochum,364,402
 天普大学,Temple University,364,751-760
 科克大学学院,University College Cork,364,220
-帕维亚大学,University of Pavia,364,
+帕维亚大学,University of Pavia,364,395
 纽约州立大学布法罗分校,University at Buffalo--SUNY,369,416
 格拉纳达大学,University of Granada,369,447
 克洛德·贝尔纳里昂第一大学,Claude Bernard University Lyon 1,371,
@@ -387,7 +387,7 @@
 南京林业大学,Nanjing Forestry University,386,
 巴斯大学,University of Bath,386,125
 热那亚大学,University of Genoa,386,502
-基尔大学,University of Kiel,386,
+基尔大学,University of Kiel,386,620
 休斯顿大学,University of Houston,390,551
 塞萨洛尼基亚里士多德大学,Aristotle University of Thessaloniki,391,502
 罗马第二大学,University of Rome Tor Vergata,391,342
@@ -400,7 +400,7 @@
 纳瓦拉大学,University of Navarra,394,279
 埃因霍温理工大学,Eindhoven University of Technology,400,152
 爱荷华州立大学,Iowa State University,400,540
-乌尔姆大学,University of Ulm,400,
+乌尔姆大学,University of Ulm,400,575
 弗吉尼亚联邦大学,Virginia Commonwealth University,400,951-1000
 的里雅斯特大学,University of Trieste,404,761-770
 艾斯尤特大学,Assiut University,405,1001-1200
@@ -410,9 +410,9 @@
 雷丁大学,University of Reading,408,196
 伊斯兰堡COMSATS大学,COMSATS University Islamabad (CUI),410,639
 戴尔豪斯大学,Dalhousie University,410,298
-耶拿大学,Friedrich Schiller University of Jena,410,
+耶拿大学,Friedrich Schiller University of Jena,410,567
 路易斯安那州立大学巴吞鲁日分校,Louisiana State University--Baton Rouge,410,901-950
-加泰罗尼亚理工大学,Universitat Politècnica de Catalunya,410,
+加泰罗尼亚理工大学,Universitat Politècnica de Catalunya,410,434
 汉阳大学,Hanyang University,415,155
 皇后大学,Queen's University,415,
 俄勒冈州立大学,Oregon State University,417,711-720
@@ -420,9 +420,9 @@
 特文特大学,University of Twente,417,223
 维多利亚大学,University of Victoria,417,370
 蔚山科学技术院,Ulsan National Institute of Science and Technology,421,299
-智利大学,University of Chile,421,
+智利大学,University of Chile,421,185
 夸祖鲁-纳塔尔大学,University of KwaZulu Natal,421,600
-列日大学,University of Liège,421,
+列日大学,University of Liège,421,364
 兰州大学,Lanzhou University,425,721-730
 中国海洋大学,Ocean University of China,425,801-850
 华盛顿州立大学,Washington State University,425,510
@@ -437,8 +437,8 @@
 华沙大学,University of Warsaw,435,289
 邓迪大学,University of Dundee,437,447
 密西西比大学,University of Mississippi,437,1001-1200
-塞维利亚大学,University of Seville,437,
-杜塞尔多夫大学,Heinrich Heine University of Dusseldorf,440,
+塞维利亚大学,University of Seville,437,485
+杜塞尔多夫大学,Heinrich Heine University of Dusseldorf,440,951-1000
 南京理工大学,Nanjing University of Science and Technology,441,675
 于默奥大学,Umeå University,441,438
 密苏里大学,University of Missouri,441,
@@ -463,10 +463,10 @@ KOC大学,Koç University,457,329
 卡夫雷尔谢克大学,Kafrelsheikh University,460,
 莫道克大学,Murdoch University,460,422
 马萨诸塞大学伍斯特分校,University of Massachusetts--Worcester,460,
-南特大学,University of Nantes,460,
+南特大学,University of Nantes,460,901-950
 海峡大学,Boğaziçi University,466,345
 洛林大学,Universite de Lorraine,466,801-850
-卡塔尼亚大学,University of Catania,466,
+卡塔尼亚大学,University of Catania,466,851-900
 特拉华大学,University of Delaware,466,575
 韦恩州立大学,Wayne State University,466,801-850
 东华大学,Donghua University,471,851-900
@@ -475,7 +475,7 @@ KOC大学,Koç University,457,329
 新墨西哥大学,University of New Mexico,471,771-780
 筑波大学,University of Tsukuba,471,351
 汉诺威医学院,Hannover Medical School,476,
-西南大学,Southwest University - China,476,
+西南大学,Southwest University - China,476,951-1000
 惠灵顿维多利亚大学,Victoria University of Wellington,476,241
 因斯布鲁克医科大学,Medical University of Innsbruck,479,
 南京信息工程大学,Nanjing University of Information Science and Technology,479,
@@ -486,7 +486,7 @@ KOC大学,Koç University,457,329
 夏威夷大学马诺分校,University of Hawaii--Manoa,482,643
 斯特拉斯克莱德大学,University of Strathclyde,482,230
 哈马德·本·哈利法大学,Hamad Bin Khalifa University,487,213
-里约热内卢联邦大学,Federal University of Rio de Janeiro,488,
+里约热内卢联邦大学,Federal University of Rio de Janeiro,488,367
 佛罗里达国际大学,Florida International University,488,659
 诺拉·宾特·阿卜杜勒拉赫曼公主大学,Princess Nourah bint Abdulrahman University,488,801-850
 波士顿学院,Boston College,491,549
@@ -503,11 +503,11 @@ KOC大学,Koç University,457,329
 塔伊夫大学,Taif University,497,851-900
 广东工业大学,Guangdong University of Technology,503,1001-1200
 国际高等研究院,International School for Advanced Studies,503,
-圣地亚哥德孔波斯特拉大学,University of Santiago of Compostela,503,
+圣地亚哥德孔波斯特拉大学,University of Santiago of Compostela,503,629
 德克萨斯大学达拉斯分校,University of Texas--Dallas,503,686
 厄特沃什·罗兰大学,Eotvos Lorand University,507,595
 庆应义塾大学,Keio University,507,213
-拉瓦尔大学,Laval University,507,
+拉瓦尔大学,Laval University,507,526
 诺丁汉特伦特大学,Nottingham Trent University,507,639
 中国石油大学（华东）,China University of Petroleum,511,
 南昌大学,Nanchang University,511,
@@ -515,19 +515,19 @@ KOC大学,Koç University,457,329
 华南师范大学,South China Normal University,514,
 俄克拉荷马大学,University of Oklahoma,514,771-780
 维克森林大学,Wake Forest University,514,801-850
-莫斯科国立罗蒙诺索夫大学,M. V. Lomonosov Moscow State University,517,
-都灵理工大学,Polytechnic University of Turin,517,
+莫斯科国立罗蒙诺索夫大学,M. V. Lomonosov Moscow State University,517,115
+都灵理工大学,Polytechnic University of Turin,517,206
 朴次茅斯大学,University of Portsmouth,517,662
 南卡罗来纳医科大学,Medical University of South Carolina,520,
 国立清华大学,National Tsing Hua University,520,142
 内布拉斯加大学林肯分校,University of Nebraska--Lincoln,522,801-850
-维罗纳大学,University of Verona,522,
+维罗纳大学,University of Verona,522,781-790
 奥克兰理工大学,Auckland University of Technology,524,431
 北京交通大学,Beijing Jiaotong University,524,771-780
-北京邮电大学,Beijing University of Posts,524,
-布鲁内尔大学,Brunel University,524,
+北京邮电大学,Beijing University of Posts,524,1001-1200
+布鲁内尔大学,Brunel University,524,353
 提契诺大学,Università della Svizzera italiana,524,456
-雷恩第一大学,Université de Rennes 1,524,
+雷恩第一大学,Université de Rennes 1,524,731-740
 约克大学,York University,530,322
 首都医科大学,Capital Medical University,531,
 马萨里克大学,Masaryk University,531,454
@@ -543,52 +543,52 @@ KOC大学,Koç University,457,329
 早稻田大学,Waseda University,540,201
 华东理工大学,East China University of Science and Technology,543,670
 马来西亚博特拉大学,Universiti Putra Malaysia,543,138
-坎特伯雷大学,University of Canterbury,543,
+坎特伯雷大学,University of Canterbury,543,257
 广州大学,Guangzhou University,546,
 苏丹亲王大学,Prince Sultan University,546,488
 塞梅尔维斯大学,Semmelweis University,546,
 马来西亚国立大学,Universiti Kebangsaan Malaysia (UKM),546,130
 贝鲁特美国大学,American University of Beirut,550,223
 哥本哈根商学院,Copenhagen Business School,550,
-乌拉尔联邦大学,Ural Federal University,550,
-维也纳工业大学,Vienna University of Technology,550,
+乌拉尔联邦大学,Ural Federal University,550,504
+维也纳工业大学,Vienna University of Technology,550,191
 浙江工业大学,Zhejiang University of Technology,550,560
 德雷克塞尔大学,Drexel University,555,771-780
 玛希隆大学,Mahidol University,555,345
 威斯康星医学院,Medical College of Wisconsin,555,
-艾哈迈杜贝洛大学,Ahmadu Bello University,558,
+艾哈迈杜贝洛大学,Ahmadu Bello University,558,1201-1400
 香港教育大学,The Education University of Hong Kong,559,406
 东芬兰大学,University of Eastern Finland,559,626
 圭尔夫大学,University of Guelph,559,546
 德克萨斯理工大学,Texas Tech University,562,761-770
 乌姆埃尔古拉大学,Umm Al-Qura University,562,741-750
-中国矿业大学,China University of Mining,564,
+中国矿业大学,China University of Mining,564,659
 南京医科大学,Nanjing Medical University,565,
 卡布斯苏丹大学,Sultan Qaboos University,565,306
 于韦斯屈莱大学,University of Jyväskylä,565,521
 澳门科技大学,Macau University of Science and Technology,568,398
 格拉茨医科大学,Medical University of Graz,568,
 中东科技大学,Middle East Technical University,568,305
-吉森大学,University of Giessen,568,
+吉森大学,University of Giessen,568,521
 萨格勒布大学,University of Zagreb,568,721-730
 莫斯科物理技术学院,Moscow Institute of Physics and Technology,573,504
 国立研究大学高等经济学院,National Research University - Higher School of Economics,573,
 康斯坦茨大学,University of Konstanz,573,425
-管理与技术大学,University of Management & Technology (UMT),573,
+管理与技术大学,University of Management & Technology (UMT),573,1201-1400
 田纳西大学健康医学中心,University of Tennessee Health Science Center,573,
 马尔堡大学,Philipps University of Marburg,578,951-1000
 沙里夫理工大学,Sharif University of Technology,578,390
 苏里尼大学,Shoolini University,578,
-圣保罗州立大学,UNESP - Universidade Estadual Paulista,578,
-汉诺威大学,University of Hannover,578,
-圣保罗联邦大学,Federal University of São Paulo,583,
+圣保罗州立大学,UNESP - Universidade Estadual Paulista,578,513
+汉诺威大学,University of Hannover,578,470
+圣保罗联邦大学,Federal University of São Paulo,583,801-850
 华南农业大学,South China Agricultural University,583,
 国家伊斯兰大学,Jamia Millia Islamia,585,686
 德黑兰医科大学,Tehran University of Medical Sciences,585,
 不来梅大学,University of Bremen,587,581
-西北大学（南非）,North West University - South Africa,588,
+西北大学（南非）,North West University - South Africa,588,1001-1200
 雷根斯堡大学,University of Regensburg,588,696
-国立科学与技术大学,National University of Sciences and Technology - Pakistan,590,
+国立科学与技术大学,National University of Sciences and Technology - Pakistan,590,384
 巴勒莫大学,University of Palermo,590,801-850
 亚的斯亚贝巴大学,Addis Ababa University,592,951-1000
 印度科学理工学院（班加罗尔）,Indian Institute of Science - Bangalore,592,221
@@ -618,8 +618,8 @@ KOC大学,Koç University,457,329
 雅典国立技术大学,National Technical University of Athens,615,378
 孙德胜大学,Ton Duc Thang University,615,801-850
 云南大学,Yunnan University,615,
-焦夫大学,Al Jouf University,620,
-本哈大学,Benha University,620,
+焦夫大学,Al Jouf University,620,951-1000
+本哈大学,Benha University,620,1401+
 梅西大学,Massey University,620,215
 北亚利桑那大学,Northern Arizona University,620,1001-1200
 冰岛大学,University of Iceland,620,537
@@ -633,7 +633,7 @@ KOC大学,Koç University,457,329
 哈勒－维腾贝格大学,Martin Luther University of Halle-Wittenberg,629,801-850
 卡尔顿大学,Carleton University,633,801-850
 成都大学,Chengdu University,633,
-瓦伦西亚理工大学,Polytechnic University of Valencia,633,
+瓦伦西亚理工大学,Polytechnic University of Valencia,633,434
 西南财经大学,Southwestern University of Finance and Economics - China,633,
 费萨拉巴德农业大学,University of Agriculture Faisalabad,633,629
 斯图加特大学,University of Stuttgart,633,318
@@ -655,7 +655,7 @@ KOC大学,Koç University,457,329
 达姆施塔特工业大学,Technical University of Darmstadt,651,250
 蒂尔堡大学,Tilburg University,651,429
 安蒂奥基亚大学,Universidad de Antioquia,651,851-900
-里昂高等师范学校,ENS De Lyon,657,
+里昂高等师范学校,ENS De Lyon,657,235
 哈西德佩大学,Hacettepe University,657,570
 印度理工学院孟买分校,Indian Institute of Technology - Bombay,657,134
 冲绳科学技术大学院大学,Okinawa Institute of Science and Technology Graduate University,657,
@@ -668,31 +668,31 @@ KOC大学,Koç University,457,329
 佛蒙特大学,University of Vermont,663,1001-1200
 西北大学,"Northwest University, Xi'an",668,
 圣路易斯大学,Saint Louis University,668,1001-1200
-费拉拉大学,University of Ferrara,668,
+费拉拉大学,University of Ferrara,668,901-950
 米尼奥大学,University of Minho,668,572
-巴黎东克雷泰伊大学,University of Paris-Est Creteil,668,
+巴黎东克雷泰伊大学,University of Paris-Est Creteil,668,901-950
 阿布扎比大学,Abu Dhabi University,673,348
-伊玛目穆罕默德·本·沙特伊斯兰大学,Al-Imam Muhammad Ibn Saud Islamic University,673,
+伊玛目穆罕默德·本·沙特伊斯兰大学,Al-Imam Muhammad Ibn Saud Islamic University,673,791-800
 巴比什-博雅依大学,Babes-Bolyai University,673,851-900
 伯恩茅斯大学,Bournemouth University,673,801-850
 捷克生命科学大学,Czech University of Life Sciences Prague,673,731-740
-阿威罗大学,Universidade de Aveiro,673,
+阿威罗大学,Universidade de Aveiro,673,425
 阿拉巴马大学,University of Alabama,673,1001-1200
 克里特大学,University of Crete,673,649
 达卡大学,University of Dhaka,673,600
-马德里理工大学,Polytechnic University of Madrid,682,
-罗马第三大学,Roma Tre University,682,
+马德里理工大学,Polytechnic University of Madrid,682,364
+罗马第三大学,Roma Tre University,682,851-900
 苏伊士运河大学,Suez Canal University,682,
 塔塔基础研究院,Tata Institute of Fundamental Research,682,
 弗里堡大学,University of Fribourg,682,670
-格拉茨大学,University of Graz,682,
+格拉茨大学,University of Graz,682,696
 吉赞大学,Jazan University,688,
 南京邮电大学,Nanjing University of Posts and Telecommunications,688,
-罗格斯大学纽瓦克分校,"Rutgers, The State University of New Jersey--Newark",688,
+罗格斯大学纽瓦克分校,"Rutgers, The State University of New Jersey--Newark",688,801-850
 堪培拉大学,University of Canberra,688,477
 赫特福德郡大学,University of Hertfordshire,688,851-900
 清迈大学,Chiang Mai University,693,555
-巴哈瓦尔布尔伊斯兰大学,Islamia University of Bahawalpur,693,
+巴哈瓦尔布尔伊斯兰大学,Islamia University of Bahawalpur,693,1401+
 曼彻斯特城市大学,Manchester Metropolitan University,693,600
 蔚山大学,University of Ulsan,693,851-900
 印第安纳大学印第安纳波利斯分校,Indiana University Indianapolis,697,1201-1400
@@ -704,9 +704,9 @@ KOC大学,Koç University,457,329
 博茨瓦纳大学,University of Botswana,701,
 路易斯维尔大学,University of Louisville,701,1001-1200
 吕贝克大学,University of Luebeck,701,
-特罗姆瑟大学,University of Tromsø,701,
+特罗姆瑟大学,University of Tromsø,701,629
 昌卡亚大学,Çankaya University,707,
-埃塞克斯大学,University of Essex,707,
+埃塞克斯大学,University of Essex,707,438
 加纳大学,University of Ghana,707,851-900
 比勒费尔德大学,Bielefeld University,710,1001-1200
 维也纳农业大学,University of Bodenkultur Wien,710,
@@ -722,11 +722,11 @@ KOC大学,Koç University,457,329
 亚洲大学,Asia University Taiwan,721,649
 河南大学,Henan University,721,1201-1400
 罗切斯特理工学院,Rochester Institute of Technology,721,951-1000
-上海财经大学,Shanghai University of Finance,721,
+上海财经大学,Shanghai University of Finance,721,1201-1400
 赫尔大学,University of Hull,721,575
 俄克拉荷马大学健康科学中心,University of Oklahoma Health Sciences Center,721,
 恩克鲁玛科技大学,Kwame Nkrumah University Science and Technology,727,1201-1400
-诺森比亚大学,Northumbria University,727,
+诺森比亚大学,Northumbria University,727,528
 帕拉茨基大学,Palacky University Olomouc,727,711-720
 印度尼西亚大学,University of Indonesia,727,191
 墨西拿大学,University of Messina,727,761-770
@@ -735,7 +735,7 @@ KOC大学,Koç University,457,329
 北京工商大学,Beijing Technology and Business University,734,
 澳大利亚联邦大学,Federation University Australia,734,
 大连海事大学,Dalian Maritime University,736,
-圣卡塔琳娜联邦大学,Federal University of Santa Catarina,736,
+圣卡塔琳娜联邦大学,Federal University of Santa Catarina,736,901-950
 海南大学,Hainan University,736,
 阿迦汗大学,Aga Khan University,739,951-1000
 昌迪加尔大学,Chandigarh University,739,526
@@ -747,31 +747,31 @@ KOC大学,Koç University,457,329
 浙江工商大学,Zhejiang Gongshang University,739,
 明亚大学,Minia University,747,
 东北师范大学,Northeast Normal University - China,747,
-拉古纳大学,University of La Laguna,747,
+拉古纳大学,University of La Laguna,747,1401+
 马萨诸塞大学波士顿分校,University of Massachusetts--Boston,747,1001-1200
 查尔斯达尔文大学,Charles Darwin University,751,551
-多特蒙德工业大学,Dortmund University of Technology,751,
+多特蒙德工业大学,Dortmund University of Technology,751,691
 合肥工业大学,Hefei University of Technology,751,
 纽芬兰纪念大学,Memorial University of Newfoundland,751,721-730
 华北电力大学,North China Electric Power University,751,
-斯塔万格大学,Universitetet i Stavanger,751,
+斯塔万格大学,Universitetet i Stavanger,751,851-900
 岭南大学,Yeungnam University,751,791-800
 庆北国立大学,Kyungpook National University,758,481
 俄克拉荷马州立大学,Oklahoma State University,758,901-950
 山东科技大学,Shandong University of Science and Technology,758,
 怀卡托大学,University of Waikato,758,293
 布兰戴斯大学,Brandeis University,762,751-760
-拉巴特穆罕默德五世大学,Mohammed V University in Rabat,762,
-共生国际大学,Symbiosis International University,762,
+拉巴特穆罕默德五世大学,Mohammed V University in Rabat,762,1001-1200
+共生国际大学,Symbiosis International University,762,655
 坎塔布里亚大学,Universidad de Cantabria,762,1001-1200
 文莱大学,University Brunei Darussalam,762,345
 拜罗伊特大学,University of Bayreuth,762,472
 旁遮普大学,University of Punjab,762,588
-萨拉戈萨大学,University of Zaragoza,762,
+萨拉戈萨大学,University of Zaragoza,762,701-710
 查尔斯特大学,Charles Sturt University,770,951-1000
 科罗拉多矿业学院,Colorado School of Mines,770,575
 康考迪亚大学,Concordia University,770,497
-拉彭兰塔理工大学,Lappeenranta University of Technology,770,
+拉彭兰塔理工大学,Lappeenranta University of Technology,770,390
 国立核研究大学莫斯科工程物理学院,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),770,626
 肯特大学,University of Kent,770,415
 南非大学,University of South Africa,770,951-1000
@@ -785,7 +785,7 @@ KOC大学,Koç University,457,329
 安卡拉大学,Ankara University,783,731-740
 福建农林大学,Fujian Agriculture and Forestry University,783,
 基尔大学,Keele University,783,801-850
-岭南大学,Lingnan University,783,
+岭南大学,Lingnan University,783,581
 马什哈德医科大学,Mashhad University Medical Science,783,
 塔比亚特•莫达雷斯大学,Tarbiat Modares University,783,
 泰莱大学,Taylor's University,783,272
@@ -795,9 +795,9 @@ KOC大学,Koç University,457,329
 维多利亚大学,Victoria University,791,696
 巴哈丁·扎卡里亚大学,Bahauddin Zakariya University,795,1001-1200
 曼海姆大学,University of Mannheim,795,425
-维戈大学,University of Vigo,795,
+维戈大学,University of Vigo,795,801-850
 中央昆士兰大学,Central Queensland University,798,436
-马尔凯理工大学,Marche Polytechnic University,798,
+马尔凯理工大学,Marche Polytechnic University,798,662
 海岸大学,Universidad de la Costa,798,
 贝拿勒斯印度教大学,Banaras Hindu University,801,951-1000
 考门斯基大学,Comenius University in Bratislava,801,662
@@ -824,12 +824,12 @@ AGH克拉科夫大学,AGH University of Krakow,817,761-770
 伊利诺伊理工学院,Illinois Institute of Technology,821,620
 塞得港大学,Port Said University,821,
 卡萨布兰卡哈桑二世大学,University of Casablanca Hassan 2,821,
-康塞普西翁大学,University of Concepción,821,
+康塞普西翁大学,University of Concepción,821,662
 内华达大学里诺分校,University of Nevada--Reno,821,1001-1200
 都柏林城市大学,Dublin City University,828,408
 穆尔西亚大学,University of Murcia,828,1001-1200
-佩鲁贾大学,University of Perugia,828,
-艾尔朗加大学,Airlangga University,831,
+佩鲁贾大学,University of Perugia,828,1001-1200
+艾尔朗加大学,Airlangga University,831,276
 巴哈达大学,Bahir Dar University,831,
 比尔肯特大学,Bilkent University,831,454
 法尤姆大学,Fayoum University,831,
@@ -846,7 +846,7 @@ AGH克拉科夫大学,AGH University of Krakow,817,761-770
 国立台湾师范大学,National Taiwan Normal University,842,423
 阿哥德大学,University of Agder,842,1001-1200
 帕特雷大学,University of Patras,842,771-780
-乌迪内大学,University of Udine,842,
+乌迪内大学,University of Udine,842,1001-1200
 阿赫利亚安曼大学,Al-Ahliyya Amman University,849,643
 阮必成大学,Nguyen Tat Thanh University (NTTU),849,
 吉拉利·利亚贝斯大学,Université Djillali Liabes,849,
@@ -856,8 +856,8 @@ AGH克拉科夫大学,AGH University of Krakow,817,761-770
 伊洛林大学,University of Ilorin,853,
 巴伊兰大学,Bar-Ilan University,856,711-720
 新罕布什尔大学,University of New Hampshire,856,1201-1400
-尼日利亚大学,University of Nigeria,856,
-亚当·密茨凯维奇大学,Adam Mickiewicz University,859,
+尼日利亚大学,University of Nigeria,856,1201-1400
+亚当·密茨凯维奇大学,Adam Mickiewicz University,859,731-740
 近东大学,Near East University,859,791-800
 塔布克大学,University of Tabuk,859,1001-1200
 青岛科技大学,Qingdao University of Science and Technology,862,
@@ -876,15 +876,15 @@ AGH克拉科夫大学,AGH University of Krakow,817,761-770
 东地中海大学,Eastern Mediterranean University,875,691
 陕西师范大学,Shaanxi Normal University,875,1001-1200
 国油科技大学,Universiti Teknologi Petronas,875,261
-巴西利亚大学,University of Brasilia,875,
+巴西利亚大学,University of Brasilia,875,851-900
 奥波莱大学,University of Opole,875,
 罗斯托克大学,University of Rostock,875,901-950
 德克萨斯大学阿灵顿分校,University of Texas--Arlington,875,1001-1200
 安徽大学,Anhui University,882,1201-1400
 国立台湾科技大学,National Taiwan University of Science and Technology,882,379
 奥巴费米亚沃洛沃大学,Obafemi Awolowo University,882,1401+
-俄罗斯人民友谊大学,Peoples Friendship University of Russia,882,
-乌拉圭共和国大学,"Universidad de la Republica, Uruguay",882,
+俄罗斯人民友谊大学,Peoples Friendship University of Russia,882,359
+乌拉圭共和国大学,"Universidad de la Republica, Uruguay",882,652
 林肯大学,University of Lincoln,882,851-900
 贵州大学,Guizhou University,888,
 密西西比州立大学,Mississippi State University,888,1001-1200
@@ -908,8 +908,8 @@ AGH克拉科夫大学,AGH University of Krakow,817,761-770
 德布勒森大学,University of Debrecen,904,600
 克兰菲尔德大学,Cranfield University,908,
 季马大学,Jimma University,908,
-托木斯克理工大学,Tomsk Polytechnic University,908,
-斯法克斯大学,Universite de Sfax,908,
+托木斯克理工大学,Tomsk Polytechnic University,908,741-750
+斯法克斯大学,Universite de Sfax,908,1001-1200
 伦敦大学伯贝克学院,Birkbeck University London,912,354
 东国大学,Dongguk University,912,520
 龙比亚大学,Edinburgh Napier University,912,801-850
@@ -920,7 +920,7 @@ AGH克拉科夫大学,AGH University of Krakow,817,761-770
 阿利坎特大学,University of Alicante,912,851-900
 亚利桑那州立大学凤凰城校区,Arizona State University--Downtown Phoenix,920,
 赫瓦贾·法里德工程与信息技术大学,"Khwaja Fareed University of Engineering & Information Technology, Pakistan",920,
-拉普拉塔国立大学,National University La Plata,920,
+拉普拉塔国立大学,National University La Plata,920,474
 帕布罗·德·奥拉韦德大学,Universidad Pablo de Olavide,920,1201-1400
 罗维拉·依维尔基里大学,University of Rovira i Virgili,920,851-900
 南京财经大学,Nanjing University of Finance & Economics,925,
@@ -941,7 +941,7 @@ AGH克拉科夫大学,AGH University of Krakow,817,761-770
 克拉古耶瓦茨大学,University of Kragujevac,932,
 罗德岛大学,University of Rhode Island,932,1001-1200
 国家能源大学,University of Tenaga Nasional,932,518
-伍珀塔尔大学,University of Wuppertal,932,
+伍珀塔尔大学,University of Wuppertal,932,1001-1200
 布加勒斯特经济研究大学,Bucharest University of Economic Studies,944,
 全北国立大学,Jeonbuk National University,944,677
 沙希德·贝赫什提医科大学,Shahid Beheshti University Medical Sciences,944,
@@ -956,7 +956,7 @@ ITMO大学,ITMO University,949,801-850
 勃艮第大学,University of Burgundy,949,
 斯特灵大学,University of Stirling,949,560
 河内医科大学,Hanoi Medical University,957,
-西英格兰大学,University of West England,957,
+西英格兰大学,University of West England,957,761-770
 阿尔巴明奇大学,Arba Minch University,959,
 哈尔滨医科大学,Harbin Medical University,959,
 巴基斯坦国际伊斯兰大学,"International Islamic University, Pakistan",959,
@@ -973,7 +973,7 @@ ITMO大学,ITMO University,949,801-850
 阿米提大学,Amity University,972,901-950
 斯科尔科沃科学技术学院,Skolkovo Institute of Science and Technology,972,
 卡拉布里亚大学,University of Calabria,972,851-900
-巴拉那联邦大学,Federal University of Paraná,975,
+巴拉那联邦大学,Federal University of Paraná,975,1001-1200
 福建师范大学,Fujian Normal University,975,1201-1400
 南北大学,North South University (NSU),975,901-950
 SRM科学技术学院,SRM Institute of Science and Technology,975,1001-1200
@@ -984,13 +984,13 @@ SRM科学技术学院,SRM Institute of Science and Technology,975,1001-1200
 托木斯克国立大学,Tomsk State University,981,510
 约阿尼纳大学,University of Ioannina,981,1201-1400
 首尔市立大学,University of Seoul,981,851-900
-弗罗茨瓦夫大学,University of Wrocław,981,
+弗罗茨瓦夫大学,University of Wrocław,981,851-900
 巴博勒医科大学,Babol University of Medical Sciences,987,
 中国医科大学,China Medical University,987,515
 新墨西哥州立大学,New Mexico State University,987,1201-1400
 萨伦托大学,University of Salento,987,1001-1200
 宁波大学,Ningbo University,991,1001-1200
-奥托·冯·格里克大学,Otto von Guericke University,991,
+奥托·冯·格里克大学,Otto von Guericke University,991,646
 圣彼得堡彼得大帝理工大学,Peter the Great St. Petersburg Polytechnic University,991,619
 奥斯特大学,University of Ulster,991,
 武汉工程大学,Wuhan Institute of Technology,991,
@@ -1002,19 +1002,19 @@ SRM科学技术学院,SRM Institute of Science and Technology,975,1001-1200
 石油与能源研究大学,University of Petroleum & Energy Studies (UPES),996,
 安徽医科大学,Anhui Medical University,1002,
 阿塔图克大学,Ataturk University,1002,1201-1400
-布伦瑞克工业大学,Braunschweig University of Technology,1002,
+布伦瑞克工业大学,Braunschweig University of Technology,1002,781-790
 蒙大拿州立大学波兹曼分校,Montana State University Bozeman,1002,
 新西伯利亚国立大学,Novosibirsk State University,1002,488
-哥斯达黎加大学,Universidad Costa Rica,1002,
+哥斯达黎加大学,Universidad Costa Rica,1002,463
 蒙大拿大学,University of Montana,1002,
 佛山大学,Foshan University,1009,
 霍华德大学,Howard University,1009,1001-1200
 上海海事大学,Shanghai Maritime University,1009,
 新布伦瑞克大学,University of New Brunswick,1009,677
 加利福尼亚州立大学洛杉矶分校,California State University Los Angeles,1013,
-普瓦捷大学,University of Poitiers,1013,
-圣卡洛斯联邦大学,Federal University of Sao Carlos,1015,
-巴黎政治学院,Institut d'Etudes Politiques Paris (Sciences Po),1015,
+普瓦捷大学,University of Poitiers,1013,1201-1400
+圣卡洛斯联邦大学,Federal University of Sao Carlos,1015,1001-1200
+巴黎政治学院,Institut d'Etudes Politiques Paris (Sciences Po),1015,354
 JSS高等教育与研究学院,JSS Academy of Higher Education & Research,1015,
 肯特州立大学,Kent State University,1015,1201-1400
 陕西科技大学,Shaanxi University of Science and Technology,1015,
@@ -1035,9 +1035,9 @@ JSS高等教育与研究学院,JSS Academy of Higher Education & Research,1015,
 考文垂大学,Coventry University,1033,581
 伯南布哥联邦大学,Federal University of Pernambuco,1033,
 伊朗医科大学,Iran University of Medical Sciences,1033,
-哈姆达德大学,Jamia Hamdard University,1033,
+哈姆达德大学,Jamia Hamdard University,1033,1401+
 克尔曼沙赫医科大学,Kermanshah University of Medical Sciences,1033,
-科尔多瓦国立大学,National University of Cordoba,1033,
+科尔多瓦国立大学,National University of Cordoba,1033,801-850
 南十字星大学,Southern Cross University,1033,634
 乌尔米耶医科大学,Urmia University of Medical Sciences,1033,
 西挪威应用科学大学,Western Norway University of Applied Sciences,1033,
@@ -1051,7 +1051,7 @@ JSS高等教育与研究学院,JSS Academy of Higher Education & Research,1015,
 冈山大学,Okayama University,1049,1001-1200
 瑞尔森大学,Ryerson University,1049,
 布莱顿大学,University of Brighton,1049,901-950
-奥维耶多大学,University of Oviedo,1049,
+奥维耶多大学,University of Oviedo,1049,901-950
 斯普利特大学,University of Split,1049,1201-1400
 自由州大学,University of the Free State,1049,1001-1200
 全南大学,Chonnam National University,1056,781-790
@@ -1085,7 +1085,7 @@ JSS高等教育与研究学院,JSS Academy of Higher Education & Research,1015,
 欧道明大学,Old Dominion University,1081,
 齐鲁工业大学,Qilu University of Technology,1081,
 设拉子大学,Shiraz University,1081,791-800
-卡昂大学,University of Caen,1081,
+卡昂大学,University of Caen,1081,1201-1400
 白沙瓦大学,University of Peshawar,1081,951-1000
 西安建筑科技大学,Xi'an University of Architecture and Technology,1081,
 赫瑞-瓦特大学,Heriot Watt University,1090,325
@@ -1093,7 +1093,7 @@ JSS高等教育与研究学院,JSS Academy of Higher Education & Research,1015,
 仁斯利尔理工学院,Rensselaer Polytechnic Institute,1090,581
 科尔多瓦大学,Universidad de Cordoba,1090,951-1000
 佩拉德尼亚大学,University of Peradeniya,1090,1201-1400
-索非亚大学,University of Sofia,1090,
+索非亚大学,University of Sofia,1090,751-760
 奥登堡大学,Carl von Ossietzky Universitat Oldenburg,1096,1001-1200
 中央财经大学,Central University of Finance and Economics,1096,
 湖南师范大学,Hunan Normal University,1096,
@@ -1135,8 +1135,8 @@ JSS高等教育与研究学院,JSS Academy of Higher Education & Research,1015,
 因苏布里亚大学,University of Insubria,1132,
 燕山大学,Yanshan University,1132,
 光州科学技术院,Gwangju Institute of Science and Technology,1136,379
-布加勒斯特理工大学,Polytechnic University of Bucharest,1136,
-沙希德·贝赫什提大学,Shahid Beheshti University Tehran (SBU),1138,
+布加勒斯特理工大学,Polytechnic University of Bucharest,1136,1201-1400
+沙希德·贝赫什提大学,Shahid Beheshti University Tehran (SBU),1138,781-790
 ABC联邦大学,Universidade Federal do ABC (UFABC),1138,
 卡塞尔大学,Universitat Kassel,1138,1201-1400
 西安理工大学,Xi'an University of Technology,1138,
@@ -1147,7 +1147,7 @@ ABC联邦大学,Universidade Federal do ABC (UFABC),1138,
 蒙斯大学,University of Mons,1142,801-850
 伦敦南岸大学,London South Bank University,1147,901-950
 格但斯克医科大学,Medical University Gdansk,1147,
-中东大学,Middle East University,1147,
+中东大学,Middle East University,1147,1001-1200
 阳光海岸大学,University of the Sunshine Coast,1147,851-900
 托莱多大学,University of Toledo,1147,1201-1400
 新疆大学,Xinjiang University,1147,
@@ -1173,7 +1173,7 @@ ABC联邦大学,Universidade Federal do ABC (UFABC),1138,
 罗斯基勒大学,Roskilde University,1167,1001-1200
 尼科西亚大学,University of Nicosia,1167,711-720
 嘉泉大学,Gachon University,1174,901-950
-基耶蒂-佩斯卡拉邓南遮大学,G d'Annunzio University of Chieti-Pescara,1174,
+基耶蒂-佩斯卡拉邓南遮大学,G d'Annunzio University of Chieti-Pescara,1174,1001-1200
 尼赫鲁大学,Jawaharlal Nehru University,1174,555
 华沙医科大学,Medical University Warsaw,1174,
 牛津布鲁克斯大学,Oxford Brookes University,1174,411
@@ -1186,7 +1186,7 @@ ABC联邦大学,Universidade Federal do ABC (UFABC),1138,
 东卡罗莱纳大学,East Carolina University,1183,
 爱琴海大学,Ege University,1183,1001-1200
 吉兰医科大学,Guilan University of Medical Sciences,1183,
-伊本·托法伊勒大学,Ibn Tofail University of Kenitra,1183,
+伊本·托法伊勒大学,Ibn Tofail University of Kenitra,1183,1201-1400
 孔敬大学,Khon Kaen University,1183,901-950
 安德烈斯·贝略大学,Universidad Andres Bello,1183,1001-1200
 西印度群岛大学,University of the West Indies,1183,
@@ -1207,7 +1207,7 @@ ABC联邦大学,Universidade Federal do ABC (UFABC),1138,
 萨卡利亚大学,Sakarya University,1203,1401+
 苏州科技大学,Suzhou University of Science and Technology,1203,
 拉塞雷纳大学,Universidad de La Serena,1203,
-玛拉工艺大学,Universiti Teknologi MARA,1203,
+玛拉工艺大学,Universiti Teknologi MARA,1203,549
 安徽农业大学,Anhui Agricultural University,1210,
 首都经济贸易大学,Capital University of Economics & Business,1210,
 达曼胡尔大学,Damanhour University,1210,
@@ -1218,7 +1218,7 @@ ABC联邦大学,Universidade Federal do ABC (UFABC),1138,
 杭州电子科技大学,Hangzhou Dianzi University,1216,
 贾德沃布尔大学,Jadavpur University,1216,721-730
 北曼谷先皇技术学院,King Mongkuts University of Technology North Bangkok,1216,1401+
-那不勒斯帕特诺珀大学,Parthenope University Naples,1216,
+那不勒斯帕特诺珀大学,Parthenope University Naples,1216,1001-1200
 佩洛塔斯联邦大学,Universidade Federal de Pelotas,1216,
 马里博尔大学,University of Maribor,1216,901-950
 卡迪·阿雅德大学,University of Marrakech Cadi Ayyad,1216,
@@ -1232,12 +1232,12 @@ ABC联邦大学,Universidade Federal do ABC (UFABC),1138,
 皮卡第儒勒·凡尔纳大学,University of Picardie-Jules-Verne,1224,
 提赛德大学,University of Teesside,1224,
 曲阜师范大学,Qufu Normal University,1233,
-萨尔茨堡大学,Salzburg University,1233,
+萨尔茨堡大学,Salzburg University,1233,572
 天津理工大学,Tianjin University of Technology,1233,
 蒙彼利埃第三大学,Universite Paul-Valery Montpellier 3,1233,
 马萨诸塞大学罗威尔分校,University of Massachusetts--Lowell,1233,
 比尔詹德医科大学,Birjand University of Medical Sciences,1238,
-佛罗里达大西洋大学,Florida Atlantic University,1238,
+佛罗里达大西洋大学,Florida Atlantic University,1238,1201-1400
 贾汉吉尔纳加尔大学,Jahangirnagar University,1238,1401+
 建国大学,Konkuk University,1238,683
 罗兹医科大学,Medical University Lodz,1238,
@@ -1247,7 +1247,7 @@ ABC联邦大学,Universidade Federal do ABC (UFABC),1138,
 忠南大学,Chungnam National University,1246,801-850
 南京中医药大学,Nanjing University of Chinese Medicine,1246,
 东海大学,Tokai University,1246,1401+
-拉奎拉大学,University of L'Aquila,1246,
+拉奎拉大学,University of L'Aquila,1246,1001-1200
 北达科他州立大学,North Dakota State University,1250,
 塞姆南医科大学,Semnan University of Medical Sciences,1250,
 山东第一医科大学,Shandong First Medical University and Shandong Academy of Medical Sciences,1250,
@@ -1271,15 +1271,15 @@ ABC联邦大学,Universidade Federal do ABC (UFABC),1138,
 天津科技大学,Tianjin University Science and Technology,1266,
 马来西亚彭亨大学,Universiti Malaysia Pahang,1266,
 伦敦大学皇家兽医学院,University of London Royal Veterinary College,1266,
-萨萨里大学,University of Sassari,1266,
+萨萨里大学,University of Sassari,1266,1201-1400
 哈扎拉大学,Hazara University,1274,
 伊斯坦耶大学,Istinye University,1274,
 智利自治大学,Universidad Autónoma de Chile,1274,
-蒂米什瓦拉西部大学,West University of Timisoara,1274,
-约旦应用科学大学,Applied Science University - Jordan,1278,
+蒂米什瓦拉西部大学,West University of Timisoara,1274,1201-1400
+约旦应用科学大学,Applied Science University - Jordan,1278,761-770
 加利福尼亚州立理工大学圣路易斯奥比斯波分校,California Polytechnic State University--San Luis Obispo,1278,1401+
-吞武里国王科技大学,King Mongkuts University of Technology Thonburi,1278,
-里约热内卢州立大学,Rio de Janeiro State University,1278,
+吞武里国王科技大学,King Mongkuts University of Technology Thonburi,1278,1001-1200
+里约热内卢州立大学,Rio de Janeiro State University,1278,1201-1400
 圣玛利亚联邦大学,Universidade Federal de Santa Maria (UFSM),1278,1401+
 湘潭大学,Xiangtan University,1278,
 华侨大学,Huaqiao University,1284,
@@ -1298,7 +1298,7 @@ KN图西理工大学,K. N. Toosi University of Technology,1290,
 弗鲁米嫩塞联邦大学,Universidade Federal Fluminense,1290,1201-1400
 艾伯瑞斯特维斯大学,Aberystwyth University,1298,801-850
 北京中医药大学,Beijing University of Chinese Medicine,1298,1401+
-麦地那伊斯兰大学,Islamic University of Al Madinah,1298,
+麦地那伊斯兰大学,Islamic University of Al Madinah,1298,1001-1200
 拉合尔管理科学大学,Lahore University of Management Sciences,1298,608
 昌迪加尔医学教育与研究研究生院,Postgraduate Institute of Medical Education and Research (PGIMER)--Chandigarh,1298,
 山东财经大学,Shandong University of Finance & Economics,1298,
@@ -1340,7 +1340,7 @@ KN图西理工大学,K. N. Toosi University of Technology,1290,
 洛马琳达大学,Loma Linda University,1338,
 波特兰州立大学,Portland State University,1338,1201-1400
 太原理工大学,Taiyuan University of Technology,1338,
-俄斯特拉发技术大学,Technical University of Ostrava,1338,
+俄斯特拉发技术大学,Technical University of Ostrava,1338,1001-1200
 戈亚斯联邦大学,Universidade Federal de Goias,1338,
 迦太基大学,Universite de Carthage,1338,
 格但斯克大学,University of Gdansk,1338,901-950
@@ -1359,7 +1359,7 @@ KN图西理工大学,K. N. Toosi University of Technology,1290,
 海梅一世大学,Universitat Jaume I,1358,1001-1200
 阿拉伯科技与海运学院,"Arab Academy for Science, Technology and Maritime Transport",1359,1001-1200
 挪威商学院,BI Norwegian Business School,1359,
-里斯本大学学院,Instituto Universitario de Lisboa,1359,
+里斯本大学学院,Instituto Universitario de Lisboa,1359,851-900
 东京都立大学,Tokyo Metropolitan University,1359,1001-1200
 埃斯特雷马杜拉大学,Universidad de Extremadura,1359,1001-1200
 拉曼大学,University of Tunku Abdul Rahman,1359,801-850
@@ -1411,10 +1411,10 @@ KN图西理工大学,K. N. Toosi University of Technology,1290,
 阿瓦兹朱迪沙普尔医科大学,Ahvaz Jundishapur University of Medical Sciences,1410,
 阿卡德尼兹大学,Akdeniz University,1410,1401+
 戈勒斯坦医科大学,Golestan University of Medical Sciences,1410,
-汉堡工业大学,Hamburg University of Technology,1410,
+汉堡工业大学,Hamburg University of Technology,1410,721-730
 胡志明市医药大学,Hochiminh City University of Medicine & Pharmacy,1410,
 闽江大学,Minjiang University,1410,
-国立理工学院,National Polytechnic Institute,1410,
+国立理工学院,National Polytechnic Institute,1410,901-950
 纳尔逊·曼德拉都市大学,Nelson Mandela Metropolitan University,1410,
 圣约翰大学,Saint John's University,1410,
 纽约州立大学下州健康科学大学,SUNY Downstate Health Sciences University,1410,
@@ -1458,7 +1458,7 @@ GLA大学,GLA University,1429,
 桂林电子科技大学,Guilin University of Electronic Technology,1457,
 罗萨里奥大学,Universidad del Rosario,1457,901-950
 弗朗索瓦-拉伯雷大学图尔分校,University of Francois Rabelais - Tours,1457,
-利摩日大学,University of Limoges,1457,
+利摩日大学,University of Limoges,1457,1401+
 马来西亚国际伊斯兰大学,International Islamic University Malaysia,1461,691
 江西财经大学,Jiangxi University of Finance & Economics,1461,
 基辅国立大学,Taras Shevchenko National University Kiev,1461,791-800
@@ -1474,7 +1474,7 @@ GLA大学,GLA University,1429,
 广东海洋大学,Guangdong Ocean University,1471,
 湖北工业大学,Hubei University of Technology,1471,
 江原大学,Kangwon National University,1471,1001-1200
-墨西哥自治都市大学,Metropolitan Autonomous University,1471,
+墨西哥自治都市大学,Metropolitan Autonomous University,1471,1001-1200
 诺尔兰大学,Nord University,1471,
 北方天主教大学,Universidad Catolica del Norte,1471,1401+
 苏斯大学,Universite de Sousse,1471,1201-1400
@@ -1482,28 +1482,28 @@ GLA大学,GLA University,1429,
 湖南工业大学,Hunan University of Technology,1481,
 德比大学,University of Derby,1481,1201-1400
 华沙生命科学大学,Warsaw University of Life Sciences,1481,1201-1400
-维索萨联邦大学,Federal University of Vicosa,1484,
+维索萨联邦大学,Federal University of Vicosa,1484,1401+
 延雪平大学,Jonkoping University,1484,
 奥兹耶金大学,Ozyegin University,1484,1201-1400
 淡江大学,Tamkang University,1484,1201-1400
 瓜达拉哈拉大学,Universidad de Guadalajara,1484,1001-1200
 元智大学,Yuan Ze University,1484,1001-1200
 埃及日本科技大学,Egypt-Japan University of Science & Technology,1490,801-850
-北部边境大学,Northern Border University,1490,
+北部边境大学,Northern Border University,1490,1001-1200
 诺瓦东南大学,Nova Southeastern University,1490,
 釜庆大学,Pukyong National University,1490,1201-1400
 科学技术联合大学,University of Science and Technology,1490,
 佛罗里达理工学院,Florida Institute of Technology,1495,
 福建医科大学,Fujian Medical University,1495,
 东海大学,Tunghai University,1495,1201-1400
-图西亚大学,Tuscia University,1495,
+图西亚大学,Tuscia University,1495,851-900
 阿尔梅利亚大学,Universidad de Almeria,1495,1201-1400
 阿卜杜勒马利克·埃萨迪大学,Abdelmalek Essaadi University of Tetouan,1500,
 圣人古鲁那纳克大学,Guru Nanak Dev University,1500,
-羯陵伽工业技术学院,Kalinga Institute of Industrial Technology,1500,
+羯陵伽工业技术学院,Kalinga Institute of Industrial Technology,1500,1001-1200
 绍兴大学,Shaoxing University,1500,
 国立法政大学,Thammasat University,1500,555
-中央兰开夏大学,University of Central Lancashire,1500,
+中央兰开夏大学,University of Central Lancashire,1500,1001-1200
 库尔德斯坦大学,University of Kurdistan,1500,
 那慕尔大学,University of Namur,1500,801-850
 里耶卡大学,University of Rijeka,1500,1201-1400
@@ -1547,7 +1547,7 @@ GLA大学,GLA University,1429,
 浙江科技大学,Zhejiang University of Science & Technology,1543,
 布达佩斯技术与经济大学,Budapest University of Technology and Economics,1547,751-760
 蒙彼利埃国立高等化学学院,Ecole nationale superieure de chimie de Montpellier,1547,
-厄瓜多尔国立理工学院,Escuela Politecnica Nacional Ecuador,1547,
+厄瓜多尔国立理工学院,Escuela Politecnica Nacional Ecuador,1547,1401+
 挪威内陆应用科学大学,Inland Norway University of Applied Sciences,1547,
 里加斯特拉金什大学,Riga Stradins University,1547,1001-1200
 瓦尔帕莱索大学,Universidad de Valparaiso,1547,1401+
@@ -1582,7 +1582,7 @@ GLA大学,GLA University,1429,
 哈尔滨理工大学,Harbin University of Science and Technology,1579,
 印度理工学院焦特布尔分校,Indian Institute of Technology (IIT) - Jodhpur,1579,
 南伊利诺伊大学卡本代尔分校,Southern Illinois University--Carbondale,1579,
-阿尔加夫大学,Universidade do Algarve,1579,
+阿尔加夫大学,Universidade do Algarve,1579,1001-1200
 伦敦大学金史密斯学院,Goldsmiths University London,1585,701-710
 宁夏大学,Ningxia University,1585,
 西藏大学,Tibet University,1585,
@@ -1591,8 +1591,8 @@ GLA大学,GLA University,1429,
 多鲁大学,Anadolu University,1589,
 大连医科大学,Dalian Medical University,1589,
 爱媛大学,Ehime University,1589,
-万隆理工学院,Institute Technology of Bandung,1589,
-金斯顿大学,Kingston University,1589,
+万隆理工学院,Institute Technology of Bandung,1589,287
+金斯顿大学,Kingston University,1589,686
 东北电力大学,Northeast Electric Power University,1589,
 塞尔库克大学,Selcuk University,1589,1201-1400
 北达科他大学,University of North Dakota,1589,
@@ -1631,7 +1631,7 @@ GLA大学,GLA University,1429,
 西南医科大学,Southwest Medical University,1625,
 巴利亚大学,Bahria University,1631,
 卡西诺大学,University of Cassino,1631,
-伦敦大学亚非学院,University of London School Oriental and African Studies (SOAS),1631,
+伦敦大学亚非学院,University of London School Oriental and African Studies (SOAS),1631,458
 马德拉斯大学,University of Madras,1631,
 西里西亚大学,University of Silesia,1631,
 阿拉嘎帕大学,Alagappa University,1636,
@@ -1711,7 +1711,7 @@ GLA大学,GLA University,1429,
 西班牙国立远程教育大学,Universidad Nacional de Educacion a Distancia (UNED),1705,
 马拉维大学,University of Malawi,1705,
 西密歇根大学,Western Michigan University,1705,1201-1400
-茂物农业大学,Bogor Agricultural University,1713,
+茂物农业大学,Bogor Agricultural University,1713,419
 慕尼黑联邦国防军大学,Bundeswehr University Munich,1713,
 卡尔斯塔德大学,Karlstad University,1713,
 西里西亚医科大学,Medical University Silesia,1713,
@@ -1723,7 +1723,7 @@ GLA大学,GLA University,1429,
 北陆先端科学技术大学院大学,Japan Advanced Institute of Science and Technology,1721,
 塞法科·马克加托健康科学大学,Sefako Makgatho Health Sciences University,1721,
 沙尔达大学,Sharda University,1721,
-西伯利亚联邦大学,Siberian Federal University,1721,
+西伯利亚联邦大学,Siberian Federal University,1721,1001-1200
 卢旺达大学,University of Rwanda,1721,
 叶迪特佩大学,Yeditepe University,1721,
 耆那大学,Jain University,1728,
@@ -1761,7 +1761,7 @@ GLA大学,GLA University,1429,
 浙江树人学院,Zhejiang Shuren University,1757,
 印度理工学院布巴内斯瓦尔分校,Indian Institute of Technology - Bhubaneswar,1761,1001-1200
 山西医科大学,Shanxi Medical University,1761,
-弗赖贝格工业大学,Technical University Freiberg,1761,
+弗赖贝格工业大学,Technical University Freiberg,1761,594
 明尼苏达大学德鲁斯分校,University of Minnesota--Duluth,1761,
 俄斯特拉发大学,University of Ostrava,1761,1201-1400
 特拉兹奥斯蒙蒂斯和上杜罗大学,University of Tras-os-Montes and Alto Douro,1761,
@@ -1818,7 +1818,7 @@ GLA大学,GLA University,1429,
 京都府立医科大学,Kyoto Prefectural University of Medicine,1815,
 穆希比利健康与联合科学大学,Muhimbili University of Health and Allied Sciences,1815,
 马约尔大学,Universidad Mayor,1815,
-库约国立大学,University Nacional Cuyo Mendoza,1815,
+库约国立大学,University Nacional Cuyo Mendoza,1815,1201-1400
 吉大港大学,University of Chittagong,1815,
 产业医科大学,University of Occupational and Environmental Health - Japan,1815,
 加利福尼亚州立大学长滩分校,California State University--Long Beach,1823,
@@ -1856,7 +1856,7 @@ SRM大学安得拉邦分校,SRM University-AP,1823,
 印度理工学院罗巴尔分校,Indian Institute of Technology - Ropar,1853,
 鲁东大学,Ludong University,1853,
 南京审计大学,Nanjing Audit University,1853,
-国立罗萨里奥大学,National University of Rosario,1853,
+国立罗萨里奥大学,National University of Rosario,1853,1001-1200
 波兹南生命科学大学,Poznan University of Life Sciences,1853,1001-1200
 加泰罗尼亚国际大学,Universitat Internacional de Catalunya,1853,901-950
 山形大学,Yamagata University,1853,
@@ -1864,7 +1864,7 @@ SRM大学安得拉邦分校,SRM University-AP,1823,
 远东联邦大学,Far Eastern Federal University,1863,741-750
 甘肃农业大学,Gansu Agricultural University,1863,
 名古屋市立大学,Nagoya City University,1863,
-凯泽斯劳滕大学,University of Kaiserslautern,1863,
+凯泽斯劳滕大学,University of Kaiserslautern,1863,1401+
 尼什大学,University of Nis,1863,
 迪兹杰大学,Duzce University,1868,
 古米廖夫欧亚国立大学,L.N. Gumilyov Eurasian National University,1868,338
@@ -1968,7 +1968,7 @@ SSN工程学院,SSN College of Engineering,1957,
 博佐克大学,Bozok University,1967,
 自治医科大学,Jichi Medical University,1967,
 佩里亚大学,Periyar University,1967,
-教育与研究大学,Siksha 'O' Anusandhan University,1967,
+教育与研究大学,Siksha 'O' Anusandhan University,1967,1201-1400
 弗朗西斯科·德·维多利亚大学,Universidad Francisco de Vitoria,1967,
 贝尔福－蒙贝利亚技术大学,Université de Technologie de Belfort-Montbéliard (UTBM),1967,
 克什米尔大学,University of Kashmir,1967,
@@ -1991,7 +1991,7 @@ SSN工程学院,SSN College of Engineering,1957,
 中原大学,Chung Yuan Christian University,1990,1201-1400
 加拉茨下多瑙河大学,Dunarea De Jos University Galati,1990,
 锡诺普大学,Sinop University,1990,
-莫利塞大学,University of Molise,1990,
+莫利塞大学,University of Molise,1990,1201-1400
 常熟理工学院,Changshu Institute of Technology,1994,
 共和大学,Cumhuriyet University,1994,
 江苏海洋大学,Jiangsu Ocean University,1994,
@@ -2034,7 +2034,7 @@ SSN工程学院,SSN College of Engineering,1957,
 布尔戈斯大学,Universidad de Burgos,2032,
 热舒夫大学,University of Rzeszow,2032,
 新疆医科大学,Xinjiang Medical University,2032,
-布拉维贾亚大学,Brawijaya University,2036,
+布拉维贾亚大学,Brawijaya University,2036,616
 贾姆谢德布尔国家技术学院,National Institute of Technology Jamshedpur,2036,
 宁波工程学院,Ningbo University of Technology,2036,
 特伦特大学,Trent University,2036,
@@ -2093,7 +2093,7 @@ SSN工程学院,SSN College of Engineering,1957,
 广东技术师范大学,Guangdong Polytechnic Normal University,2092,
 特里凡得琅印度科学教育与研究学院,Indian Institute of Science Education & Research (IISER) - Thiruvananthapuram,2092,
 西京学院,Xijing University,2092,
-里昂中央理工学院,Central School of Lyon,2095,
+里昂中央理工学院,Central School of Lyon,2095,668
 关西医科大学,Kansai Medical University,2095,
 伯南布哥联邦大学,Universidade Federal Rural de Pernambuco (UFRPE),2095,1201-1400
 普里莫尔斯卡大学,University of Primorska,2095,1201-1400
@@ -2114,7 +2114,7 @@ SSN工程学院,SSN College of Engineering,1957,
 萨拉托夫国立大学,Saratov State University,2111,
 韦斯科技大学,Visvesvaraya Technological University,2111,
 皖南医学院,Wannan Medical College,2111,
-阿姆里塔大学哥印拜陀校区,Amrita Vishwa Vidyapeetham Coimbatore,2116,
+阿姆里塔大学哥印拜陀校区,Amrita Vishwa Vidyapeetham Coimbatore,2116,1201-1400
 芹苴大学,Can Tho University,2116,1401+
 湖南中医药大学,Hunan University of Chinese Medicine,2116,
 卡拉布克大学,Karabuk University,2116,
@@ -2130,7 +2130,7 @@ SSN工程学院,SSN College of Engineering,1957,
 滁州学院,Chuzhou University,2129,
 加齐奥斯曼帕夏大学,Gaziosmanpasa University,2129,
 印度教育与研究科学学院莫哈利分校,Indian Institute of Science Education and Research - Mohali,2129,
-滨海国立大学,National University of the Littoral,2129,
+滨海国立大学,National University of the Littoral,2129,1401+
 南方国立大学,National University of the South,2129,
 上海健康医学院,Shanghai University of Medicine & Health Sciences,2129,
 苏丹穆莱·斯利曼大学贝尼迈拉勒校区,Sultan Moulay Slimane University of Beni Mellal,2129,
@@ -2228,7 +2228,7 @@ SSN工程学院,SSN College of Engineering,1957,
 三重大学,Mie University,2226,
 国防医学院,National Defense Medical University,2226,
 苏拉特萨达尔瓦拉布哈伊国家技术学院,Sardar Vallabhbhai National Institute of Technology,2226,
-维尔纽斯格迪米纳斯技术大学,Vilnius Gediminas Technical University,2226,
+维尔纽斯格迪米纳斯技术大学,Vilnius Gediminas Technical University,2226,791-800
 安徽中医药大学,Anhui University of Chinese Medicine,2231,
 长春工业大学,Changchun University of Technology,2231,
 胡志明市工业大学,Industrial University of Ho Chi Minh City,2231,1401+
@@ -2244,7 +2244,7 @@ SSN工程学院,SSN College of Engineering,1957,
 韩国外国语大学,Hankuk University Foreign Studies,2242,620
 希普尔印度工程科学与技术学院,Indian Institute of Engineering Science Technology Shibpur,2242,
 詹姆斯麦迪逊大学,James Madison University,2242,
-国立勤益科技大学,National Chin-Yi University of Technology,2242,
+国立勤益科技大学,National Chin-Yi University of Technology,2242,1401+
 NMIMS大学,SVKM's NMIMS (Deemed to be University),2242,
 伊诺努大学,Inonu University,2248,
 勒克瑙大学,Lucknow University,2248,

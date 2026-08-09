@@ -5,7 +5,9 @@
     "international_primary_sort": "USNEWS rank, then source order",
     "international_tail_sort": "normalized foreign name",
     "mainland_chinese_names_are_allowed": true,
-    "fuzzy_matching_is_conservative": true
+    "fuzzy_matching_is_conservative": true,
+    "qs_second_pass": "DeepSeek Chinese name + country, then conservative English disambiguation",
+    "qs_manual_exclusions_are_enforced": true
   },
   "counts": {
     "domestic_head_rows": 590,
@@ -27,12 +29,15 @@
     "head_chinese_shanghai": 374,
     "head_chinese_greater_china": 35,
     "head_chinese_deepseek": 883,
+    "head_chinese_manual_correction": 1,
+    "qs_deepseek_english_high_confidence": 23,
+    "qs_deepseek_unique_chinese_country": 160,
     "head_rows": 2250,
     "head_chinese_names": 2250,
     "head_missing_chinese_names": 0,
     "non_head_rows": 6171,
-    "qs_ranked_head": 1011,
-    "qs_ranked_non_head": 148
+    "qs_ranked_head": 1194,
+    "qs_ranked_non_head": 125
   },
   "note": "Head-table Chinese names are rebuilt in priority order from the Greater China mapping, ShanghaiRanking, CSCSE English-name matches, and saved DeepSeek results. The non-head table contains CSCSE records whose normalized Chinese names are not used by the head table. Same Chinese names can still identify distinct institutions in different countries, so head rows remain keyed by their English ranking entities."
 }

@@ -9,13 +9,12 @@ import re
 import time
 import urllib.error
 import urllib.request
+import argparse
 from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
 GENERATED = ROOT / "data/international/generated"
-PENDING = GENERATED / "DeepSeek待补中文名.json"
-OUTPUT = GENERATED / "DeepSeek补充中文名.json"
 API_URL = "https://api.deepseek.com/chat/completions"
 BATCH_SIZE = 40
 
@@ -74,11 +73,17 @@ def request_batch(api_key: str, batch: list[dict[str, object]]) -> list[dict[str
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--pending", default="DeepSeek待补中文名.json")
+    parser.add_argument("--output", default="DeepSeek补充中文名.json")
+    args = parser.parse_args()
+    pending_path = GENERATED / args.pending
+    output_path = GENERATED / args.output
     api_key = os.environ.get("DEEPSEEK_API_KEY")
     if not api_key:
         raise SystemExit("DEEPSEEK_API_KEY is not set")
-    pending = load_json(PENDING)
-    completed = load_json(OUTPUT)
+    pending = load_json(pending_path)
+    completed = load_json(output_path)
     completed_by_name = {
         row["english_name"]: row
         for row in completed
@@ -91,9 +96,12 @@ def main() -> None:
         for attempt in range(3):
             try:
                 results = request_batch(api_key, batch)
-                actual = [row.get("english_name") for row in results]
-                if actual != expected or any(not row.get("chinese_name") for row in results):
-                    raise ValueError("DeepSeek response names do not match the request")
+                if len(results) != len(expected) or any(
+                    not row.get("chinese_name") for row in results
+                ):
+                    raise ValueError("DeepSeek response count or Chinese names are invalid")
+                for result, english_name in zip(results, expected):
+                    result["english_name"] = english_name
                 break
             except (urllib.error.URLError, TimeoutError, ValueError, KeyError, json.JSONDecodeError):
                 if attempt == 2:
@@ -110,7 +118,7 @@ def main() -> None:
             for row in pending
             if row["english_name"] in completed_by_name
         ]
-        OUTPUT.write_text(
+        output_path.write_text(
             json.dumps(ordered, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
         )
         print(f"completed {len(ordered)}/{len(pending)}", flush=True)

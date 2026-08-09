@@ -1,0 +1,2467 @@
+[
+  {
+    "english_name": "Universidad Argentina de la Empresa (UADE)",
+    "country": "argentina",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "University of Arkansas Fayetteville",
+    "country": "united states",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Amrita Vishwa Vidyapeetham",
+    "country": "india",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Azerbaijan State University of Economics (UNEC)",
+    "country": "azerbaijan",
+    "qs_rank": "634"
+  },
+  {
+    "english_name": "Azerbaijan State Pedagogical University",
+    "country": "azerbaijan",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Azerbaijan State Oil and Industry University",
+    "country": "azerbaijan",
+    "qs_rank": "711-720"
+  },
+  {
+    "english_name": "Azerbaijan University of Architecture and Construction (AzUAC)",
+    "country": "azerbaijan",
+    "qs_rank": "951-1000"
+  },
+  {
+    "english_name": "Azerbaijan Technical University",
+    "country": "azerbaijan",
+    "qs_rank": "801-850"
+  },
+  {
+    "english_name": "ADA University",
+    "country": "azerbaijan",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+    "country": "germany",
+    "qs_rank": "218"
+  },
+  {
+    "english_name": "Yerevan State University",
+    "country": "armenia",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Universitas Airlangga",
+    "country": "indonesia",
+    "qs_rank": "276"
+  },
+  {
+    "english_name": "Aix-Marseille University",
+    "country": "france",
+    "qs_rank": "443"
+  },
+  {
+    "english_name": "Queen Margaret University , Edinburgh",
+    "country": "united kingdom",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Universidad Católica Andres Bello",
+    "country": "venezuela",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Universidad de los Andes",
+    "country": "colombia",
+    "qs_rank": "233"
+  },
+  {
+    "english_name": "VSB - Technical University of Ostrava",
+    "country": "czech republic",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Universidad de Oviedo",
+    "country": "spain",
+    "qs_rank": "901-950"
+  },
+  {
+    "english_name": "Universitas Negeri Padang",
+    "country": "indonesia",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Baku Engineering University",
+    "country": "azerbaijan",
+    "qs_rank": "851-900"
+  },
+  {
+    "english_name": "Baku State University",
+    "country": "azerbaijan",
+    "qs_rank": "565"
+  },
+  {
+    "english_name": "Universidade Federal do Paraná - UFPR",
+    "country": "brazil",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Universidad de Palermo (UP)",
+    "country": "argentina",
+    "qs_rank": "781-790"
+  },
+  {
+    "english_name": "Université Paris-Est Créteil Val de Marne",
+    "country": "france",
+    "qs_rank": "901-950"
+  },
+  {
+    "english_name": "Université Paris 1 Panthéon-Sorbonne",
+    "country": "france",
+    "qs_rank": "246"
+  },
+  {
+    "english_name": "Université Sorbonne Paris Nord",
+    "country": "france",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Université Paris Cité",
+    "country": "france",
+    "qs_rank": "303"
+  },
+  {
+    "english_name": "Universitat de Barcelona",
+    "country": "spain",
+    "qs_rank": "165"
+  },
+  {
+    "english_name": "Universitat Autònoma de Barcelona",
+    "country": "spain",
+    "qs_rank": "211"
+  },
+  {
+    "english_name": "Universidade de Brasília",
+    "country": "brazil",
+    "qs_rank": "851-900"
+  },
+  {
+    "english_name": "Technische Universität Berlin (TU Berlin)",
+    "country": "germany",
+    "qs_rank": "158"
+  },
+  {
+    "english_name": "The University of Northampton",
+    "country": "united kingdom",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "University of Northern British Columbia",
+    "country": "canada",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Universidad del Norte",
+    "country": "colombia",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Universitas Sumatera Utara",
+    "country": "indonesia",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Universidad de Belgrano (UB)",
+    "country": "argentina",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Universidade de Vigo",
+    "country": "spain",
+    "qs_rank": "801-850"
+  },
+  {
+    "english_name": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+    "country": "germany",
+    "qs_rank": "209"
+  },
+  {
+    "english_name": "Universidad Pontificia Bolivariana",
+    "country": "colombia",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "BRAC University",
+    "country": "bangladesh",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Universitas Brawijaya",
+    "country": "indonesia",
+    "qs_rank": "616"
+  },
+  {
+    "english_name": "Vrije Universiteit Brussel (VUB)",
+    "country": "belgium",
+    "qs_rank": "295"
+  },
+  {
+    "english_name": "Universidad de Buenos Aires (UBA)",
+    "country": "argentina",
+    "qs_rank": "84"
+  },
+  {
+    "english_name": "Pontificia Universidad Católica Madre y Maestra (PUCMM)",
+    "country": "dominican republic",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Damascus University",
+    "country": "syrian arab republic",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Delta University for Science and Technology",
+    "country": "egypt",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "De La Salle University",
+    "country": "philippines",
+    "qs_rank": "751-760"
+  },
+  {
+    "english_name": "Technische Universität Dresden",
+    "country": "germany",
+    "qs_rank": "185"
+  },
+  {
+    "english_name": "Canadian University Dubai",
+    "country": "united arab emirates",
+    "qs_rank": "616"
+  },
+  {
+    "english_name": "American University in Dubai",
+    "country": "united arab emirates",
+    "qs_rank": "620"
+  },
+  {
+    "english_name": "University of East London",
+    "country": "united kingdom",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Technological University Dublin",
+    "country": "ireland",
+    "qs_rank": "791-800"
+  },
+  {
+    "english_name": "Trinity College Dublin, The University of Dublin",
+    "country": "ireland",
+    "qs_rank": "75"
+  },
+  {
+    "english_name": "Universidad Autónoma Metropolitana (UAM)",
+    "country": "mexico",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Politecnico di Torino",
+    "country": "italy",
+    "qs_rank": "206"
+  },
+  {
+    "english_name": "Toronto Metropolitan University (formerly Ryerson University)",
+    "country": "canada",
+    "qs_rank": "669"
+  },
+  {
+    "english_name": "Multimedia University (MMU)",
+    "country": "malaysia",
+    "qs_rank": "771-780"
+  },
+  {
+    "english_name": "Pontificia Universidad Católica del Ecuador (PUCE)",
+    "country": "ecuador",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Universidad EAFIT",
+    "country": "colombia",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Universidad Panamericana (UP)",
+    "country": "mexico",
+    "qs_rank": "711-720"
+  },
+  {
+    "english_name": "Universita' degli Studi di Ferrara",
+    "country": "italy",
+    "qs_rank": "901-950"
+  },
+  {
+    "english_name": "Virginia Polytechnic Institute and State University",
+    "country": "united states",
+    "qs_rank": "366"
+  },
+  {
+    "english_name": "Technische Universität Bergakademie Freiberg",
+    "country": "germany",
+    "qs_rank": "594"
+  },
+  {
+    "english_name": "University of Galway",
+    "country": "ireland",
+    "qs_rank": "275"
+  },
+  {
+    "english_name": "Universidad Externado de Colombia",
+    "country": "colombia",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Universidad de Costa Rica",
+    "country": "costa rica",
+    "qs_rank": "463"
+  },
+  {
+    "english_name": "Georgian Technical University",
+    "country": "georgia",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Guru Gobind Singh Indraprastha University",
+    "country": "india",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Management and Science University",
+    "country": "malaysia",
+    "qs_rank": "608"
+  },
+  {
+    "english_name": "National University of Kyiv-Mohyla Academy (NaUKMA)",
+    "country": "ukraine",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Universidad Tecnológica Nacional (UTN)",
+    "country": "argentina",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "National Technical University Kharkiv Polytechnic Institute",
+    "country": "ukraine",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Instituto Politécnico Nacional (IPN)",
+    "country": "mexico",
+    "qs_rank": "901-950"
+  },
+  {
+    "english_name": "V. N. Karazin Kharkiv National University",
+    "country": "ukraine",
+    "qs_rank": "851-900"
+  },
+  {
+    "english_name": "Khalifa University",
+    "country": "united arab emirates",
+    "qs_rank": "147"
+  },
+  {
+    "english_name": "Universidad de La Habana",
+    "country": "cuba",
+    "qs_rank": "851-900"
+  },
+  {
+    "english_name": "Escuela Superior Politécnica del Litoral (ESPOL)",
+    "country": "ecuador",
+    "qs_rank": "901-950"
+  },
+  {
+    "english_name": "Vietnam National University, Hanoi",
+    "country": "vietnam",
+    "qs_rank": "751-760"
+  },
+  {
+    "english_name": "Universidad ICESI",
+    "country": "colombia",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "IE University",
+    "country": "spain",
+    "qs_rank": "446"
+  },
+  {
+    "english_name": "Christian-Albrechts-University zu Kiel",
+    "country": "germany",
+    "qs_rank": "620"
+  },
+  {
+    "english_name": "Universiti Kuala Lumpur (UniKL)",
+    "country": "malaysia",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Justus-Liebig-University Giessen",
+    "country": "germany",
+    "qs_rank": "521"
+  },
+  {
+    "english_name": "Jamia Hamdard",
+    "country": "india",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "University of San Francisco",
+    "country": "united states",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Université de Caen Normandie",
+    "country": "france",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Universit degli Studi della Campania Luigi Vanvitelli",
+    "country": "italy",
+    "qs_rank": "951-1000"
+  },
+  {
+    "english_name": "Qatar University",
+    "country": "qatar",
+    "qs_rank": "109"
+  },
+  {
+    "english_name": "Khazar University",
+    "country": "azerbaijan",
+    "qs_rank": "801-850"
+  },
+  {
+    "english_name": "German University in Cairo",
+    "country": "egypt",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Universidade Estadual de Campinas (Unicamp)",
+    "country": "brazil",
+    "qs_rank": "277"
+  },
+  {
+    "english_name": "Canterbury Christ Church University",
+    "country": "united kingdom",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Universidad de Concepción",
+    "country": "chile",
+    "qs_rank": "662"
+  },
+  {
+    "english_name": "Universidad Nacional de Córdoba - UNC",
+    "country": "argentina",
+    "qs_rank": "801-850"
+  },
+  {
+    "english_name": "University of Klagenfurt",
+    "country": "austria",
+    "qs_rank": "683"
+  },
+  {
+    "english_name": "Clark University",
+    "country": "united states",
+    "qs_rank": "951-1000"
+  },
+  {
+    "english_name": "The University of Queensland",
+    "country": "australia",
+    "qs_rank": "40"
+  },
+  {
+    "english_name": "Université catholique de Louvain (UCLouvain)",
+    "country": "belgium",
+    "qs_rank": "196"
+  },
+  {
+    "english_name": "Université Mohammed V de Rabat",
+    "country": "morocco",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Universidad de La Laguna",
+    "country": "spain",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Universita' degli Studi dell'Aquila",
+    "country": "italy",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Universidad Central \"Marta Abreu\" de Las Villas",
+    "country": "cuba",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Université Laval",
+    "country": "canada",
+    "qs_rank": "526"
+  },
+  {
+    "english_name": "Montanuniversität Leoben",
+    "country": "austria",
+    "qs_rank": "851-900"
+  },
+  {
+    "english_name": "Universität  Leipzig",
+    "country": "germany",
+    "qs_rank": "540"
+  },
+  {
+    "english_name": "Université de Rennes",
+    "country": "france",
+    "qs_rank": "731-740"
+  },
+  {
+    "english_name": "Lebanese American University",
+    "country": "lebanon",
+    "qs_rank": "477"
+  },
+  {
+    "english_name": "École Centrale de Lyon",
+    "country": "france",
+    "qs_rank": "668"
+  },
+  {
+    "english_name": "Riphah International University",
+    "country": "pakistan",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Universidade Federal do Rio de Janeiro",
+    "country": "brazil",
+    "qs_rank": "367"
+  },
+  {
+    "english_name": "Universidade do Estado do Rio de Janeiro (UERJ)",
+    "country": "brazil",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Universidad de Lima",
+    "country": "peru",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Université de Limoges",
+    "country": "france",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Ivan Franko National University of Lviv",
+    "country": "ukraine",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Lviv Polytechnic National University",
+    "country": "ukraine",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Université de Liège",
+    "country": "belgium",
+    "qs_rank": "364"
+  },
+  {
+    "english_name": "Lincoln University College",
+    "country": "malaysia",
+    "qs_rank": "701-710"
+  },
+  {
+    "english_name": "Brunel University of London",
+    "country": "united kingdom",
+    "qs_rank": "353"
+  },
+  {
+    "english_name": "London Metropolitan University",
+    "country": "united kingdom",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "University of the Arts London",
+    "country": "united kingdom",
+    "qs_rank": "851-900"
+  },
+  {
+    "english_name": "Università degli studi Roma Tre",
+    "country": "italy",
+    "qs_rank": "851-900"
+  },
+  {
+    "english_name": "Universidad Nacional de Rosario (UNR)",
+    "country": "argentina",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Universidad Politécnica de Madrid (UPM)",
+    "country": "spain",
+    "qs_rank": "364"
+  },
+  {
+    "english_name": "Universidad Autónoma de Madrid",
+    "country": "spain",
+    "qs_rank": "226"
+  },
+  {
+    "english_name": "Universita' Politecnica delle Marche",
+    "country": "italy",
+    "qs_rank": "662"
+  },
+  {
+    "english_name": "Otto-von-Guericke-Universität Magdeburg",
+    "country": "germany",
+    "qs_rank": "646"
+  },
+  {
+    "english_name": "Universiti Utara Malaysia (UUM)",
+    "country": "malaysia",
+    "qs_rank": "540"
+  },
+  {
+    "english_name": "Universiti Malaysia Kelantan",
+    "country": "malaysia",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "UNIVERSITI TEKNIKAL MALAYSIA MELAKA",
+    "country": "malaysia",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA)",
+    "country": "malaysia",
+    "qs_rank": "588"
+  },
+  {
+    "english_name": "Islamic University of Madinah",
+    "country": "saudi arabia",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Universidade Presbiteriana Mackenzie",
+    "country": "brazil",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Université de Montpellier",
+    "country": "france",
+    "qs_rank": "473"
+  },
+  {
+    "english_name": "Universidad de Montevideo (UM)",
+    "country": "uruguay",
+    "qs_rank": "851-900"
+  },
+  {
+    "english_name": "Universidad de Monterrey (UDEM)",
+    "country": "mexico",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Université de Montréal",
+    "country": "canada",
+    "qs_rank": "162"
+  },
+  {
+    "english_name": "University of Mumbai",
+    "country": "india",
+    "qs_rank": "901-950"
+  },
+  {
+    "english_name": "Politecnico di Milano",
+    "country": "italy",
+    "qs_rank": "87"
+  },
+  {
+    "english_name": "University of Miskolc",
+    "country": "hungary",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "University of Missouri, Columbia",
+    "country": "united states",
+    "qs_rank": "721-730"
+  },
+  {
+    "english_name": "University of Moratuwa",
+    "country": "sri lanka",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Universita' degli Studi del Molise",
+    "country": "italy",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Universidad Nacional Autónoma de México  (UNAM)",
+    "country": "mexico",
+    "qs_rank": "145"
+  },
+  {
+    "english_name": "Universidad Autónoma del Estado de México (UAEMex)",
+    "country": "mexico",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Instituto Tecnológico Autónomo de México (ITAM)",
+    "country": "mexico",
+    "qs_rank": "751-760"
+  },
+  {
+    "english_name": "Ludwig-Maximilians-Universität München",
+    "country": "germany",
+    "qs_rank": "61"
+  },
+  {
+    "english_name": "Mustansiriyah University",
+    "country": "iraq",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Nelson Mandela University",
+    "country": "south africa",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Universidad Austral",
+    "country": "argentina",
+    "qs_rank": "530"
+  },
+  {
+    "english_name": "Nantes Université",
+    "country": "france",
+    "qs_rank": "901-950"
+  },
+  {
+    "english_name": "University of South Wales",
+    "country": "united kingdom",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "O.P. Jindal Global University (JGU)",
+    "country": "india",
+    "qs_rank": "751-760"
+  },
+  {
+    "english_name": "Thapar Institute of Engineering & Technology",
+    "country": "india",
+    "qs_rank": "701-710"
+  },
+  {
+    "english_name": "University of Passau",
+    "country": "germany",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Università degli Studi di Pavia",
+    "country": "italy",
+    "qs_rank": "395"
+  },
+  {
+    "english_name": "Universitat Pompeu Fabra (Barcelona)",
+    "country": "spain",
+    "qs_rank": "263"
+  },
+  {
+    "english_name": "Universit degli Studi di Perugia",
+    "country": "italy",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Universita' degli Studi \"G. d'Annunzio\" Chieti Pescara",
+    "country": "italy",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Universidad de las Américas Puebla (UDLAP)",
+    "country": "mexico",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Université de Poitiers",
+    "country": "france",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Universitas Muhammadiyah Yogyakarta (UMY)",
+    "country": "indonesia",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Universitas Negeri Yogyakarta",
+    "country": "indonesia",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Universidad de Zaragoza",
+    "country": "spain",
+    "qs_rank": "701-710"
+  },
+  {
+    "english_name": "Universita' degli Studi di Sassari",
+    "country": "italy",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Universidad de Sevilla",
+    "country": "spain",
+    "qs_rank": "485"
+  },
+  {
+    "english_name": "University of Cyberjaya",
+    "country": "malaysia",
+    "qs_rank": "951-1000"
+  },
+  {
+    "english_name": "Shahid Beheshti University (SBU)",
+    "country": "iran",
+    "qs_rank": "781-790"
+  },
+  {
+    "english_name": "Université de Sherbrooke",
+    "country": "canada",
+    "qs_rank": "951-1000"
+  },
+  {
+    "english_name": "Universidade Federal de São Paulo",
+    "country": "brazil",
+    "qs_rank": "801-850"
+  },
+  {
+    "english_name": "Pontifícia Universidade Católica de São Paulo",
+    "country": "brazil",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "University of San Diego",
+    "country": "united states",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Universidade de Santiago de Compostela",
+    "country": "spain",
+    "qs_rank": "629"
+  },
+  {
+    "english_name": "Universidade Federal de São Carlos (UFSCar)",
+    "country": "brazil",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Universidade Federal de Santa Catarina",
+    "country": "brazil",
+    "qs_rank": "901-950"
+  },
+  {
+    "english_name": "University of Santo Tomas",
+    "country": "philippines",
+    "qs_rank": "951-1000"
+  },
+  {
+    "english_name": "Università Cattolica del Sacro Cuore",
+    "country": "italy",
+    "qs_rank": "388"
+  },
+  {
+    "english_name": "SEGi UNIVERSITY",
+    "country": "malaysia",
+    "qs_rank": "701-710"
+  },
+  {
+    "english_name": "University of Sfax",
+    "country": "tunisia",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "University of Stavanger",
+    "country": "norway",
+    "qs_rank": "851-900"
+  },
+  {
+    "english_name": "Université de Strasbourg",
+    "country": "france",
+    "qs_rank": "456"
+  },
+  {
+    "english_name": "Universiti Pendidikan Sultan Idris (UPSI)",
+    "country": "malaysia",
+    "qs_rank": "851-900"
+  },
+  {
+    "english_name": "Sumy State University",
+    "country": "ukraine",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Sofia University \"St. Kliment Ohridski\"",
+    "country": "bulgaria",
+    "qs_rank": "751-760"
+  },
+  {
+    "english_name": "Technical University of Sofia",
+    "country": "bulgaria",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Tallinn University",
+    "country": "estonia",
+    "qs_rank": "901-950"
+  },
+  {
+    "english_name": "Tashkent State University of Economics",
+    "country": "uzbekistan",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "King Mongkut's University of Technology Thonburi",
+    "country": "thailand",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Universitas Trisakti (USAKTI)",
+    "country": "indonesia",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "The University of Tennessee, Knoxville",
+    "country": "united states",
+    "qs_rank": "701-710"
+  },
+  {
+    "english_name": "Università degli Studi della Tuscia (University of Tuscia)",
+    "country": "italy",
+    "qs_rank": "851-900"
+  },
+  {
+    "english_name": "Universidad Torcuato Di Tella",
+    "country": "argentina",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Universitat de Valencia",
+    "country": "spain",
+    "qs_rank": "449"
+  },
+  {
+    "english_name": "Universitat Politecnica de Valencia",
+    "country": "spain",
+    "qs_rank": "434"
+  },
+  {
+    "english_name": "Institut Teknologi Bandung (ITB)",
+    "country": "indonesia",
+    "qs_rank": "287"
+  },
+  {
+    "english_name": "Universidad del Valle de Guatemala (UVG)",
+    "country": "guatemala",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Universidad de San Carlos de Guatemala",
+    "country": "guatemala",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Williams College",
+    "country": "united states",
+    "qs_rank": "851-900"
+  },
+  {
+    "english_name": "Julius-Maximilians-Universität Würzburg",
+    "country": "germany",
+    "qs_rank": "430"
+  },
+  {
+    "english_name": "Universidade Federal de Viçosa (UFV)",
+    "country": "brazil",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Technische Universität Wien",
+    "country": "austria",
+    "qs_rank": "191"
+  },
+  {
+    "english_name": "Universidad Central de Venezuela",
+    "country": "venezuela",
+    "qs_rank": "801-850"
+  },
+  {
+    "english_name": "Università degli Studi di Udine",
+    "country": "italy",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "National Technical University of Ukraine \"Igor Sikorsky Kyiv Polytechnic Institute\"",
+    "country": "ukraine",
+    "qs_rank": "851-900"
+  },
+  {
+    "english_name": "Universidad Católica del Uruguay (UCU)",
+    "country": "uruguay",
+    "qs_rank": "801-850"
+  },
+  {
+    "english_name": "National University of Uzbekistan named after Mirzo Ulugbek",
+    "country": "uzbekistan",
+    "qs_rank": "801-850"
+  },
+  {
+    "english_name": "Bergische Universität Wuppertal",
+    "country": "germany",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "North-West University",
+    "country": "south africa",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Northwest University (China)",
+    "country": "united states",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Universidad Simón Bolívar (USB)",
+    "country": "venezuela",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Seattle University",
+    "country": "united states",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Athens University of Economics and Business",
+    "country": "greece",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Ateneo de Manila University",
+    "country": "philippines",
+    "qs_rank": "581"
+  },
+  {
+    "english_name": "Adamson University",
+    "country": "philippines",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Asia Pacific University of Technology and Innovation (APU) Malaysia",
+    "country": "malaysia",
+    "qs_rank": "528"
+  },
+  {
+    "english_name": "Ibn Tofail University",
+    "country": "morocco",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Universidad Iberoamericana Ciudad de México - IBERO",
+    "country": "mexico",
+    "qs_rank": "851-900"
+  },
+  {
+    "english_name": "Imam Mohammad Ibn Saud Islamic University – IMSIU",
+    "country": "saudi arabia",
+    "qs_rank": "791-800"
+  },
+  {
+    "english_name": "Silpakorn University",
+    "country": "thailand",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "INTI International University",
+    "country": "malaysia",
+    "qs_rank": "406"
+  },
+  {
+    "english_name": "Zarqa University (ZU)",
+    "country": "jordan",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Universidad de Chile",
+    "country": "chile",
+    "qs_rank": "185"
+  },
+  {
+    "english_name": "Altai State University",
+    "country": "russia",
+    "qs_rank": "901-950"
+  },
+  {
+    "english_name": "Galgotias University",
+    "country": "india",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "German Jordanian University",
+    "country": "jordan",
+    "qs_rank": "781-790"
+  },
+  {
+    "english_name": "Hitotsubashi University",
+    "country": "japan",
+    "qs_rank": "575"
+  },
+  {
+    "english_name": "Ho Chi Minh City University of Technology (HUTECH)",
+    "country": "vietnam",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Hongik University",
+    "country": "south korea",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Indian Institute of Information Technology, Allahabad",
+    "country": "india",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Khulna University of Engineering and Technology",
+    "country": "bangladesh",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Kyoto Institute of Technology",
+    "country": "japan",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Prague University of Economics and Business",
+    "country": "czech republic",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Samara National Research University (Samara University)",
+    "country": "russia",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Universidad Científica del Sur",
+    "country": "peru",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Universidad de La Sabana",
+    "country": "colombia",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "University of Pannonia",
+    "country": "hungary",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "University of Pardubice",
+    "country": "czech republic",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "University of Zilina",
+    "country": "slovakia",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "UCL",
+    "country": "united kingdom",
+    "qs_rank": "8"
+  },
+  {
+    "english_name": "Nanyang Technological University, Singapore (NTU Singapore)",
+    "country": "singapore",
+    "qs_rank": "12"
+  },
+  {
+    "english_name": "EPFL – École polytechnique fédérale de Lausanne",
+    "country": "switzerland",
+    "qs_rank": "22"
+  },
+  {
+    "english_name": "Université PSL",
+    "country": "france",
+    "qs_rank": "34"
+  },
+  {
+    "english_name": "KFUPM",
+    "country": "saudi arabia",
+    "qs_rank": "63"
+  },
+  {
+    "english_name": "KAIST",
+    "country": "south korea",
+    "qs_rank": "65"
+  },
+  {
+    "english_name": "KTH Royal Institute of Technology",
+    "country": "sweden",
+    "qs_rank": "82"
+  },
+  {
+    "english_name": "Universität Heidelberg",
+    "country": "germany",
+    "qs_rank": "86"
+  },
+  {
+    "english_name": "The University of Osaka",
+    "country": "japan",
+    "qs_rank": "95"
+  },
+  {
+    "english_name": "Freie Universitaet Berlin",
+    "country": "germany",
+    "qs_rank": "98"
+  },
+  {
+    "english_name": "KIT, Karlsruhe Institute of Technology",
+    "country": "germany",
+    "qs_rank": "110"
+  },
+  {
+    "english_name": "Lomonosov Moscow State University",
+    "country": "russia",
+    "qs_rank": "115"
+  },
+  {
+    "english_name": "Alma Mater Studiorum - Università di Bologna",
+    "country": "italy",
+    "qs_rank": "123"
+  },
+  {
+    "english_name": "Queen's University at Kingston",
+    "country": "canada",
+    "qs_rank": "179"
+  },
+  {
+    "english_name": "Università di Padova",
+    "country": "italy",
+    "qs_rank": "204"
+  },
+  {
+    "english_name": "Gadjah Mada University",
+    "country": "indonesia",
+    "qs_rank": "206"
+  },
+  {
+    "english_name": "École Normale Supérieure de Lyon",
+    "country": "france",
+    "qs_rank": "235"
+  },
+  {
+    "english_name": "Central European University",
+    "country": "austria",
+    "qs_rank": "239"
+  },
+  {
+    "english_name": "The University of Newcastle, Australia (UON)",
+    "country": "australia",
+    "qs_rank": "244"
+  },
+  {
+    "english_name": "Albert-Ludwigs-Universitaet Freiburg",
+    "country": "germany",
+    "qs_rank": "245"
+  },
+  {
+    "english_name": "University of Minnesota (System)",
+    "country": "united states",
+    "qs_rank": "255"
+  },
+  {
+    "english_name": "University of Canterbury | Te Whare Wānanga o Waitaha",
+    "country": "new zealand",
+    "qs_rank": "257"
+  },
+  {
+    "english_name": "Charles University",
+    "country": "czech republic",
+    "qs_rank": "273"
+  },
+  {
+    "english_name": "Radboud University",
+    "country": "netherlands",
+    "qs_rank": "283"
+  },
+  {
+    "english_name": "Xi’an Jiaotong University",
+    "country": "china",
+    "qs_rank": "296"
+  },
+  {
+    "english_name": "Rutgers University–New Brunswick",
+    "country": "united states",
+    "qs_rank": "314"
+  },
+  {
+    "english_name": "Satbayev University",
+    "country": "kazakhstan",
+    "qs_rank": "351"
+  },
+  {
+    "english_name": "Sciences Po",
+    "country": "france",
+    "qs_rank": "354"
+  },
+  {
+    "english_name": "RUDN University",
+    "country": "russia",
+    "qs_rank": "359"
+  },
+  {
+    "english_name": "Goethe-University Frankfurt am Main",
+    "country": "germany",
+    "qs_rank": "376"
+  },
+  {
+    "english_name": "National University of Sciences & Technology (NUST) Islamabad",
+    "country": "pakistan",
+    "qs_rank": "384"
+  },
+  {
+    "english_name": "LUT University",
+    "country": "finland",
+    "qs_rank": "390"
+  },
+  {
+    "english_name": "University of the Philippines",
+    "country": "philippines",
+    "qs_rank": "402"
+  },
+  {
+    "english_name": "IPB University (aka Bogor Agricultural University)",
+    "country": "indonesia",
+    "qs_rank": "419"
+  },
+  {
+    "english_name": "HSE University",
+    "country": "russia",
+    "qs_rank": "423"
+  },
+  {
+    "english_name": "University of Aveiro",
+    "country": "portugal",
+    "qs_rank": "425"
+  },
+  {
+    "english_name": "Universitat Politècnica de Catalunya · BarcelonaTech (UPC)",
+    "country": "spain",
+    "qs_rank": "434"
+  },
+  {
+    "english_name": "Essex, University of",
+    "country": "united kingdom",
+    "qs_rank": "438"
+  },
+  {
+    "english_name": "Shoolini University of Biotechnology and Management Sciences",
+    "country": "india",
+    "qs_rank": "452"
+  },
+  {
+    "english_name": "SOAS University of London",
+    "country": "united kingdom",
+    "qs_rank": "458"
+  },
+  {
+    "english_name": "Tashkent Institute of Irrigation and Agricultural Mechanization Engineers - National Research University (TIIAME-NRU)",
+    "country": "uzbekistan",
+    "qs_rank": "458"
+  },
+  {
+    "english_name": "Università Vita-Salute San Raffaele",
+    "country": "italy",
+    "qs_rank": "465"
+  },
+  {
+    "english_name": "Stony Brook University, State University of New York",
+    "country": "united states",
+    "qs_rank": "468"
+  },
+  {
+    "english_name": "Leibniz University Hannover",
+    "country": "germany",
+    "qs_rank": "470"
+  },
+  {
+    "english_name": "Universidad Nacional de La Plata (UNLP)",
+    "country": "argentina",
+    "qs_rank": "474"
+  },
+  {
+    "english_name": "University of Bordeaux",
+    "country": "france",
+    "qs_rank": "485"
+  },
+  {
+    "english_name": "Ural Federal University - UrFU",
+    "country": "russia",
+    "qs_rank": "504"
+  },
+  {
+    "english_name": "UNESP",
+    "country": "brazil",
+    "qs_rank": "513"
+  },
+  {
+    "english_name": "Northumbria University at Newcastle",
+    "country": "united kingdom",
+    "qs_rank": "528"
+  },
+  {
+    "english_name": "Pontificia Universidad Católica Argentina",
+    "country": "argentina",
+    "qs_rank": "530"
+  },
+  {
+    "english_name": "Saint Joseph University of Beirut (USJ)",
+    "country": "lebanon",
+    "qs_rank": "537"
+  },
+  {
+    "english_name": "University of Milano-Bicocca",
+    "country": "italy",
+    "qs_rank": "544"
+  },
+  {
+    "english_name": "Universiti Teknologi MARA - UiTM",
+    "country": "malaysia",
+    "qs_rank": "549"
+  },
+  {
+    "english_name": "Ain Shams University in Cairo (ASU, Cairo)",
+    "country": "egypt",
+    "qs_rank": "551"
+  },
+  {
+    "english_name": "Al Ain University",
+    "country": "united arab emirates",
+    "qs_rank": "559"
+  },
+  {
+    "english_name": "Université Paul Sabatier Toulouse III",
+    "country": "france",
+    "qs_rank": "565"
+  },
+  {
+    "english_name": "Universität Jena",
+    "country": "germany",
+    "qs_rank": "567"
+  },
+  {
+    "english_name": "Paris Lodron University of Salzburg",
+    "country": "austria",
+    "qs_rank": "572"
+  },
+  {
+    "english_name": "Ulm University",
+    "country": "germany",
+    "qs_rank": "575"
+  },
+  {
+    "english_name": "Lingnan University, Hong Kong",
+    "country": "hong kong",
+    "qs_rank": "581"
+  },
+  {
+    "english_name": "Ulster University",
+    "country": "united kingdom",
+    "qs_rank": "595"
+  },
+  {
+    "english_name": "Vellore Institute of Technology (VIT), Vellore, India",
+    "country": "india",
+    "qs_rank": "597"
+  },
+  {
+    "english_name": "China University of Petroleum, Beijing",
+    "country": "china",
+    "qs_rank": "600"
+  },
+  {
+    "english_name": "American University of Ras Al Khaimah",
+    "country": "united arab emirates",
+    "qs_rank": "608"
+  },
+  {
+    "english_name": "Université Claude Bernard Lyon 1",
+    "country": "france",
+    "qs_rank": "613"
+  },
+  {
+    "english_name": "Universiti Teknologi Brunei",
+    "country": "brunei",
+    "qs_rank": "613"
+  },
+  {
+    "english_name": "University of Tromsø The Arctic University of Norway",
+    "country": "norway",
+    "qs_rank": "629"
+  },
+  {
+    "english_name": "Abai Kazakh National Pedagogical University (Abai University)",
+    "country": "kazakhstan",
+    "qs_rank": "634"
+  },
+  {
+    "english_name": "MGIMO University",
+    "country": "russia",
+    "qs_rank": "639"
+  },
+  {
+    "english_name": "Universidad de la República (Udelar)",
+    "country": "uruguay",
+    "qs_rank": "652"
+  },
+  {
+    "english_name": "Applied Science University - Bahrain",
+    "country": "bahrain",
+    "qs_rank": "655"
+  },
+  {
+    "english_name": "Symbiosis International (Deemed University)",
+    "country": "india",
+    "qs_rank": "655"
+  },
+  {
+    "english_name": "China University of Mining and Technology",
+    "country": "china",
+    "qs_rank": "659"
+  },
+  {
+    "english_name": "Beirut Arab University",
+    "country": "lebanon",
+    "qs_rank": "670"
+  },
+  {
+    "english_name": "City University of New York",
+    "country": "united states",
+    "qs_rank": "677"
+  },
+  {
+    "english_name": "Kingston University, London",
+    "country": "united kingdom",
+    "qs_rank": "686"
+  },
+  {
+    "english_name": "TU Dortmund University",
+    "country": "germany",
+    "qs_rank": "691"
+  },
+  {
+    "english_name": "Karl-Franzens-Universitaet Graz",
+    "country": "austria",
+    "qs_rank": "696"
+  },
+  {
+    "english_name": "Ahlia University",
+    "country": "bahrain",
+    "qs_rank": "711-720"
+  },
+  {
+    "english_name": "Plekhanov Russian University of Economics",
+    "country": "russia",
+    "qs_rank": "721-730"
+  },
+  {
+    "english_name": "TUHH Hamburg University of Technology",
+    "country": "germany",
+    "qs_rank": "721-730"
+  },
+  {
+    "english_name": "Adam Mickiewicz University, Poznań",
+    "country": "poland",
+    "qs_rank": "731-740"
+  },
+  {
+    "english_name": "Northwest Agriculture and Forestry University",
+    "country": "china",
+    "qs_rank": "731-740"
+  },
+  {
+    "english_name": "National Research Tomsk Polytechnic University",
+    "country": "russia",
+    "qs_rank": "741-750"
+  },
+  {
+    "english_name": "Applied Science Private University - Jordan",
+    "country": "jordan",
+    "qs_rank": "761-770"
+  },
+  {
+    "english_name": "Holy Spirit University of Kaslik",
+    "country": "lebanon",
+    "qs_rank": "761-770"
+  },
+  {
+    "english_name": "UWE Bristol (University of the West of England)",
+    "country": "united kingdom",
+    "qs_rank": "761-770"
+  },
+  {
+    "english_name": "Auezov South Kazakhstan University (SKU)",
+    "country": "kazakhstan",
+    "qs_rank": "781-790"
+  },
+  {
+    "english_name": "Kazakh National Agrarian Research University (KazNARU)",
+    "country": "kazakhstan",
+    "qs_rank": "781-790"
+  },
+  {
+    "english_name": "Technische Universität Braunschweig",
+    "country": "germany",
+    "qs_rank": "781-790"
+  },
+  {
+    "english_name": "University of Dubai",
+    "country": "united arab emirates",
+    "qs_rank": "781-790"
+  },
+  {
+    "english_name": "Verona University",
+    "country": "italy",
+    "qs_rank": "781-790"
+  },
+  {
+    "english_name": "VILNIUS TECH (Vilnius Gediminas Technical University)",
+    "country": "lithuania",
+    "qs_rank": "791-800"
+  },
+  {
+    "english_name": "American University of Central Asia",
+    "country": "kyrgyzstan",
+    "qs_rank": "801-850"
+  },
+  {
+    "english_name": "El Colegio de México, A.C.",
+    "country": "mexico",
+    "qs_rank": "801-850"
+  },
+  {
+    "english_name": "Rutgers University–Newark",
+    "country": "united states",
+    "qs_rank": "801-850"
+  },
+  {
+    "english_name": "Saveetha Institute of Medical And Technical Sciences (SIMATS) , Tamil Nadu,India",
+    "country": "india",
+    "qs_rank": "801-850"
+  },
+  {
+    "english_name": "Viet Nam National University Ho Chi Minh City (VNU-HCM)",
+    "country": "vietnam",
+    "qs_rank": "801-850"
+  },
+  {
+    "english_name": "Catania University",
+    "country": "italy",
+    "qs_rank": "851-900"
+  },
+  {
+    "english_name": "Iscte - University Institute of Lisbon",
+    "country": "portugal",
+    "qs_rank": "851-900"
+  },
+  {
+    "english_name": "Khoja Akhmet Yassawi International Kazakh-Turkish University",
+    "country": "kazakhstan",
+    "qs_rank": "851-900"
+  },
+  {
+    "english_name": "Manipal Academy of Higher Education, Manipal, Karnataka, India",
+    "country": "india",
+    "qs_rank": "851-900"
+  },
+  {
+    "english_name": "Sechenov University",
+    "country": "russia",
+    "qs_rank": "851-900"
+  },
+  {
+    "english_name": "The New School, New York City and Paris",
+    "country": "united states",
+    "qs_rank": "851-900"
+  },
+  {
+    "english_name": "University of Wroclaw",
+    "country": "poland",
+    "qs_rank": "851-900"
+  },
+  {
+    "english_name": "Al-Quds University",
+    "country": "palestine",
+    "qs_rank": "901-950"
+  },
+  {
+    "english_name": "Belarusian National Technical University (BNTU)",
+    "country": "belarus",
+    "qs_rank": "901-950"
+  },
+  {
+    "english_name": "Bina Nusantara University (BINUS)",
+    "country": "indonesia",
+    "qs_rank": "901-950"
+  },
+  {
+    "english_name": "Dhofar University",
+    "country": "oman",
+    "qs_rank": "901-950"
+  },
+  {
+    "english_name": "Effat University",
+    "country": "saudi arabia",
+    "qs_rank": "901-950"
+  },
+  {
+    "english_name": "European University of Lefke",
+    "country": "northern cyprus",
+    "qs_rank": "901-950"
+  },
+  {
+    "english_name": "Kyrgyz Russian Slavic University",
+    "country": "kyrgyzstan",
+    "qs_rank": "901-950"
+  },
+  {
+    "english_name": "Universidad Espíritu Santo (UEES), Ecuador",
+    "country": "ecuador",
+    "qs_rank": "901-950"
+  },
+  {
+    "english_name": "UPES",
+    "country": "india",
+    "qs_rank": "901-950"
+  },
+  {
+    "english_name": "Gulf University for Science and Technology",
+    "country": "kuwait",
+    "qs_rank": "951-1000"
+  },
+  {
+    "english_name": "IMU University",
+    "country": "malaysia",
+    "qs_rank": "951-1000"
+  },
+  {
+    "english_name": "Jouf University",
+    "country": "saudi arabia",
+    "qs_rank": "951-1000"
+  },
+  {
+    "english_name": "Macao Polytechnic University",
+    "country": "macao sar china",
+    "qs_rank": "951-1000"
+  },
+  {
+    "english_name": "NLC «Buketov Karaganda National Research University»",
+    "country": "kazakhstan",
+    "qs_rank": "951-1000"
+  },
+  {
+    "english_name": "Princess Sumaya University for Technology",
+    "country": "jordan",
+    "qs_rank": "951-1000"
+  },
+  {
+    "english_name": "Sohar University",
+    "country": "oman",
+    "qs_rank": "951-1000"
+  },
+  {
+    "english_name": "Sophia University",
+    "country": "japan",
+    "qs_rank": "951-1000"
+  },
+  {
+    "english_name": "Southwest University",
+    "country": "china",
+    "qs_rank": "951-1000"
+  },
+  {
+    "english_name": "Universidad Anáhuac México",
+    "country": "mexico",
+    "qs_rank": "951-1000"
+  },
+  {
+    "english_name": "Universitas Sebelas Maret (UNS)",
+    "country": "indonesia",
+    "qs_rank": "951-1000"
+  },
+  {
+    "english_name": "Université du Québec",
+    "country": "canada",
+    "qs_rank": "951-1000"
+  },
+  {
+    "english_name": "University Duesseldorf",
+    "country": "germany",
+    "qs_rank": "951-1000"
+  },
+  {
+    "english_name": "Abylkas Saginov Karaganda Technical University",
+    "country": "kazakhstan",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Al Nahrain University",
+    "country": "iraq",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Almaty Technological University",
+    "country": "kazakhstan",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Asfendiyarov Kazakh National Medical University",
+    "country": "kazakhstan",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Beijing University of Posts and Telecommunications",
+    "country": "china",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "CEU Universities",
+    "country": "spain",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Chitkara University",
+    "country": "india",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "D. Serikbayev East Kazakhstan Technical University",
+    "country": "kazakhstan",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Financial University under the Government of the Russian Federation",
+    "country": "russia",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Hong Kong Shue Yan University",
+    "country": "hong kong",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Immanuel Kant Baltic Federal University",
+    "country": "russia",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Kalinga Institute of Industrial Technology (KIIT) University",
+    "country": "india",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Kyrgyz-Turkish Manas University",
+    "country": "kyrgyzstan",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "MATE Hungarian University of Agriculture and Life Sciences",
+    "country": "hungary",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Middle East University Jordan",
+    "country": "jordan",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Mutah University",
+    "country": "jordan",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Mykolas Romeris University",
+    "country": "lithuania",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Narxoz University",
+    "country": "kazakhstan",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Northern Borders University",
+    "country": "saudi arabia",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Panjab University, Chandigarh",
+    "country": "india",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Pavol Jozef Šafárik University in Košice",
+    "country": "slovakia",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Ritsumeikan Asia Pacific University",
+    "country": "japan",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Samarkand State University",
+    "country": "uzbekistan",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Shiv Nadar University, Delhi NCR",
+    "country": "india",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Siberian Federal University, SibFU",
+    "country": "russia",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Sumgayit State University",
+    "country": "azerbaijan",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Széchenyi István University (University of Győr)",
+    "country": "hungary",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Tashkent State Technical University",
+    "country": "uzbekistan",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Universidad de Puerto Rico",
+    "country": "puerto rico",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Universidad de San Andrés - UdeSA",
+    "country": "argentina",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Universidad ORT Uruguay",
+    "country": "uruguay",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Universit de Bretagne Occidentale",
+    "country": "france",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Université Lumière Lyon 2",
+    "country": "france",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "University of Algarve",
+    "country": "portugal",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "University of Balamand",
+    "country": "lebanon",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "University of Cassino and Southern Lazio",
+    "country": "italy",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "University of Lancashire",
+    "country": "united kingdom",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "University of Naples Parthenope",
+    "country": "italy",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "University of Roehampton, London",
+    "country": "united kingdom",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "Xi'an Jiaotong Liverpool University",
+    "country": "china",
+    "qs_rank": "1001-1200"
+  },
+  {
+    "english_name": "A'Sharqiyah University",
+    "country": "oman",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Ahmadu Bello University, Zaria",
+    "country": "nigeria",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Amman Arab University",
+    "country": "jordan",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Beijing Foreign Studies University",
+    "country": "china",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Capital University – Egypt",
+    "country": "egypt",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Empress Catherine II Saint Petersburg Mining University",
+    "country": "russia",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Florida Atlantic University - Boca Raton",
+    "country": "united states",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "German University of Technology in Oman (GUtech)",
+    "country": "oman",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Instituto Tecnológico de Buenos Aires (ITBA)",
+    "country": "argentina",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "International Christian University",
+    "country": "japan",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Islamic University of Lebanon",
+    "country": "lebanon",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "ITESO, Universidad Jesuita de Guadalajara",
+    "country": "mexico",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Izmir Institute of Technology (IZTECH)",
+    "country": "turkey",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Jadara University",
+    "country": "jordan",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Kazakh-British Technical University",
+    "country": "kazakhstan",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Kyrgyz National University",
+    "country": "kyrgyzstan",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Lobachevsky University",
+    "country": "russia",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "National Research Saratov State University",
+    "country": "russia",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "National Taipei University",
+    "country": "taiwan",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "National University of Science and Technology POLITEHNICA Bucharest",
+    "country": "romania",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "National University of Science and Technology, Oman",
+    "country": "oman",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Notre Dame University-Louaize NDU",
+    "country": "lebanon",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Odessa I.I.Mechnikov National University",
+    "country": "ukraine",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Palestine Technical University - Kadoorie",
+    "country": "palestine",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Paul Valéry University Montpellier",
+    "country": "france",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Russian Presidential Academy of National Economy and Public Administration",
+    "country": "russia",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Saint Petersburg Electrotechnical University ETU-LETI",
+    "country": "russia",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Saken Seifullin Kazakh Agrotechnical Research University",
+    "country": "kazakhstan",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Shanghai University of Finance and Economics",
+    "country": "china",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Siksha ‘O’ Anusandhan (Deemed to be University), SOA",
+    "country": "india",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Sungshin Women's University",
+    "country": "south korea",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Tashkent State Transport University",
+    "country": "uzbekistan",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Tecnológico de Costa Rica -TEC",
+    "country": "costa rica",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Telkom University",
+    "country": "indonesia",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "The Josip Juraj Strossmayer University of Osijek",
+    "country": "croatia",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Tishk International University",
+    "country": "iraq",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "UCAM Universidad Católica San Antonio de Murcia",
+    "country": "spain",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Universidad Autónoma Chapingo",
+    "country": "mexico",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Universidad de Las Américas (UDLA) Ecuador",
+    "country": "ecuador",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Universidad de Los Andes - (ULA) Mérida",
+    "country": "venezuela",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Universidad Nacional de Asunción",
+    "country": "paraguay",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Universidad Nacional de Cuyo (UNCUYO)",
+    "country": "argentina",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Universidad Nacional, Costa Rica",
+    "country": "costa rica",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Universitatea de Vest din Timisoara /  West University of Timisoara",
+    "country": "romania",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Université Bourgogne Europe",
+    "country": "france",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Université Paris-Nanterre",
+    "country": "france",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Université Polytechnique Hauts‑de‑France",
+    "country": "france",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "Université Toulouse - Jean Jaurès",
+    "country": "france",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "University of Anbar",
+    "country": "iraq",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "University of Management and Technology (UMT) Pakistan",
+    "country": "pakistan",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "University of New England Australia",
+    "country": "australia",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "University of Nigeria Nsukka",
+    "country": "nigeria",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "University of Silesia in Katowice",
+    "country": "poland",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "University of Tunis",
+    "country": "tunisia",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "University of Warmia and Mazury in Olsztyn",
+    "country": "poland",
+    "qs_rank": "1201-1400"
+  },
+  {
+    "english_name": "American International University-Bangladesh (AIUB)",
+    "country": "bangladesh",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Benha University - Egypt",
+    "country": "egypt",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "China University of Political Science and Law",
+    "country": "china",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Chittagong University of Engineering and Technology",
+    "country": "bangladesh",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Doshisha University",
+    "country": "japan",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Escuela Politécnica Nacional",
+    "country": "ecuador",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "I. Razzakov Kyrgyz State Technical University",
+    "country": "kyrgyzstan",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Instituto Tecnológico de Santo Domingo (INTEC)",
+    "country": "dominican republic",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "International Islamic University, Islamabad (IIU)",
+    "country": "pakistan",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Islamic University of Technology",
+    "country": "bangladesh",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Kazakh Ablai Khan University of International Relations and World Languages",
+    "country": "kazakhstan",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "National Chinyi University of Technology",
+    "country": "taiwan",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "National Research University Moscow Power Engineering Institute (MPEI)",
+    "country": "russia",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Shahjalal University of Science and Technology",
+    "country": "bangladesh",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Stefan cel Mare University of Suceava",
+    "country": "romania",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "The Islamia University of Bahawalpur,Pakistan",
+    "country": "pakistan",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "The University of Georgia, Tbilisi",
+    "country": "georgia",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Toraighyrov University",
+    "country": "kazakhstan",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Universidad Autónoma de Guadalajara (UAG)",
+    "country": "mexico",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN)",
+    "country": "argentina",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Universidad Nacional del Litoral",
+    "country": "argentina",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Universidad Peruana de Ciencias Aplicadas (UPC)",
+    "country": "peru",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Universidad Tecnológica Centroamericana (UNITEC)",
+    "country": "honduras",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Universidad Tecnológica de Panamá (UTP)",
+    "country": "panama",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Universitas Andalas",
+    "country": "indonesia",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Universitas Pendidikan Indonesia",
+    "country": "indonesia",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Université de Rouen Normandie",
+    "country": "france",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "University of Kaiserslautern-Landau (RPTU)",
+    "country": "germany",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "University of Kerbala",
+    "country": "iraq",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "University of Kufa",
+    "country": "iraq",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "University of Petra",
+    "country": "jordan",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "University of Sri Jayawardenapura",
+    "country": "sri lanka",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "University of Tyumen",
+    "country": "russia",
+    "qs_rank": "1401+"
+  },
+  {
+    "english_name": "Yessenov University",
+    "country": "kazakhstan",
+    "qs_rank": "1401+"
+  }
+]

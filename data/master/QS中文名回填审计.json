@@ -1,0 +1,4932 @@
+[
+  {
+    "qs_english_name": "Universidad Argentina de la Empresa (UADE)",
+    "deepseek_chinese_name": "阿根廷企业大学",
+    "cscse_chinese_name": "阿根廷企业大学",
+    "country": "argentina",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Arkansas Fayetteville",
+    "deepseek_chinese_name": "阿肯色大学费耶特维尔分校",
+    "cscse_chinese_name": "阿肯色大学菲耶特维尔分校",
+    "country": "united states",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Amrita Vishwa Vidyapeetham",
+    "deepseek_chinese_name": "阿姆里塔大学",
+    "cscse_chinese_name": "阿姆里塔威施瓦威达匹萨姆学院",
+    "country": "india",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "Amrita Vishwa Vidyapeetham Coimbatore",
+    "method": "english_high_confidence",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Azerbaijan State University of Economics (UNEC)",
+    "deepseek_chinese_name": "阿塞拜疆国立经济大学",
+    "cscse_chinese_name": "阿塞拜疆国立经济大学",
+    "country": "azerbaijan",
+    "qs_rank": "634",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Azerbaijan State Pedagogical University",
+    "deepseek_chinese_name": "阿塞拜疆国立师范大学",
+    "cscse_chinese_name": "阿塞拜疆国立师范大学",
+    "country": "azerbaijan",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Azerbaijan State Oil and Industry University",
+    "deepseek_chinese_name": "阿塞拜疆国立石油与工业大学",
+    "cscse_chinese_name": "阿塞拜疆国立石油与工业大学",
+    "country": "azerbaijan",
+    "qs_rank": "711-720",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Azerbaijan University of Architecture and Construction (AzUAC)",
+    "deepseek_chinese_name": "阿塞拜疆建筑与建设大学",
+    "cscse_chinese_name": "阿塞拜疆建筑大学",
+    "country": "azerbaijan",
+    "qs_rank": "951-1000",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Azerbaijan Technical University",
+    "deepseek_chinese_name": "阿塞拜疆技术大学",
+    "cscse_chinese_name": "阿塞拜疆理工大学",
+    "country": "azerbaijan",
+    "qs_rank": "801-850",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "ADA University",
+    "deepseek_chinese_name": "ADA大学",
+    "cscse_chinese_name": "阿塞拜疆外交大学",
+    "country": "azerbaijan",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+    "deepseek_chinese_name": "埃尔朗根-纽伦堡大学",
+    "cscse_chinese_name": "埃尔朗根-纽伦堡大学",
+    "country": "germany",
+    "qs_rank": "218",
+    "matched_usnews_english_name": "University of Erlangen Nuremberg",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Yerevan State University",
+    "deepseek_chinese_name": "埃里温国立大学",
+    "cscse_chinese_name": "埃里温国立大学",
+    "country": "armenia",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universitas Airlangga",
+    "deepseek_chinese_name": "艾尔朗加大学",
+    "cscse_chinese_name": "艾尔郎加大学",
+    "country": "indonesia",
+    "qs_rank": "276",
+    "matched_usnews_english_name": "Airlangga University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Aix-Marseille University",
+    "deepseek_chinese_name": "艾克斯-马赛大学",
+    "cscse_chinese_name": "艾克斯－马赛大学",
+    "country": "france",
+    "qs_rank": "443",
+    "matched_usnews_english_name": "University of Aix-Marseille",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Queen Margaret University , Edinburgh",
+    "deepseek_chinese_name": "爱丁堡玛格丽特女王大学",
+    "cscse_chinese_name": "爱丁堡玛格丽特女王大学",
+    "country": "united kingdom",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad Católica Andres Bello",
+    "deepseek_chinese_name": "安德烈斯·贝略天主教大学",
+    "cscse_chinese_name": "安德烈斯·贝略天主教大学",
+    "country": "venezuela",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad de los Andes",
+    "deepseek_chinese_name": "安第斯大学",
+    "cscse_chinese_name": "安第斯大学",
+    "country": "colombia",
+    "qs_rank": "233",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "VSB - Technical University of Ostrava",
+    "deepseek_chinese_name": "俄斯特拉发技术大学",
+    "cscse_chinese_name": "奥斯特拉发技术大学",
+    "country": "czech republic",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "Technical University of Ostrava",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universidad de Oviedo",
+    "deepseek_chinese_name": "奥维耶多大学",
+    "cscse_chinese_name": "奥维耶多大学",
+    "country": "spain",
+    "qs_rank": "901-950",
+    "matched_usnews_english_name": "University of Oviedo",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universitas Negeri Padang",
+    "deepseek_chinese_name": "巴东国立大学",
+    "cscse_chinese_name": "巴东国立大学",
+    "country": "indonesia",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Baku Engineering University",
+    "deepseek_chinese_name": "巴库工程大学",
+    "cscse_chinese_name": "巴库工程大学",
+    "country": "azerbaijan",
+    "qs_rank": "851-900",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Baku State University",
+    "deepseek_chinese_name": "巴库国立大学",
+    "cscse_chinese_name": "巴库国立大学",
+    "country": "azerbaijan",
+    "qs_rank": "565",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidade Federal do Paraná - UFPR",
+    "deepseek_chinese_name": "巴拉那联邦大学",
+    "cscse_chinese_name": "巴拉那联邦大学",
+    "country": "brazil",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "Federal University of Paraná",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universidad de Palermo (UP)",
+    "deepseek_chinese_name": "巴勒莫大学",
+    "cscse_chinese_name": "巴勒莫大学",
+    "country": "argentina",
+    "qs_rank": "781-790",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Université Paris-Est Créteil Val de Marne",
+    "deepseek_chinese_name": "巴黎东克雷泰伊大学",
+    "cscse_chinese_name": "巴黎第十二大学",
+    "country": "france",
+    "qs_rank": "901-950",
+    "matched_usnews_english_name": "University of Paris-Est Creteil",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Université Paris 1 Panthéon-Sorbonne",
+    "deepseek_chinese_name": "巴黎第一大学",
+    "cscse_chinese_name": "巴黎第一大学",
+    "country": "france",
+    "qs_rank": "246",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Université Sorbonne Paris Nord",
+    "deepseek_chinese_name": "巴黎北索邦大学",
+    "cscse_chinese_name": "巴黎索邦北大学",
+    "country": "france",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Université Paris Cité",
+    "deepseek_chinese_name": "巴黎西岱大学",
+    "cscse_chinese_name": "巴黎西岱大学",
+    "country": "france",
+    "qs_rank": "303",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universitat de Barcelona",
+    "deepseek_chinese_name": "巴塞罗那大学",
+    "cscse_chinese_name": "巴塞罗那大学",
+    "country": "spain",
+    "qs_rank": "165",
+    "matched_usnews_english_name": "University of Barcelona",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universitat Autònoma de Barcelona",
+    "deepseek_chinese_name": "巴塞罗那自治大学",
+    "cscse_chinese_name": "巴塞罗那自治大学",
+    "country": "spain",
+    "qs_rank": "211",
+    "matched_usnews_english_name": "Autonomous University of Barcelona",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universidade de Brasília",
+    "deepseek_chinese_name": "巴西利亚大学",
+    "cscse_chinese_name": "巴西利亚大学",
+    "country": "brazil",
+    "qs_rank": "851-900",
+    "matched_usnews_english_name": "University of Brasilia",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Technische Universität Berlin (TU Berlin)",
+    "deepseek_chinese_name": "柏林工业大学",
+    "cscse_chinese_name": "柏林工业大学",
+    "country": "germany",
+    "qs_rank": "158",
+    "matched_usnews_english_name": "Technical University of Berlin",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "The University of Northampton",
+    "deepseek_chinese_name": "北安普顿大学",
+    "cscse_chinese_name": "北安普顿大学",
+    "country": "united kingdom",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Northern British Columbia",
+    "deepseek_chinese_name": "北英属哥伦比亚大学",
+    "cscse_chinese_name": "北不列颠哥伦比亚大学",
+    "country": "canada",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad del Norte",
+    "deepseek_chinese_name": "北方大学",
+    "cscse_chinese_name": "北方大学",
+    "country": "colombia",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universitas Sumatera Utara",
+    "deepseek_chinese_name": "北苏门答腊大学",
+    "cscse_chinese_name": "北苏门答腊大学",
+    "country": "indonesia",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad de Belgrano (UB)",
+    "deepseek_chinese_name": "贝尔格拉诺大学",
+    "cscse_chinese_name": "贝尔格拉诺大学",
+    "country": "argentina",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidade de Vigo",
+    "deepseek_chinese_name": "维戈大学",
+    "cscse_chinese_name": "比戈大学",
+    "country": "spain",
+    "qs_rank": "801-850",
+    "matched_usnews_english_name": "University of Vigo",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+    "deepseek_chinese_name": "波恩大学",
+    "cscse_chinese_name": "波恩大学",
+    "country": "germany",
+    "qs_rank": "209",
+    "matched_usnews_english_name": "University of Bonn",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universidad Pontificia Bolivariana",
+    "deepseek_chinese_name": "玻利瓦尔教皇大学",
+    "cscse_chinese_name": "玻利瓦尔主教大学",
+    "country": "colombia",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "BRAC University",
+    "deepseek_chinese_name": "BRAC大学",
+    "cscse_chinese_name": "布莱克大学",
+    "country": "bangladesh",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universitas Brawijaya",
+    "deepseek_chinese_name": "布拉维贾亚大学",
+    "cscse_chinese_name": "布劳爪哇大学",
+    "country": "indonesia",
+    "qs_rank": "616",
+    "matched_usnews_english_name": "Brawijaya University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Vrije Universiteit Brussel (VUB)",
+    "deepseek_chinese_name": "布鲁塞尔自由大学",
+    "cscse_chinese_name": "布鲁塞尔自由大学",
+    "country": "belgium",
+    "qs_rank": "295",
+    "matched_usnews_english_name": "Free University of Brussels",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universidad de Buenos Aires (UBA)",
+    "deepseek_chinese_name": "布宜诺斯艾利斯大学",
+    "cscse_chinese_name": "布宜诺斯艾利斯大学",
+    "country": "argentina",
+    "qs_rank": "84",
+    "matched_usnews_english_name": "University of Buenos Aires",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Pontificia Universidad Católica Madre y Maestra (PUCMM)",
+    "deepseek_chinese_name": "宗座圣母和导师天主教大学",
+    "cscse_chinese_name": "慈母与导师天主教宗座大学",
+    "country": "dominican republic",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Damascus University",
+    "deepseek_chinese_name": "大马士革大学",
+    "cscse_chinese_name": "大马士革大学",
+    "country": "syrian arab republic",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Delta University for Science and Technology",
+    "deepseek_chinese_name": "三角洲科技大学",
+    "cscse_chinese_name": "德尔塔科学与技术大学",
+    "country": "egypt",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "De La Salle University",
+    "deepseek_chinese_name": "德拉萨大学",
+    "cscse_chinese_name": "德拉萨大学",
+    "country": "philippines",
+    "qs_rank": "751-760",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Technische Universität Dresden",
+    "deepseek_chinese_name": "德累斯顿工业大学",
+    "cscse_chinese_name": "德累斯顿工业大学",
+    "country": "germany",
+    "qs_rank": "185",
+    "matched_usnews_english_name": "Technical University of Dresden",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Canadian University Dubai",
+    "deepseek_chinese_name": "迪拜加拿大大学",
+    "cscse_chinese_name": "迪拜加拿大大学",
+    "country": "united arab emirates",
+    "qs_rank": "616",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "American University in Dubai",
+    "deepseek_chinese_name": "迪拜美国大学",
+    "cscse_chinese_name": "迪拜美国大学",
+    "country": "united arab emirates",
+    "qs_rank": "620",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of East London",
+    "deepseek_chinese_name": "东伦敦大学",
+    "cscse_chinese_name": "东伦敦大学",
+    "country": "united kingdom",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Technological University Dublin",
+    "deepseek_chinese_name": "都柏林理工大学",
+    "cscse_chinese_name": "都柏林理工大学",
+    "country": "ireland",
+    "qs_rank": "791-800",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Trinity College Dublin, The University of Dublin",
+    "deepseek_chinese_name": "都柏林大学圣三一学院",
+    "cscse_chinese_name": "都柏林圣三一大学",
+    "country": "ireland",
+    "qs_rank": "75",
+    "matched_usnews_english_name": "Trinity College Dublin",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universidad Autónoma Metropolitana (UAM)",
+    "deepseek_chinese_name": "墨西哥自治都市大学",
+    "cscse_chinese_name": "都会自治大学",
+    "country": "mexico",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "Metropolitan Autonomous University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Politecnico di Torino",
+    "deepseek_chinese_name": "都灵理工大学",
+    "cscse_chinese_name": "都灵理工大学",
+    "country": "italy",
+    "qs_rank": "206",
+    "matched_usnews_english_name": "Polytechnic University of Turin",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Toronto Metropolitan University (formerly Ryerson University)",
+    "deepseek_chinese_name": "多伦多都会大学",
+    "cscse_chinese_name": "多伦多都会大学",
+    "country": "canada",
+    "qs_rank": "669",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Multimedia University (MMU)",
+    "deepseek_chinese_name": "多媒体大学",
+    "cscse_chinese_name": "多媒体大学",
+    "country": "malaysia",
+    "qs_rank": "771-780",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Pontificia Universidad Católica del Ecuador (PUCE)",
+    "deepseek_chinese_name": "厄瓜多尔宗座天主教大学",
+    "cscse_chinese_name": "厄瓜多尔天主教大学",
+    "country": "ecuador",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad EAFIT",
+    "deepseek_chinese_name": "EAFIT大学",
+    "cscse_chinese_name": "EAFIT大学",
+    "country": "colombia",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad Panamericana (UP)",
+    "deepseek_chinese_name": "泛美大学",
+    "cscse_chinese_name": "泛美大学",
+    "country": "mexico",
+    "qs_rank": "711-720",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universita' degli Studi di Ferrara",
+    "deepseek_chinese_name": "费拉拉大学",
+    "cscse_chinese_name": "费拉拉大学",
+    "country": "italy",
+    "qs_rank": "901-950",
+    "matched_usnews_english_name": "University of Ferrara",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Virginia Polytechnic Institute and State University",
+    "deepseek_chinese_name": "弗吉尼亚理工学院暨州立大学",
+    "cscse_chinese_name": "弗吉尼亚理工大学",
+    "country": "united states",
+    "qs_rank": "366",
+    "matched_usnews_english_name": "Virginia Tech",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Technische Universität Bergakademie Freiberg",
+    "deepseek_chinese_name": "弗莱贝格工业大学",
+    "cscse_chinese_name": "弗赖贝格工业大学",
+    "country": "germany",
+    "qs_rank": "594",
+    "matched_usnews_english_name": "Technical University Freiberg",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "University of Galway",
+    "deepseek_chinese_name": "戈尔韦大学",
+    "cscse_chinese_name": "高威大学",
+    "country": "ireland",
+    "qs_rank": "275",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad Externado de Colombia",
+    "deepseek_chinese_name": "哥伦比亚外事大学",
+    "cscse_chinese_name": "哥伦比亚埃克斯特纳多大学",
+    "country": "colombia",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad de Costa Rica",
+    "deepseek_chinese_name": "哥斯达黎加大学",
+    "cscse_chinese_name": "哥斯达黎加大学",
+    "country": "costa rica",
+    "qs_rank": "463",
+    "matched_usnews_english_name": "Universidad Costa Rica",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Georgian Technical University",
+    "deepseek_chinese_name": "格鲁吉亚技术大学",
+    "cscse_chinese_name": "格鲁吉亚工业大学",
+    "country": "georgia",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Guru Gobind Singh Indraprastha University",
+    "deepseek_chinese_name": "古鲁戈宾德辛格因陀罗普拉沙大学",
+    "cscse_chinese_name": "古鲁戈宾德辛格因德勒布勒斯特大学",
+    "country": "india",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Management and Science University",
+    "deepseek_chinese_name": "管理与科学大学",
+    "cscse_chinese_name": "管理与科学大学",
+    "country": "malaysia",
+    "qs_rank": "608",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "National University of Kyiv-Mohyla Academy (NaUKMA)",
+    "deepseek_chinese_name": "基辅莫希拉学院国立大学",
+    "cscse_chinese_name": "国立大学“基辅莫吉拉学院”",
+    "country": "ukraine",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad Tecnológica Nacional (UTN)",
+    "deepseek_chinese_name": "国立技术大学",
+    "cscse_chinese_name": "国立技术大学",
+    "country": "argentina",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "National Technical University Kharkiv Polytechnic Institute",
+    "deepseek_chinese_name": "哈尔科夫国立技术大学",
+    "cscse_chinese_name": "国立技术大学哈尔科夫工学院",
+    "country": "ukraine",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Instituto Politécnico Nacional (IPN)",
+    "deepseek_chinese_name": "国立理工学院",
+    "cscse_chinese_name": "国立理工学院",
+    "country": "mexico",
+    "qs_rank": "901-950",
+    "matched_usnews_english_name": "National Polytechnic Institute",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "V. N. Karazin Kharkiv National University",
+    "deepseek_chinese_name": "哈尔科夫国立大学",
+    "cscse_chinese_name": "哈尔科夫国立大学",
+    "country": "ukraine",
+    "qs_rank": "851-900",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Khalifa University",
+    "deepseek_chinese_name": "哈利法大学",
+    "cscse_chinese_name": "哈里发大学",
+    "country": "united arab emirates",
+    "qs_rank": "147",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad de La Habana",
+    "deepseek_chinese_name": "哈瓦那大学",
+    "cscse_chinese_name": "哈瓦那大学",
+    "country": "cuba",
+    "qs_rank": "851-900",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Escuela Superior Politécnica del Litoral (ESPOL)",
+    "deepseek_chinese_name": "沿海高等理工学院",
+    "cscse_chinese_name": "海岸高等理工学院",
+    "country": "ecuador",
+    "qs_rank": "901-950",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Vietnam National University, Hanoi",
+    "deepseek_chinese_name": "越南国立大学河内",
+    "cscse_chinese_name": "河内国家大学",
+    "country": "vietnam",
+    "qs_rank": "751-760",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad ICESI",
+    "deepseek_chinese_name": "ICESI大学",
+    "cscse_chinese_name": "ICESI大学",
+    "country": "colombia",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "IE University",
+    "deepseek_chinese_name": "IE大学",
+    "cscse_chinese_name": "IE大学",
+    "country": "spain",
+    "qs_rank": "446",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Christian-Albrechts-University zu Kiel",
+    "deepseek_chinese_name": "基尔大学",
+    "cscse_chinese_name": "基尔大学",
+    "country": "germany",
+    "qs_rank": "620",
+    "matched_usnews_english_name": "University of Kiel",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universiti Kuala Lumpur (UniKL)",
+    "deepseek_chinese_name": "吉隆坡大学",
+    "cscse_chinese_name": "吉隆坡大学",
+    "country": "malaysia",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Justus-Liebig-University Giessen",
+    "deepseek_chinese_name": "吉森大学",
+    "cscse_chinese_name": "吉森大学",
+    "country": "germany",
+    "qs_rank": "521",
+    "matched_usnews_english_name": "University of Giessen",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Jamia Hamdard",
+    "deepseek_chinese_name": "哈姆达德大学",
+    "cscse_chinese_name": "贾米亚哈姆达德学院",
+    "country": "india",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "Jamia Hamdard University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "University of San Francisco",
+    "deepseek_chinese_name": "旧金山大学",
+    "cscse_chinese_name": "旧金山大学",
+    "country": "united states",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Université de Caen Normandie",
+    "deepseek_chinese_name": "卡昂诺曼底大学",
+    "cscse_chinese_name": "卡昂大学",
+    "country": "france",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "University of Caen",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universit degli Studi della Campania Luigi Vanvitelli",
+    "deepseek_chinese_name": "坎帕尼亚大学路易吉·万维泰利分校",
+    "cscse_chinese_name": "卡帕尼亚大学",
+    "country": "italy",
+    "qs_rank": "951-1000",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Qatar University",
+    "deepseek_chinese_name": "卡塔尔大学",
+    "cscse_chinese_name": "卡塔尔大学",
+    "country": "qatar",
+    "qs_rank": "109",
+    "matched_usnews_english_name": "University of Qatar",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Khazar University",
+    "deepseek_chinese_name": "哈扎尔大学",
+    "cscse_chinese_name": "卡扎尔大学",
+    "country": "azerbaijan",
+    "qs_rank": "801-850",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "German University in Cairo",
+    "deepseek_chinese_name": "开罗德国大学",
+    "cscse_chinese_name": "开罗德国大学",
+    "country": "egypt",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidade Estadual de Campinas (Unicamp)",
+    "deepseek_chinese_name": "坎皮纳斯州立大学",
+    "cscse_chinese_name": "坎皮纳斯州立大学",
+    "country": "brazil",
+    "qs_rank": "277",
+    "matched_usnews_english_name": "State University of Campinas",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Canterbury Christ Church University",
+    "deepseek_chinese_name": "坎特伯雷基督教会大学",
+    "cscse_chinese_name": "坎特伯雷大学",
+    "country": "united kingdom",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad de Concepción",
+    "deepseek_chinese_name": "康塞普西翁大学",
+    "cscse_chinese_name": "康塞普西翁大学",
+    "country": "chile",
+    "qs_rank": "662",
+    "matched_usnews_english_name": "University of Concepción",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universidad Nacional de Córdoba - UNC",
+    "deepseek_chinese_name": "科尔多瓦国立大学",
+    "cscse_chinese_name": "科尔多瓦国立大学",
+    "country": "argentina",
+    "qs_rank": "801-850",
+    "matched_usnews_english_name": "National University of Cordoba",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "University of Klagenfurt",
+    "deepseek_chinese_name": "克拉根福大学",
+    "cscse_chinese_name": "克拉根福大学",
+    "country": "austria",
+    "qs_rank": "683",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Clark University",
+    "deepseek_chinese_name": "克拉克大学",
+    "cscse_chinese_name": "克拉克大学",
+    "country": "united states",
+    "qs_rank": "951-1000",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "The University of Queensland",
+    "deepseek_chinese_name": "昆士兰大学",
+    "cscse_chinese_name": "昆士兰大学",
+    "country": "australia",
+    "qs_rank": "40",
+    "matched_usnews_english_name": "University of Queensland Australia",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Université catholique de Louvain (UCLouvain)",
+    "deepseek_chinese_name": "鲁汶天主教大学",
+    "cscse_chinese_name": "（法语）鲁汶天主教大学",
+    "country": "belgium",
+    "qs_rank": "196",
+    "matched_usnews_english_name": "University Catholique of Louvain",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Université Mohammed V de Rabat",
+    "deepseek_chinese_name": "拉巴特穆罕默德五世大学",
+    "cscse_chinese_name": "拉巴特穆罕默德五世大学",
+    "country": "morocco",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "Mohammed V University in Rabat",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universidad de La Laguna",
+    "deepseek_chinese_name": "拉古纳大学",
+    "cscse_chinese_name": "拉古纳大学",
+    "country": "spain",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "University of La Laguna",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universita' degli Studi dell'Aquila",
+    "deepseek_chinese_name": "拉奎拉大学",
+    "cscse_chinese_name": "拉奎拉大学",
+    "country": "italy",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "University of L'Aquila",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universidad Central \"Marta Abreu\" de Las Villas",
+    "deepseek_chinese_name": "拉斯维利亚斯中央大学",
+    "cscse_chinese_name": "拉斯维亚斯中心大学",
+    "country": "cuba",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Université Laval",
+    "deepseek_chinese_name": "拉瓦尔大学",
+    "cscse_chinese_name": "拉瓦尔大学",
+    "country": "canada",
+    "qs_rank": "526",
+    "matched_usnews_english_name": "Laval University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Montanuniversität Leoben",
+    "deepseek_chinese_name": "莱奥本矿业大学",
+    "cscse_chinese_name": "莱奥本矿业大学",
+    "country": "austria",
+    "qs_rank": "851-900",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universität  Leipzig",
+    "deepseek_chinese_name": "莱比锡大学",
+    "cscse_chinese_name": "莱比锡大学",
+    "country": "germany",
+    "qs_rank": "540",
+    "matched_usnews_english_name": "Leipzig University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Université de Rennes",
+    "deepseek_chinese_name": "雷恩大学",
+    "cscse_chinese_name": "雷恩大学",
+    "country": "france",
+    "qs_rank": "731-740",
+    "matched_usnews_english_name": "Université de Rennes 1",
+    "method": "english_high_confidence",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Lebanese American University",
+    "deepseek_chinese_name": "黎巴嫩美国大学",
+    "cscse_chinese_name": "黎巴嫩美国大学",
+    "country": "lebanon",
+    "qs_rank": "477",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "École Centrale de Lyon",
+    "deepseek_chinese_name": "里昂中央理工学院",
+    "cscse_chinese_name": "里昂中央理工学院",
+    "country": "france",
+    "qs_rank": "668",
+    "matched_usnews_english_name": "Central School of Lyon",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Riphah International University",
+    "deepseek_chinese_name": "里法国际大学",
+    "cscse_chinese_name": "里法国际大学",
+    "country": "pakistan",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidade Federal do Rio de Janeiro",
+    "deepseek_chinese_name": "里约热内卢联邦大学",
+    "cscse_chinese_name": "里约热内卢联邦大学",
+    "country": "brazil",
+    "qs_rank": "367",
+    "matched_usnews_english_name": "Federal University of Rio de Janeiro",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universidade do Estado do Rio de Janeiro (UERJ)",
+    "deepseek_chinese_name": "里约热内卢州立大学",
+    "cscse_chinese_name": "里约热内卢州立大学",
+    "country": "brazil",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "Rio de Janeiro State University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universidad de Lima",
+    "deepseek_chinese_name": "利马大学",
+    "cscse_chinese_name": "利马大学",
+    "country": "peru",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Université de Limoges",
+    "deepseek_chinese_name": "利摩日大学",
+    "cscse_chinese_name": "利摩日大学",
+    "country": "france",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "University of Limoges",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Ivan Franko National University of Lviv",
+    "deepseek_chinese_name": "利沃夫国立伊万·弗兰科大学",
+    "cscse_chinese_name": "利沃夫国立大学",
+    "country": "ukraine",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Lviv Polytechnic National University",
+    "deepseek_chinese_name": "利沃夫国立理工大学",
+    "cscse_chinese_name": "利沃夫国立技术大学",
+    "country": "ukraine",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Université de Liège",
+    "deepseek_chinese_name": "列日大学",
+    "cscse_chinese_name": "列日大学",
+    "country": "belgium",
+    "qs_rank": "364",
+    "matched_usnews_english_name": "University of Liège",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Lincoln University College",
+    "deepseek_chinese_name": "林肯大学学院",
+    "cscse_chinese_name": "林肯大学学院",
+    "country": "malaysia",
+    "qs_rank": "701-710",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Brunel University of London",
+    "deepseek_chinese_name": "伦敦布鲁内尔大学",
+    "cscse_chinese_name": "伦敦布鲁内尔大学",
+    "country": "united kingdom",
+    "qs_rank": "353",
+    "matched_usnews_english_name": "Brunel University",
+    "method": "english_high_confidence",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "London Metropolitan University",
+    "deepseek_chinese_name": "伦敦城市大学",
+    "cscse_chinese_name": "伦敦城市大学",
+    "country": "united kingdom",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of the Arts London",
+    "deepseek_chinese_name": "伦敦艺术大学",
+    "cscse_chinese_name": "伦敦艺术大学",
+    "country": "united kingdom",
+    "qs_rank": "851-900",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Università degli studi Roma Tre",
+    "deepseek_chinese_name": "罗马第三大学",
+    "cscse_chinese_name": "罗马第三大学",
+    "country": "italy",
+    "qs_rank": "851-900",
+    "matched_usnews_english_name": "Roma Tre University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universidad Nacional de Rosario (UNR)",
+    "deepseek_chinese_name": "国立罗萨里奥大学",
+    "cscse_chinese_name": "罗萨里奥国立大学",
+    "country": "argentina",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "National University of Rosario",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universidad Politécnica de Madrid (UPM)",
+    "deepseek_chinese_name": "马德里理工大学",
+    "cscse_chinese_name": "马德里理工大学",
+    "country": "spain",
+    "qs_rank": "364",
+    "matched_usnews_english_name": "Polytechnic University of Madrid",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universidad Autónoma de Madrid",
+    "deepseek_chinese_name": "马德里自治大学",
+    "cscse_chinese_name": "马德里自治大学",
+    "country": "spain",
+    "qs_rank": "226",
+    "matched_usnews_english_name": "Autonomous University of Madrid",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universita' Politecnica delle Marche",
+    "deepseek_chinese_name": "马尔凯理工大学",
+    "cscse_chinese_name": "马尔凯理工大学",
+    "country": "italy",
+    "qs_rank": "662",
+    "matched_usnews_english_name": "Marche Polytechnic University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Otto-von-Guericke-Universität Magdeburg",
+    "deepseek_chinese_name": "马格德堡大学",
+    "cscse_chinese_name": "马格德堡大学",
+    "country": "germany",
+    "qs_rank": "646",
+    "matched_usnews_english_name": "Otto von Guericke University",
+    "method": "english_high_confidence",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universiti Utara Malaysia (UUM)",
+    "deepseek_chinese_name": "马来西亚北方大学",
+    "cscse_chinese_name": "马来西亚北方大学",
+    "country": "malaysia",
+    "qs_rank": "540",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universiti Malaysia Kelantan",
+    "deepseek_chinese_name": "马来西亚吉兰丹大学",
+    "cscse_chinese_name": "马来西亚吉兰丹大学",
+    "country": "malaysia",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "UNIVERSITI TEKNIKAL MALAYSIA MELAKA",
+    "deepseek_chinese_name": "马来西亚马六甲技术大学",
+    "cscse_chinese_name": "马来西亚马六甲技术大学",
+    "country": "malaysia",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA)",
+    "deepseek_chinese_name": "马来西亚彭亨苏丹阿卜杜拉大学",
+    "cscse_chinese_name": "马来西亚彭亨苏丹阿卜杜拉大学",
+    "country": "malaysia",
+    "qs_rank": "588",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Islamic University of Madinah",
+    "deepseek_chinese_name": "麦地那伊斯兰大学",
+    "cscse_chinese_name": "麦地那伊斯兰大学",
+    "country": "saudi arabia",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "Islamic University of Al Madinah",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universidade Presbiteriana Mackenzie",
+    "deepseek_chinese_name": "麦肯齐长老会大学",
+    "cscse_chinese_name": "麦肯锡长老会大学",
+    "country": "brazil",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Université de Montpellier",
+    "deepseek_chinese_name": "蒙彼利埃大学",
+    "cscse_chinese_name": "蒙彼利埃大学",
+    "country": "france",
+    "qs_rank": "473",
+    "matched_usnews_english_name": "University of Montpellier",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universidad de Montevideo (UM)",
+    "deepseek_chinese_name": "蒙得维的亚大学",
+    "cscse_chinese_name": "蒙得维的亚大学",
+    "country": "uruguay",
+    "qs_rank": "851-900",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad de Monterrey (UDEM)",
+    "deepseek_chinese_name": "蒙特雷大学",
+    "cscse_chinese_name": "蒙特雷大学",
+    "country": "mexico",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Université de Montréal",
+    "deepseek_chinese_name": "蒙特利尔大学",
+    "cscse_chinese_name": "蒙特利尔大学",
+    "country": "canada",
+    "qs_rank": "162",
+    "matched_usnews_english_name": "University of Montreal",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "University of Mumbai",
+    "deepseek_chinese_name": "孟买大学",
+    "cscse_chinese_name": "孟买大学",
+    "country": "india",
+    "qs_rank": "901-950",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Politecnico di Milano",
+    "deepseek_chinese_name": "米兰理工大学",
+    "cscse_chinese_name": "米兰理工大学",
+    "country": "italy",
+    "qs_rank": "87",
+    "matched_usnews_english_name": "Polytechnic University of Milan",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "University of Miskolc",
+    "deepseek_chinese_name": "米什科尔茨大学",
+    "cscse_chinese_name": "密什科尔茨大学",
+    "country": "hungary",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Missouri, Columbia",
+    "deepseek_chinese_name": "密苏里大学哥伦比亚分校",
+    "cscse_chinese_name": "密苏里大学哥伦比亚分校",
+    "country": "united states",
+    "qs_rank": "721-730",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Moratuwa",
+    "deepseek_chinese_name": "莫拉图瓦大学",
+    "cscse_chinese_name": "莫勒图沃大学",
+    "country": "sri lanka",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universita' degli Studi del Molise",
+    "deepseek_chinese_name": "莫利塞大学",
+    "cscse_chinese_name": "莫利塞大学",
+    "country": "italy",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "University of Molise",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universidad Nacional Autónoma de México  (UNAM)",
+    "deepseek_chinese_name": "墨西哥国立自治大学",
+    "cscse_chinese_name": "墨西哥国立自治大学",
+    "country": "mexico",
+    "qs_rank": "145",
+    "matched_usnews_english_name": "National Autonomous University of Mexico",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universidad Autónoma del Estado de México (UAEMex)",
+    "deepseek_chinese_name": "墨西哥州自治大学",
+    "cscse_chinese_name": "墨西哥州立自治大学",
+    "country": "mexico",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Instituto Tecnológico Autónomo de México (ITAM)",
+    "deepseek_chinese_name": "墨西哥自治技术学院",
+    "cscse_chinese_name": "墨西哥自治技术学院",
+    "country": "mexico",
+    "qs_rank": "751-760",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Ludwig-Maximilians-Universität München",
+    "deepseek_chinese_name": "慕尼黑大学",
+    "cscse_chinese_name": "慕尼黑大学",
+    "country": "germany",
+    "qs_rank": "61",
+    "matched_usnews_english_name": "University of Munich",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Mustansiriyah University",
+    "deepseek_chinese_name": "穆斯坦西里亚大学",
+    "cscse_chinese_name": "穆斯坦西里亚大学",
+    "country": "iraq",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Nelson Mandela University",
+    "deepseek_chinese_name": "纳尔逊·曼德拉大学",
+    "cscse_chinese_name": "纳尔逊·曼德拉大学",
+    "country": "south africa",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad Austral",
+    "deepseek_chinese_name": "南方大学",
+    "cscse_chinese_name": "南方大学",
+    "country": "argentina",
+    "qs_rank": "530",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Nantes Université",
+    "deepseek_chinese_name": "南特大学",
+    "cscse_chinese_name": "南特大学",
+    "country": "france",
+    "qs_rank": "901-950",
+    "matched_usnews_english_name": "University of Nantes",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "University of South Wales",
+    "deepseek_chinese_name": "南威尔士大学",
+    "cscse_chinese_name": "南威尔士大学",
+    "country": "united kingdom",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "O.P. Jindal Global University (JGU)",
+    "deepseek_chinese_name": "金德尔全球大学",
+    "cscse_chinese_name": "O.P.金达尔全球学院",
+    "country": "india",
+    "qs_rank": "751-760",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Thapar Institute of Engineering & Technology",
+    "deepseek_chinese_name": "塔帕尔工程技术学院",
+    "cscse_chinese_name": "帕蒂亚拉塔帕尔工程技术学院",
+    "country": "india",
+    "qs_rank": "701-710",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Passau",
+    "deepseek_chinese_name": "帕绍大学",
+    "cscse_chinese_name": "帕绍大学",
+    "country": "germany",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Università degli Studi di Pavia",
+    "deepseek_chinese_name": "帕维亚大学",
+    "cscse_chinese_name": "帕维亚大学",
+    "country": "italy",
+    "qs_rank": "395",
+    "matched_usnews_english_name": "University of Pavia",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universitat Pompeu Fabra (Barcelona)",
+    "deepseek_chinese_name": "庞培法布拉大学",
+    "cscse_chinese_name": "庞培法布拉大学",
+    "country": "spain",
+    "qs_rank": "263",
+    "matched_usnews_english_name": "Pompeu Fabra University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universit degli Studi di Perugia",
+    "deepseek_chinese_name": "佩鲁贾大学",
+    "cscse_chinese_name": "佩鲁贾大学",
+    "country": "italy",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "University of Perugia",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universita' degli Studi \"G. d'Annunzio\" Chieti Pescara",
+    "deepseek_chinese_name": "基耶蒂-佩斯卡拉邓南遮大学",
+    "cscse_chinese_name": "佩斯卡拉大学",
+    "country": "italy",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "G d'Annunzio University of Chieti-Pescara",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universidad de las Américas Puebla (UDLAP)",
+    "deepseek_chinese_name": "普埃布拉美洲大学",
+    "cscse_chinese_name": "普埃布拉美洲大学",
+    "country": "mexico",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Université de Poitiers",
+    "deepseek_chinese_name": "普瓦捷大学",
+    "cscse_chinese_name": "普瓦提埃大学",
+    "country": "france",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "University of Poitiers",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universitas Muhammadiyah Yogyakarta (UMY)",
+    "deepseek_chinese_name": "穆罕默迪亚日惹大学",
+    "cscse_chinese_name": "日惹穆罕默迪亚大学",
+    "country": "indonesia",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universitas Negeri Yogyakarta",
+    "deepseek_chinese_name": "日惹国立大学",
+    "cscse_chinese_name": "日惹州大学",
+    "country": "indonesia",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad de Zaragoza",
+    "deepseek_chinese_name": "萨拉戈萨大学",
+    "cscse_chinese_name": "萨拉戈萨大学",
+    "country": "spain",
+    "qs_rank": "701-710",
+    "matched_usnews_english_name": "University of Zaragoza",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universita' degli Studi di Sassari",
+    "deepseek_chinese_name": "萨萨里大学",
+    "cscse_chinese_name": "萨萨里大学",
+    "country": "italy",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "University of Sassari",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universidad de Sevilla",
+    "deepseek_chinese_name": "塞维利亚大学",
+    "cscse_chinese_name": "塞维利亚大学",
+    "country": "spain",
+    "qs_rank": "485",
+    "matched_usnews_english_name": "University of Seville",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "University of Cyberjaya",
+    "deepseek_chinese_name": "赛城大学",
+    "cscse_chinese_name": "赛城大学",
+    "country": "malaysia",
+    "qs_rank": "951-1000",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Shahid Beheshti University (SBU)",
+    "deepseek_chinese_name": "沙希德·贝赫什提大学",
+    "cscse_chinese_name": "沙希德·贝赫什蒂大学",
+    "country": "iran",
+    "qs_rank": "781-790",
+    "matched_usnews_english_name": "Shahid Beheshti University Tehran (SBU)",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Université de Sherbrooke",
+    "deepseek_chinese_name": "舍布鲁克大学",
+    "cscse_chinese_name": "舍布鲁克大学",
+    "country": "canada",
+    "qs_rank": "951-1000",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidade Federal de São Paulo",
+    "deepseek_chinese_name": "圣保罗联邦大学",
+    "cscse_chinese_name": "圣保罗联邦大学",
+    "country": "brazil",
+    "qs_rank": "801-850",
+    "matched_usnews_english_name": "Federal University of São Paulo",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Pontifícia Universidade Católica de São Paulo",
+    "deepseek_chinese_name": "圣保罗天主教大学",
+    "cscse_chinese_name": "圣保罗天主教大学",
+    "country": "brazil",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of San Diego",
+    "deepseek_chinese_name": "圣地亚哥大学",
+    "cscse_chinese_name": "圣地亚哥大学",
+    "country": "united states",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidade de Santiago de Compostela",
+    "deepseek_chinese_name": "圣地亚哥德孔波斯特拉大学",
+    "cscse_chinese_name": "圣地亚哥德孔波斯特拉大学",
+    "country": "spain",
+    "qs_rank": "629",
+    "matched_usnews_english_name": "University of Santiago of Compostela",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universidade Federal de São Carlos (UFSCar)",
+    "deepseek_chinese_name": "圣卡洛斯联邦大学",
+    "cscse_chinese_name": "圣卡洛斯联邦大学",
+    "country": "brazil",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "Federal University of Sao Carlos",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universidade Federal de Santa Catarina",
+    "deepseek_chinese_name": "圣卡塔琳娜联邦大学",
+    "cscse_chinese_name": "圣卡塔琳娜联邦大学",
+    "country": "brazil",
+    "qs_rank": "901-950",
+    "matched_usnews_english_name": "Federal University of Santa Catarina",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "University of Santo Tomas",
+    "deepseek_chinese_name": "圣托马斯大学",
+    "cscse_chinese_name": "圣托马斯大学",
+    "country": "philippines",
+    "qs_rank": "951-1000",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Università Cattolica del Sacro Cuore",
+    "deepseek_chinese_name": "天主教圣心大学",
+    "cscse_chinese_name": "圣心天主教大学",
+    "country": "italy",
+    "qs_rank": "388",
+    "matched_usnews_english_name": "Catholic University of Sacred Heart",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "SEGi UNIVERSITY",
+    "deepseek_chinese_name": "世纪大学",
+    "cscse_chinese_name": "世纪大学",
+    "country": "malaysia",
+    "qs_rank": "701-710",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Sfax",
+    "deepseek_chinese_name": "斯法克斯大学",
+    "cscse_chinese_name": "斯法克斯大学",
+    "country": "tunisia",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "Universite de Sfax",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "University of Stavanger",
+    "deepseek_chinese_name": "斯塔万格大学",
+    "cscse_chinese_name": "斯塔万格大学",
+    "country": "norway",
+    "qs_rank": "851-900",
+    "matched_usnews_english_name": "Universitetet i Stavanger",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Université de Strasbourg",
+    "deepseek_chinese_name": "斯特拉斯堡大学",
+    "cscse_chinese_name": "斯特拉斯堡大学",
+    "country": "france",
+    "qs_rank": "456",
+    "matched_usnews_english_name": "University of Strasbourg",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universiti Pendidikan Sultan Idris (UPSI)",
+    "deepseek_chinese_name": "苏丹依德理斯教育大学",
+    "cscse_chinese_name": "苏丹依德理斯教育大学",
+    "country": "malaysia",
+    "qs_rank": "851-900",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Sumy State University",
+    "deepseek_chinese_name": "苏梅国立大学",
+    "cscse_chinese_name": "苏梅国立大学",
+    "country": "ukraine",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Sofia University \"St. Kliment Ohridski\"",
+    "deepseek_chinese_name": "索非亚大学",
+    "cscse_chinese_name": "索非亚大学",
+    "country": "bulgaria",
+    "qs_rank": "751-760",
+    "matched_usnews_english_name": "University of Sofia",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Technical University of Sofia",
+    "deepseek_chinese_name": "索非亚技术大学",
+    "cscse_chinese_name": "索非亚技术大学",
+    "country": "bulgaria",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "manually_excluded",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Tallinn University",
+    "deepseek_chinese_name": "塔林大学",
+    "cscse_chinese_name": "塔林大学",
+    "country": "estonia",
+    "qs_rank": "901-950",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Tashkent State University of Economics",
+    "deepseek_chinese_name": "塔什干国立经济大学",
+    "cscse_chinese_name": "塔什干国立经济大学",
+    "country": "uzbekistan",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "King Mongkut's University of Technology Thonburi",
+    "deepseek_chinese_name": "吞武里国王科技大学",
+    "cscse_chinese_name": "泰国国王科技大学",
+    "country": "thailand",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "King Mongkuts University of Technology Thonburi",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universitas Trisakti (USAKTI)",
+    "deepseek_chinese_name": "特里萨克蒂大学",
+    "cscse_chinese_name": "特里萨克蒂大学",
+    "country": "indonesia",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "The University of Tennessee, Knoxville",
+    "deepseek_chinese_name": "田纳西大学诺克斯维尔分校",
+    "cscse_chinese_name": "田纳西大学诺克斯维尔分校",
+    "country": "united states",
+    "qs_rank": "701-710",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Università degli Studi della Tuscia (University of Tuscia)",
+    "deepseek_chinese_name": "图西亚大学",
+    "cscse_chinese_name": "图思雅大学",
+    "country": "italy",
+    "qs_rank": "851-900",
+    "matched_usnews_english_name": "Tuscia University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universidad Torcuato Di Tella",
+    "deepseek_chinese_name": "托尔夸托·迪特拉大学",
+    "cscse_chinese_name": "托尔夸托•迪特拉大学",
+    "country": "argentina",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universitat de Valencia",
+    "deepseek_chinese_name": "瓦伦西亚大学",
+    "cscse_chinese_name": "瓦伦西亚大学",
+    "country": "spain",
+    "qs_rank": "449",
+    "matched_usnews_english_name": "University of Valencia",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universitat Politecnica de Valencia",
+    "deepseek_chinese_name": "瓦伦西亚理工大学",
+    "cscse_chinese_name": "瓦伦西亚理工大学",
+    "country": "spain",
+    "qs_rank": "434",
+    "matched_usnews_english_name": "Polytechnic University of Valencia",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Institut Teknologi Bandung (ITB)",
+    "deepseek_chinese_name": "万隆理工学院",
+    "cscse_chinese_name": "万隆理工大学",
+    "country": "indonesia",
+    "qs_rank": "287",
+    "matched_usnews_english_name": "Institute Technology of Bandung",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universidad del Valle de Guatemala (UVG)",
+    "deepseek_chinese_name": "危地马拉山谷大学",
+    "cscse_chinese_name": "危地马拉山谷大学",
+    "country": "guatemala",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad de San Carlos de Guatemala",
+    "deepseek_chinese_name": "危地马拉圣卡洛斯大学",
+    "cscse_chinese_name": "危地马拉圣卡洛斯大学",
+    "country": "guatemala",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Williams College",
+    "deepseek_chinese_name": "威廉姆斯学院",
+    "cscse_chinese_name": "威廉姆斯学院",
+    "country": "united states",
+    "qs_rank": "851-900",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Julius-Maximilians-Universität Würzburg",
+    "deepseek_chinese_name": "维尔茨堡大学",
+    "cscse_chinese_name": "维尔茨堡大学",
+    "country": "germany",
+    "qs_rank": "430",
+    "matched_usnews_english_name": "University of Würzburg",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universidade Federal de Viçosa (UFV)",
+    "deepseek_chinese_name": "维索萨联邦大学",
+    "cscse_chinese_name": "维索萨联邦大学",
+    "country": "brazil",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "Federal University of Vicosa",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Technische Universität Wien",
+    "deepseek_chinese_name": "维也纳工业大学",
+    "cscse_chinese_name": "维也纳技术大学",
+    "country": "austria",
+    "qs_rank": "191",
+    "matched_usnews_english_name": "Vienna University of Technology",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universidad Central de Venezuela",
+    "deepseek_chinese_name": "委内瑞拉中央大学",
+    "cscse_chinese_name": "委内瑞拉中央大学",
+    "country": "venezuela",
+    "qs_rank": "801-850",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Università degli Studi di Udine",
+    "deepseek_chinese_name": "乌迪内大学",
+    "cscse_chinese_name": "乌迪内大学",
+    "country": "italy",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "University of Udine",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "National Technical University of Ukraine \"Igor Sikorsky Kyiv Polytechnic Institute\"",
+    "deepseek_chinese_name": "乌克兰国立技术大学伊戈尔·西科尔斯基基辅理工学院",
+    "cscse_chinese_name": "乌克兰国立技术大学基辅工学院",
+    "country": "ukraine",
+    "qs_rank": "851-900",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad Católica del Uruguay (UCU)",
+    "deepseek_chinese_name": "乌拉圭天主教大学",
+    "cscse_chinese_name": "乌拉圭天主教大学",
+    "country": "uruguay",
+    "qs_rank": "801-850",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "National University of Uzbekistan named after Mirzo Ulugbek",
+    "deepseek_chinese_name": "乌兹别克斯坦国立大学",
+    "cscse_chinese_name": "乌兹别克斯坦国立大学",
+    "country": "uzbekistan",
+    "qs_rank": "801-850",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Bergische Universität Wuppertal",
+    "deepseek_chinese_name": "伍珀塔尔大学",
+    "cscse_chinese_name": "伍珀塔尔大学",
+    "country": "germany",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "University of Wuppertal",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "North-West University",
+    "deepseek_chinese_name": "西北大学（南非）",
+    "cscse_chinese_name": "西北大学",
+    "country": "south africa",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "North West University - South Africa",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Northwest University (China)",
+    "deepseek_chinese_name": "西北大学（美国）",
+    "cscse_chinese_name": "西北大学（华盛顿州）",
+    "country": "united states",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad Simón Bolívar (USB)",
+    "deepseek_chinese_name": "西蒙·玻利瓦尔大学",
+    "cscse_chinese_name": "西蒙·玻利瓦尔大学",
+    "country": "venezuela",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Seattle University",
+    "deepseek_chinese_name": "西雅图大学",
+    "cscse_chinese_name": "西雅图大学",
+    "country": "united states",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Athens University of Economics and Business",
+    "deepseek_chinese_name": "雅典经济与商业大学",
+    "cscse_chinese_name": "雅典经济与商业大学",
+    "country": "greece",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Ateneo de Manila University",
+    "deepseek_chinese_name": "马尼拉雅典耀大学",
+    "cscse_chinese_name": "雅典耀大学",
+    "country": "philippines",
+    "qs_rank": "581",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Adamson University",
+    "deepseek_chinese_name": "亚当森大学",
+    "cscse_chinese_name": "亚当森大学",
+    "country": "philippines",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Asia Pacific University of Technology and Innovation (APU) Malaysia",
+    "deepseek_chinese_name": "亚太科技大学",
+    "cscse_chinese_name": "亚太技术与创新大学",
+    "country": "malaysia",
+    "qs_rank": "528",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Ibn Tofail University",
+    "deepseek_chinese_name": "伊本·托法伊大学",
+    "cscse_chinese_name": "伊本·托法尔大学",
+    "country": "morocco",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "Ibn Tofail University of Kenitra",
+    "method": "english_high_confidence",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad Iberoamericana Ciudad de México - IBERO",
+    "deepseek_chinese_name": "墨西哥伊比利亚美洲大学",
+    "cscse_chinese_name": "伊比利亚美洲大学",
+    "country": "mexico",
+    "qs_rank": "851-900",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Imam Mohammad Ibn Saud Islamic University – IMSIU",
+    "deepseek_chinese_name": "伊玛目穆罕默德·本·沙特伊斯兰大学",
+    "cscse_chinese_name": "伊玛目穆罕默德·本·沙特伊斯兰大学",
+    "country": "saudi arabia",
+    "qs_rank": "791-800",
+    "matched_usnews_english_name": "Al-Imam Muhammad Ibn Saud Islamic University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Silpakorn University",
+    "deepseek_chinese_name": "艺术大学（泰国）",
+    "cscse_chinese_name": "艺术大学",
+    "country": "thailand",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "INTI International University",
+    "deepseek_chinese_name": "英迪国际大学",
+    "cscse_chinese_name": "英迪国际大学",
+    "country": "malaysia",
+    "qs_rank": "406",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Zarqa University (ZU)",
+    "deepseek_chinese_name": "扎尔卡大学",
+    "cscse_chinese_name": "扎卡大学",
+    "country": "jordan",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad de Chile",
+    "deepseek_chinese_name": "智利大学",
+    "cscse_chinese_name": "智利大学",
+    "country": "chile",
+    "qs_rank": "185",
+    "matched_usnews_english_name": "University of Chile",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Altai State University",
+    "deepseek_chinese_name": "阿尔泰国立大学",
+    "cscse_chinese_name": "",
+    "country": "russia",
+    "qs_rank": "901-950",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Galgotias University",
+    "deepseek_chinese_name": "加尔戈蒂亚斯大学",
+    "cscse_chinese_name": "",
+    "country": "india",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "German Jordanian University",
+    "deepseek_chinese_name": "德国约旦大学",
+    "cscse_chinese_name": "",
+    "country": "jordan",
+    "qs_rank": "781-790",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Hitotsubashi University",
+    "deepseek_chinese_name": "一桥大学",
+    "cscse_chinese_name": "",
+    "country": "japan",
+    "qs_rank": "575",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Ho Chi Minh City University of Technology (HUTECH)",
+    "deepseek_chinese_name": "胡志明市科技大学",
+    "cscse_chinese_name": "",
+    "country": "vietnam",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "manually_excluded",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Hongik University",
+    "deepseek_chinese_name": "弘益大学",
+    "cscse_chinese_name": "",
+    "country": "south korea",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Indian Institute of Information Technology, Allahabad",
+    "deepseek_chinese_name": "印度信息技术学院阿拉哈巴德分校",
+    "cscse_chinese_name": "",
+    "country": "india",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Khulna University of Engineering and Technology",
+    "deepseek_chinese_name": "库尔纳工程技术大学",
+    "cscse_chinese_name": "",
+    "country": "bangladesh",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Kyoto Institute of Technology",
+    "deepseek_chinese_name": "京都工艺纤维大学",
+    "cscse_chinese_name": "",
+    "country": "japan",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Prague University of Economics and Business",
+    "deepseek_chinese_name": "布拉格经济大学",
+    "cscse_chinese_name": "",
+    "country": "czech republic",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Samara National Research University (Samara University)",
+    "deepseek_chinese_name": "萨马拉国立研究大学",
+    "cscse_chinese_name": "",
+    "country": "russia",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad Científica del Sur",
+    "deepseek_chinese_name": "南方科学大学",
+    "cscse_chinese_name": "",
+    "country": "peru",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad de La Sabana",
+    "deepseek_chinese_name": "萨瓦纳大学",
+    "cscse_chinese_name": "",
+    "country": "colombia",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Pannonia",
+    "deepseek_chinese_name": "潘诺尼亚大学",
+    "cscse_chinese_name": "",
+    "country": "hungary",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Pardubice",
+    "deepseek_chinese_name": "帕尔杜比采大学",
+    "cscse_chinese_name": "",
+    "country": "czech republic",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Zilina",
+    "deepseek_chinese_name": "日利纳大学",
+    "cscse_chinese_name": "",
+    "country": "slovakia",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "UCL",
+    "deepseek_chinese_name": "伦敦大学学院",
+    "cscse_chinese_name": "",
+    "country": "united kingdom",
+    "qs_rank": "8",
+    "matched_usnews_english_name": "University College London",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Nanyang Technological University, Singapore (NTU Singapore)",
+    "deepseek_chinese_name": "南洋理工大学",
+    "cscse_chinese_name": "",
+    "country": "singapore",
+    "qs_rank": "12",
+    "matched_usnews_english_name": "Nanyang Technological University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "EPFL – École polytechnique fédérale de Lausanne",
+    "deepseek_chinese_name": "洛桑联邦理工学院",
+    "cscse_chinese_name": "",
+    "country": "switzerland",
+    "qs_rank": "22",
+    "matched_usnews_english_name": "École Polytechnique Federale of Lausanne",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Université PSL",
+    "deepseek_chinese_name": "巴黎文理研究大学",
+    "cscse_chinese_name": "",
+    "country": "france",
+    "qs_rank": "34",
+    "matched_usnews_english_name": "PSL Research University Paris (ComUE)",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "KFUPM",
+    "deepseek_chinese_name": "法赫德国王石油矿产大学",
+    "cscse_chinese_name": "",
+    "country": "saudi arabia",
+    "qs_rank": "63",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "KAIST",
+    "deepseek_chinese_name": "韩国科学技术院",
+    "cscse_chinese_name": "",
+    "country": "south korea",
+    "qs_rank": "65",
+    "matched_usnews_english_name": "Korea Advanced Institute of Science and Technology",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "KTH Royal Institute of Technology",
+    "deepseek_chinese_name": "瑞典皇家理工学院",
+    "cscse_chinese_name": "",
+    "country": "sweden",
+    "qs_rank": "82",
+    "matched_usnews_english_name": "Royal Institute of Technology",
+    "method": "english_high_confidence",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universität Heidelberg",
+    "deepseek_chinese_name": "海德堡大学",
+    "cscse_chinese_name": "",
+    "country": "germany",
+    "qs_rank": "86",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "The University of Osaka",
+    "deepseek_chinese_name": "大阪大学",
+    "cscse_chinese_name": "",
+    "country": "japan",
+    "qs_rank": "95",
+    "matched_usnews_english_name": "Osaka University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Freie Universitaet Berlin",
+    "deepseek_chinese_name": "柏林自由大学",
+    "cscse_chinese_name": "",
+    "country": "germany",
+    "qs_rank": "98",
+    "matched_usnews_english_name": "Freie Universität Berlin",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "KIT, Karlsruhe Institute of Technology",
+    "deepseek_chinese_name": "卡尔斯鲁厄理工学院",
+    "cscse_chinese_name": "",
+    "country": "germany",
+    "qs_rank": "110",
+    "matched_usnews_english_name": "Karlsruhe Institute of Technology",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Lomonosov Moscow State University",
+    "deepseek_chinese_name": "莫斯科国立大学",
+    "cscse_chinese_name": "",
+    "country": "russia",
+    "qs_rank": "115",
+    "matched_usnews_english_name": "M. V. Lomonosov Moscow State University",
+    "method": "english_high_confidence",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Alma Mater Studiorum - Università di Bologna",
+    "deepseek_chinese_name": "博洛尼亚大学",
+    "cscse_chinese_name": "",
+    "country": "italy",
+    "qs_rank": "123",
+    "matched_usnews_english_name": "University of Bologna",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Queen's University at Kingston",
+    "deepseek_chinese_name": "女王大学",
+    "cscse_chinese_name": "",
+    "country": "canada",
+    "qs_rank": "179",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Università di Padova",
+    "deepseek_chinese_name": "帕多瓦大学",
+    "cscse_chinese_name": "",
+    "country": "italy",
+    "qs_rank": "204",
+    "matched_usnews_english_name": "University of Padua",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Gadjah Mada University",
+    "deepseek_chinese_name": "加查马达大学",
+    "cscse_chinese_name": "",
+    "country": "indonesia",
+    "qs_rank": "206",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "École Normale Supérieure de Lyon",
+    "deepseek_chinese_name": "里昂高等师范学校",
+    "cscse_chinese_name": "",
+    "country": "france",
+    "qs_rank": "235",
+    "matched_usnews_english_name": "ENS De Lyon",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Central European University",
+    "deepseek_chinese_name": "中欧大学",
+    "cscse_chinese_name": "",
+    "country": "austria",
+    "qs_rank": "239",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "The University of Newcastle, Australia (UON)",
+    "deepseek_chinese_name": "纽卡斯尔大学（澳大利亚）",
+    "cscse_chinese_name": "",
+    "country": "australia",
+    "qs_rank": "244",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Albert-Ludwigs-Universitaet Freiburg",
+    "deepseek_chinese_name": "弗莱堡大学",
+    "cscse_chinese_name": "",
+    "country": "germany",
+    "qs_rank": "245",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Minnesota (System)",
+    "deepseek_chinese_name": "明尼苏达大学系统",
+    "cscse_chinese_name": "",
+    "country": "united states",
+    "qs_rank": "255",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Canterbury | Te Whare Wānanga o Waitaha",
+    "deepseek_chinese_name": "坎特伯雷大学",
+    "cscse_chinese_name": "",
+    "country": "new zealand",
+    "qs_rank": "257",
+    "matched_usnews_english_name": "University of Canterbury",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Charles University",
+    "deepseek_chinese_name": "查理大学",
+    "cscse_chinese_name": "",
+    "country": "czech republic",
+    "qs_rank": "273",
+    "matched_usnews_english_name": "Charles University in Prague",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Radboud University",
+    "deepseek_chinese_name": "奈梅亨大学",
+    "cscse_chinese_name": "",
+    "country": "netherlands",
+    "qs_rank": "283",
+    "matched_usnews_english_name": "Radboud University Nijmegen",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Xi’an Jiaotong University",
+    "deepseek_chinese_name": "西安交通大学",
+    "cscse_chinese_name": "",
+    "country": "china",
+    "qs_rank": "296",
+    "matched_usnews_english_name": "Xi'an Jiaotong University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Rutgers University–New Brunswick",
+    "deepseek_chinese_name": "罗格斯大学新布朗斯维克分校",
+    "cscse_chinese_name": "",
+    "country": "united states",
+    "qs_rank": "314",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Satbayev University",
+    "deepseek_chinese_name": "萨特巴耶夫大学",
+    "cscse_chinese_name": "",
+    "country": "kazakhstan",
+    "qs_rank": "351",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Sciences Po",
+    "deepseek_chinese_name": "巴黎政治学院",
+    "cscse_chinese_name": "",
+    "country": "france",
+    "qs_rank": "354",
+    "matched_usnews_english_name": "Institut d'Etudes Politiques Paris (Sciences Po)",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "RUDN University",
+    "deepseek_chinese_name": "俄罗斯人民友谊大学",
+    "cscse_chinese_name": "",
+    "country": "russia",
+    "qs_rank": "359",
+    "matched_usnews_english_name": "Peoples Friendship University of Russia",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Goethe-University Frankfurt am Main",
+    "deepseek_chinese_name": "法兰克福大学",
+    "cscse_chinese_name": "",
+    "country": "germany",
+    "qs_rank": "376",
+    "matched_usnews_english_name": "Johann Wolfgang Goethe University Frankfurt am Main",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "National University of Sciences & Technology (NUST) Islamabad",
+    "deepseek_chinese_name": "巴基斯坦国立科技大学",
+    "cscse_chinese_name": "",
+    "country": "pakistan",
+    "qs_rank": "384",
+    "matched_usnews_english_name": "National University of Sciences and Technology - Pakistan",
+    "method": "english_high_confidence",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "LUT University",
+    "deepseek_chinese_name": "拉彭兰塔理工大学",
+    "cscse_chinese_name": "",
+    "country": "finland",
+    "qs_rank": "390",
+    "matched_usnews_english_name": "Lappeenranta University of Technology",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "University of the Philippines",
+    "deepseek_chinese_name": "菲律宾大学",
+    "cscse_chinese_name": "",
+    "country": "philippines",
+    "qs_rank": "402",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "IPB University (aka Bogor Agricultural University)",
+    "deepseek_chinese_name": "茂物农业大学",
+    "cscse_chinese_name": "",
+    "country": "indonesia",
+    "qs_rank": "419",
+    "matched_usnews_english_name": "Bogor Agricultural University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "HSE University",
+    "deepseek_chinese_name": "高等经济大学",
+    "cscse_chinese_name": "",
+    "country": "russia",
+    "qs_rank": "423",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Aveiro",
+    "deepseek_chinese_name": "阿威罗大学",
+    "cscse_chinese_name": "",
+    "country": "portugal",
+    "qs_rank": "425",
+    "matched_usnews_english_name": "Universidade de Aveiro",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universitat Politècnica de Catalunya · BarcelonaTech (UPC)",
+    "deepseek_chinese_name": "加泰罗尼亚理工大学",
+    "cscse_chinese_name": "",
+    "country": "spain",
+    "qs_rank": "434",
+    "matched_usnews_english_name": "Universitat Politècnica de Catalunya",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Essex, University of",
+    "deepseek_chinese_name": "埃塞克斯大学",
+    "cscse_chinese_name": "",
+    "country": "united kingdom",
+    "qs_rank": "438",
+    "matched_usnews_english_name": "University of Essex",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Shoolini University of Biotechnology and Management Sciences",
+    "deepseek_chinese_name": "舒利尼生物技术与管理科学大学",
+    "cscse_chinese_name": "",
+    "country": "india",
+    "qs_rank": "452",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "SOAS University of London",
+    "deepseek_chinese_name": "伦敦大学亚非学院",
+    "cscse_chinese_name": "",
+    "country": "united kingdom",
+    "qs_rank": "458",
+    "matched_usnews_english_name": "University of London School Oriental and African Studies (SOAS)",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Tashkent Institute of Irrigation and Agricultural Mechanization Engineers - National Research University (TIIAME-NRU)",
+    "deepseek_chinese_name": "塔什干灌溉与农业机械化工程师研究所国立研究大学",
+    "cscse_chinese_name": "",
+    "country": "uzbekistan",
+    "qs_rank": "458",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Università Vita-Salute San Raffaele",
+    "deepseek_chinese_name": "圣拉斐尔生命健康大学",
+    "cscse_chinese_name": "",
+    "country": "italy",
+    "qs_rank": "465",
+    "matched_usnews_english_name": "Vita-Salute San Raffaele University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Stony Brook University, State University of New York",
+    "deepseek_chinese_name": "纽约州立大学石溪分校",
+    "cscse_chinese_name": "",
+    "country": "united states",
+    "qs_rank": "468",
+    "matched_usnews_english_name": "Stony Brook University--SUNY",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Leibniz University Hannover",
+    "deepseek_chinese_name": "莱布尼茨汉诺威大学",
+    "cscse_chinese_name": "",
+    "country": "germany",
+    "qs_rank": "470",
+    "matched_usnews_english_name": "University of Hannover",
+    "method": "english_high_confidence",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad Nacional de La Plata (UNLP)",
+    "deepseek_chinese_name": "拉普拉塔国立大学",
+    "cscse_chinese_name": "",
+    "country": "argentina",
+    "qs_rank": "474",
+    "matched_usnews_english_name": "National University La Plata",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "University of Bordeaux",
+    "deepseek_chinese_name": "波尔多大学",
+    "cscse_chinese_name": "",
+    "country": "france",
+    "qs_rank": "485",
+    "matched_usnews_english_name": "Universite de Bordeaux",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Ural Federal University - UrFU",
+    "deepseek_chinese_name": "乌拉尔联邦大学",
+    "cscse_chinese_name": "",
+    "country": "russia",
+    "qs_rank": "504",
+    "matched_usnews_english_name": "Ural Federal University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "UNESP",
+    "deepseek_chinese_name": "圣保罗州立大学",
+    "cscse_chinese_name": "",
+    "country": "brazil",
+    "qs_rank": "513",
+    "matched_usnews_english_name": "UNESP - Universidade Estadual Paulista",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Northumbria University at Newcastle",
+    "deepseek_chinese_name": "诺森比亚大学",
+    "cscse_chinese_name": "",
+    "country": "united kingdom",
+    "qs_rank": "528",
+    "matched_usnews_english_name": "Northumbria University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Pontificia Universidad Católica Argentina",
+    "deepseek_chinese_name": "阿根廷天主教大学",
+    "cscse_chinese_name": "",
+    "country": "argentina",
+    "qs_rank": "530",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Saint Joseph University of Beirut (USJ)",
+    "deepseek_chinese_name": "贝鲁特圣约瑟夫大学",
+    "cscse_chinese_name": "",
+    "country": "lebanon",
+    "qs_rank": "537",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Milano-Bicocca",
+    "deepseek_chinese_name": "米兰比可卡大学",
+    "cscse_chinese_name": "",
+    "country": "italy",
+    "qs_rank": "544",
+    "matched_usnews_english_name": "University of Milan - Bicocca",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universiti Teknologi MARA - UiTM",
+    "deepseek_chinese_name": "玛拉工艺大学",
+    "cscse_chinese_name": "",
+    "country": "malaysia",
+    "qs_rank": "549",
+    "matched_usnews_english_name": "Universiti Teknologi MARA",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Ain Shams University in Cairo (ASU, Cairo)",
+    "deepseek_chinese_name": "艾因夏姆斯大学",
+    "cscse_chinese_name": "",
+    "country": "egypt",
+    "qs_rank": "551",
+    "matched_usnews_english_name": "Ain Shams University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Al Ain University",
+    "deepseek_chinese_name": "阿联酋大学",
+    "cscse_chinese_name": "",
+    "country": "united arab emirates",
+    "qs_rank": "559",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Université Paul Sabatier Toulouse III",
+    "deepseek_chinese_name": "图卢兹第三大学",
+    "cscse_chinese_name": "",
+    "country": "france",
+    "qs_rank": "565",
+    "matched_usnews_english_name": "University Paul Sabatier - Toulouse 3",
+    "method": "english_high_confidence",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universität Jena",
+    "deepseek_chinese_name": "耶拿大学",
+    "cscse_chinese_name": "",
+    "country": "germany",
+    "qs_rank": "567",
+    "matched_usnews_english_name": "Friedrich Schiller University of Jena",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Paris Lodron University of Salzburg",
+    "deepseek_chinese_name": "萨尔茨堡大学",
+    "cscse_chinese_name": "",
+    "country": "austria",
+    "qs_rank": "572",
+    "matched_usnews_english_name": "Salzburg University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Ulm University",
+    "deepseek_chinese_name": "乌尔姆大学",
+    "cscse_chinese_name": "",
+    "country": "germany",
+    "qs_rank": "575",
+    "matched_usnews_english_name": "University of Ulm",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Lingnan University, Hong Kong",
+    "deepseek_chinese_name": "岭南大学",
+    "cscse_chinese_name": "",
+    "country": "hong kong",
+    "qs_rank": "581",
+    "matched_usnews_english_name": "Lingnan University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Ulster University",
+    "deepseek_chinese_name": "阿尔斯特大学",
+    "cscse_chinese_name": "",
+    "country": "united kingdom",
+    "qs_rank": "595",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Vellore Institute of Technology (VIT), Vellore, India",
+    "deepseek_chinese_name": "韦洛尔理工大学",
+    "cscse_chinese_name": "",
+    "country": "india",
+    "qs_rank": "597",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "China University of Petroleum, Beijing",
+    "deepseek_chinese_name": "中国石油大学（北京）",
+    "cscse_chinese_name": "",
+    "country": "china",
+    "qs_rank": "600",
+    "matched_usnews_english_name": "",
+    "method": "manually_excluded",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "American University of Ras Al Khaimah",
+    "deepseek_chinese_name": "拉斯海马美国大学",
+    "cscse_chinese_name": "",
+    "country": "united arab emirates",
+    "qs_rank": "608",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Université Claude Bernard Lyon 1",
+    "deepseek_chinese_name": "里昂第一大学",
+    "cscse_chinese_name": "",
+    "country": "france",
+    "qs_rank": "613",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universiti Teknologi Brunei",
+    "deepseek_chinese_name": "文莱理工大学",
+    "cscse_chinese_name": "",
+    "country": "brunei",
+    "qs_rank": "613",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Tromsø The Arctic University of Norway",
+    "deepseek_chinese_name": "特罗姆瑟大学",
+    "cscse_chinese_name": "",
+    "country": "norway",
+    "qs_rank": "629",
+    "matched_usnews_english_name": "University of Tromsø",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Abai Kazakh National Pedagogical University (Abai University)",
+    "deepseek_chinese_name": "阿拜哈萨克国立师范大学",
+    "cscse_chinese_name": "",
+    "country": "kazakhstan",
+    "qs_rank": "634",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "MGIMO University",
+    "deepseek_chinese_name": "莫斯科国际关系学院",
+    "cscse_chinese_name": "",
+    "country": "russia",
+    "qs_rank": "639",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad de la República (Udelar)",
+    "deepseek_chinese_name": "乌拉圭共和国大学",
+    "cscse_chinese_name": "",
+    "country": "uruguay",
+    "qs_rank": "652",
+    "matched_usnews_english_name": "Universidad de la Republica, Uruguay",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Applied Science University - Bahrain",
+    "deepseek_chinese_name": "巴林应用科学大学",
+    "cscse_chinese_name": "",
+    "country": "bahrain",
+    "qs_rank": "655",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Symbiosis International (Deemed University)",
+    "deepseek_chinese_name": "共生国际大学",
+    "cscse_chinese_name": "",
+    "country": "india",
+    "qs_rank": "655",
+    "matched_usnews_english_name": "Symbiosis International University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "China University of Mining and Technology",
+    "deepseek_chinese_name": "中国矿业大学",
+    "cscse_chinese_name": "",
+    "country": "china",
+    "qs_rank": "659",
+    "matched_usnews_english_name": "China University of Mining",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Beirut Arab University",
+    "deepseek_chinese_name": "贝鲁特阿拉伯大学",
+    "cscse_chinese_name": "",
+    "country": "lebanon",
+    "qs_rank": "670",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "City University of New York",
+    "deepseek_chinese_name": "纽约城市大学",
+    "cscse_chinese_name": "",
+    "country": "united states",
+    "qs_rank": "677",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Kingston University, London",
+    "deepseek_chinese_name": "伦敦金斯顿大学",
+    "cscse_chinese_name": "",
+    "country": "united kingdom",
+    "qs_rank": "686",
+    "matched_usnews_english_name": "Kingston University",
+    "method": "english_high_confidence",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "TU Dortmund University",
+    "deepseek_chinese_name": "多特蒙德工业大学",
+    "cscse_chinese_name": "",
+    "country": "germany",
+    "qs_rank": "691",
+    "matched_usnews_english_name": "Dortmund University of Technology",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Karl-Franzens-Universitaet Graz",
+    "deepseek_chinese_name": "格拉茨大学",
+    "cscse_chinese_name": "",
+    "country": "austria",
+    "qs_rank": "696",
+    "matched_usnews_english_name": "University of Graz",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Ahlia University",
+    "deepseek_chinese_name": "阿赫利亚大学",
+    "cscse_chinese_name": "",
+    "country": "bahrain",
+    "qs_rank": "711-720",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Plekhanov Russian University of Economics",
+    "deepseek_chinese_name": "俄罗斯普列汉诺夫经济大学",
+    "cscse_chinese_name": "",
+    "country": "russia",
+    "qs_rank": "721-730",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "TUHH Hamburg University of Technology",
+    "deepseek_chinese_name": "汉堡工业大学",
+    "cscse_chinese_name": "",
+    "country": "germany",
+    "qs_rank": "721-730",
+    "matched_usnews_english_name": "Hamburg University of Technology",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Adam Mickiewicz University, Poznań",
+    "deepseek_chinese_name": "亚当·密茨凯维奇大学",
+    "cscse_chinese_name": "",
+    "country": "poland",
+    "qs_rank": "731-740",
+    "matched_usnews_english_name": "Adam Mickiewicz University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Northwest Agriculture and Forestry University",
+    "deepseek_chinese_name": "西北农林科技大学",
+    "cscse_chinese_name": "",
+    "country": "china",
+    "qs_rank": "731-740",
+    "matched_usnews_english_name": "Northwest A&F University - China",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "National Research Tomsk Polytechnic University",
+    "deepseek_chinese_name": "托木斯克理工大学",
+    "cscse_chinese_name": "",
+    "country": "russia",
+    "qs_rank": "741-750",
+    "matched_usnews_english_name": "Tomsk Polytechnic University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Applied Science Private University - Jordan",
+    "deepseek_chinese_name": "约旦应用科学私立大学",
+    "cscse_chinese_name": "",
+    "country": "jordan",
+    "qs_rank": "761-770",
+    "matched_usnews_english_name": "Applied Science University - Jordan",
+    "method": "english_high_confidence",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Holy Spirit University of Kaslik",
+    "deepseek_chinese_name": "卡斯里克圣灵大学",
+    "cscse_chinese_name": "",
+    "country": "lebanon",
+    "qs_rank": "761-770",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "UWE Bristol (University of the West of England)",
+    "deepseek_chinese_name": "西英格兰大学",
+    "cscse_chinese_name": "",
+    "country": "united kingdom",
+    "qs_rank": "761-770",
+    "matched_usnews_english_name": "University of West England",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Auezov South Kazakhstan University (SKU)",
+    "deepseek_chinese_name": "南哈萨克斯坦大学",
+    "cscse_chinese_name": "",
+    "country": "kazakhstan",
+    "qs_rank": "781-790",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Kazakh National Agrarian Research University (KazNARU)",
+    "deepseek_chinese_name": "哈萨克国立农业大学",
+    "cscse_chinese_name": "",
+    "country": "kazakhstan",
+    "qs_rank": "781-790",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Technische Universität Braunschweig",
+    "deepseek_chinese_name": "布伦瑞克工业大学",
+    "cscse_chinese_name": "",
+    "country": "germany",
+    "qs_rank": "781-790",
+    "matched_usnews_english_name": "Braunschweig University of Technology",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "University of Dubai",
+    "deepseek_chinese_name": "迪拜大学",
+    "cscse_chinese_name": "",
+    "country": "united arab emirates",
+    "qs_rank": "781-790",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Verona University",
+    "deepseek_chinese_name": "维罗纳大学",
+    "cscse_chinese_name": "",
+    "country": "italy",
+    "qs_rank": "781-790",
+    "matched_usnews_english_name": "University of Verona",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "VILNIUS TECH (Vilnius Gediminas Technical University)",
+    "deepseek_chinese_name": "维尔纽斯格迪米纳斯技术大学",
+    "cscse_chinese_name": "",
+    "country": "lithuania",
+    "qs_rank": "791-800",
+    "matched_usnews_english_name": "Vilnius Gediminas Technical University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "American University of Central Asia",
+    "deepseek_chinese_name": "中亚美国大学",
+    "cscse_chinese_name": "",
+    "country": "kyrgyzstan",
+    "qs_rank": "801-850",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "El Colegio de México, A.C.",
+    "deepseek_chinese_name": "墨西哥学院",
+    "cscse_chinese_name": "",
+    "country": "mexico",
+    "qs_rank": "801-850",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Rutgers University–Newark",
+    "deepseek_chinese_name": "罗格斯大学纽瓦克分校",
+    "cscse_chinese_name": "",
+    "country": "united states",
+    "qs_rank": "801-850",
+    "matched_usnews_english_name": "Rutgers, The State University of New Jersey--Newark",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Saveetha Institute of Medical And Technical Sciences (SIMATS) , Tamil Nadu,India",
+    "deepseek_chinese_name": "萨维塔医学技术科学学院",
+    "cscse_chinese_name": "",
+    "country": "india",
+    "qs_rank": "801-850",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Viet Nam National University Ho Chi Minh City (VNU-HCM)",
+    "deepseek_chinese_name": "越南国立大学胡志明市分校",
+    "cscse_chinese_name": "",
+    "country": "vietnam",
+    "qs_rank": "801-850",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Catania University",
+    "deepseek_chinese_name": "卡塔尼亚大学",
+    "cscse_chinese_name": "",
+    "country": "italy",
+    "qs_rank": "851-900",
+    "matched_usnews_english_name": "University of Catania",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Iscte - University Institute of Lisbon",
+    "deepseek_chinese_name": "里斯本大学学院",
+    "cscse_chinese_name": "",
+    "country": "portugal",
+    "qs_rank": "851-900",
+    "matched_usnews_english_name": "Instituto Universitario de Lisboa",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Khoja Akhmet Yassawi International Kazakh-Turkish University",
+    "deepseek_chinese_name": "霍贾·艾哈迈德·亚萨维国际哈萨克-土耳其大学",
+    "cscse_chinese_name": "",
+    "country": "kazakhstan",
+    "qs_rank": "851-900",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Manipal Academy of Higher Education, Manipal, Karnataka, India",
+    "deepseek_chinese_name": "马尼帕尔高等教育学院",
+    "cscse_chinese_name": "",
+    "country": "india",
+    "qs_rank": "851-900",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Sechenov University",
+    "deepseek_chinese_name": "谢切诺夫大学",
+    "cscse_chinese_name": "",
+    "country": "russia",
+    "qs_rank": "851-900",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "The New School, New York City and Paris",
+    "deepseek_chinese_name": "新学院大学",
+    "cscse_chinese_name": "",
+    "country": "united states",
+    "qs_rank": "851-900",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Wroclaw",
+    "deepseek_chinese_name": "弗罗茨瓦夫大学",
+    "cscse_chinese_name": "",
+    "country": "poland",
+    "qs_rank": "851-900",
+    "matched_usnews_english_name": "University of Wrocław",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Al-Quds University",
+    "deepseek_chinese_name": "圣城大学",
+    "cscse_chinese_name": "",
+    "country": "palestine",
+    "qs_rank": "901-950",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Belarusian National Technical University (BNTU)",
+    "deepseek_chinese_name": "白俄罗斯国立技术大学",
+    "cscse_chinese_name": "",
+    "country": "belarus",
+    "qs_rank": "901-950",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Bina Nusantara University (BINUS)",
+    "deepseek_chinese_name": "比娜努山塔拉大学",
+    "cscse_chinese_name": "",
+    "country": "indonesia",
+    "qs_rank": "901-950",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Dhofar University",
+    "deepseek_chinese_name": "佐法尔大学",
+    "cscse_chinese_name": "",
+    "country": "oman",
+    "qs_rank": "901-950",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Effat University",
+    "deepseek_chinese_name": "埃法特大学",
+    "cscse_chinese_name": "",
+    "country": "saudi arabia",
+    "qs_rank": "901-950",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "European University of Lefke",
+    "deepseek_chinese_name": "欧洲勒弗克大学",
+    "cscse_chinese_name": "",
+    "country": "northern cyprus",
+    "qs_rank": "901-950",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Kyrgyz Russian Slavic University",
+    "deepseek_chinese_name": "吉尔吉斯-俄罗斯斯拉夫大学",
+    "cscse_chinese_name": "",
+    "country": "kyrgyzstan",
+    "qs_rank": "901-950",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad Espíritu Santo (UEES), Ecuador",
+    "deepseek_chinese_name": "圣灵大学",
+    "cscse_chinese_name": "",
+    "country": "ecuador",
+    "qs_rank": "901-950",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "UPES",
+    "deepseek_chinese_name": "UPES大学",
+    "cscse_chinese_name": "",
+    "country": "india",
+    "qs_rank": "901-950",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Gulf University for Science and Technology",
+    "deepseek_chinese_name": "海湾科技大学",
+    "cscse_chinese_name": "",
+    "country": "kuwait",
+    "qs_rank": "951-1000",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "IMU University",
+    "deepseek_chinese_name": "IMU大学",
+    "cscse_chinese_name": "",
+    "country": "malaysia",
+    "qs_rank": "951-1000",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Jouf University",
+    "deepseek_chinese_name": "焦夫大学",
+    "cscse_chinese_name": "",
+    "country": "saudi arabia",
+    "qs_rank": "951-1000",
+    "matched_usnews_english_name": "Al Jouf University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Macao Polytechnic University",
+    "deepseek_chinese_name": "澳门理工大学",
+    "cscse_chinese_name": "",
+    "country": "macao sar china",
+    "qs_rank": "951-1000",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "NLC «Buketov Karaganda National Research University»",
+    "deepseek_chinese_name": "布克托夫卡拉干达国立研究大学",
+    "cscse_chinese_name": "",
+    "country": "kazakhstan",
+    "qs_rank": "951-1000",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Princess Sumaya University for Technology",
+    "deepseek_chinese_name": "苏玛雅公主科技大学",
+    "cscse_chinese_name": "",
+    "country": "jordan",
+    "qs_rank": "951-1000",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Sohar University",
+    "deepseek_chinese_name": "苏哈尔大学",
+    "cscse_chinese_name": "",
+    "country": "oman",
+    "qs_rank": "951-1000",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Sophia University",
+    "deepseek_chinese_name": "上智大学",
+    "cscse_chinese_name": "",
+    "country": "japan",
+    "qs_rank": "951-1000",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Southwest University",
+    "deepseek_chinese_name": "西南大学",
+    "cscse_chinese_name": "",
+    "country": "china",
+    "qs_rank": "951-1000",
+    "matched_usnews_english_name": "Southwest University - China",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universidad Anáhuac México",
+    "deepseek_chinese_name": "墨西哥阿纳瓦克大学",
+    "cscse_chinese_name": "",
+    "country": "mexico",
+    "qs_rank": "951-1000",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universitas Sebelas Maret (UNS)",
+    "deepseek_chinese_name": "塞贝拉斯马雷特大学",
+    "cscse_chinese_name": "",
+    "country": "indonesia",
+    "qs_rank": "951-1000",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Université du Québec",
+    "deepseek_chinese_name": "魁北克大学",
+    "cscse_chinese_name": "",
+    "country": "canada",
+    "qs_rank": "951-1000",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University Duesseldorf",
+    "deepseek_chinese_name": "杜塞尔多夫大学",
+    "cscse_chinese_name": "",
+    "country": "germany",
+    "qs_rank": "951-1000",
+    "matched_usnews_english_name": "Heinrich Heine University of Dusseldorf",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Abylkas Saginov Karaganda Technical University",
+    "deepseek_chinese_name": "阿贝尔卡斯·萨吉诺夫卡拉干达技术大学",
+    "cscse_chinese_name": "",
+    "country": "kazakhstan",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Al Nahrain University",
+    "deepseek_chinese_name": "纳赫拉因大学",
+    "cscse_chinese_name": "",
+    "country": "iraq",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Almaty Technological University",
+    "deepseek_chinese_name": "阿拉木图技术大学",
+    "cscse_chinese_name": "",
+    "country": "kazakhstan",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Asfendiyarov Kazakh National Medical University",
+    "deepseek_chinese_name": "阿斯芬迪亚罗夫哈萨克国立医科大学",
+    "cscse_chinese_name": "",
+    "country": "kazakhstan",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Beijing University of Posts and Telecommunications",
+    "deepseek_chinese_name": "北京邮电大学",
+    "cscse_chinese_name": "",
+    "country": "china",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "Beijing University of Posts",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "CEU Universities",
+    "deepseek_chinese_name": "CEU大学",
+    "cscse_chinese_name": "",
+    "country": "spain",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Chitkara University",
+    "deepseek_chinese_name": "奇特卡拉大学",
+    "cscse_chinese_name": "",
+    "country": "india",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "D. Serikbayev East Kazakhstan Technical University",
+    "deepseek_chinese_name": "D. 谢里克巴耶夫东哈萨克斯坦技术大学",
+    "cscse_chinese_name": "",
+    "country": "kazakhstan",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Financial University under the Government of the Russian Federation",
+    "deepseek_chinese_name": "俄罗斯联邦政府金融大学",
+    "cscse_chinese_name": "",
+    "country": "russia",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Hong Kong Shue Yan University",
+    "deepseek_chinese_name": "香港树仁大学",
+    "cscse_chinese_name": "",
+    "country": "hong kong",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Immanuel Kant Baltic Federal University",
+    "deepseek_chinese_name": "伊曼努尔·康德波罗的海联邦大学",
+    "cscse_chinese_name": "",
+    "country": "russia",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Kalinga Institute of Industrial Technology (KIIT) University",
+    "deepseek_chinese_name": "卡林加工业技术学院大学",
+    "cscse_chinese_name": "",
+    "country": "india",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "Kalinga Institute of Industrial Technology",
+    "method": "english_high_confidence",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Kyrgyz-Turkish Manas University",
+    "deepseek_chinese_name": "吉尔吉斯-土耳其玛纳斯大学",
+    "cscse_chinese_name": "",
+    "country": "kyrgyzstan",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "MATE Hungarian University of Agriculture and Life Sciences",
+    "deepseek_chinese_name": "匈牙利农业与生命科学大学",
+    "cscse_chinese_name": "",
+    "country": "hungary",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Middle East University Jordan",
+    "deepseek_chinese_name": "约旦中东大学",
+    "cscse_chinese_name": "",
+    "country": "jordan",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "Middle East University",
+    "method": "english_high_confidence",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Mutah University",
+    "deepseek_chinese_name": "穆塔大学",
+    "cscse_chinese_name": "",
+    "country": "jordan",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Mykolas Romeris University",
+    "deepseek_chinese_name": "米科拉斯·罗梅里斯大学",
+    "cscse_chinese_name": "",
+    "country": "lithuania",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Narxoz University",
+    "deepseek_chinese_name": "纳尔霍兹大学",
+    "cscse_chinese_name": "",
+    "country": "kazakhstan",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Northern Borders University",
+    "deepseek_chinese_name": "北部边境大学",
+    "cscse_chinese_name": "",
+    "country": "saudi arabia",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "Northern Border University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Panjab University, Chandigarh",
+    "deepseek_chinese_name": "旁遮普大学昌迪加尔分校",
+    "cscse_chinese_name": "",
+    "country": "india",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Pavol Jozef Šafárik University in Košice",
+    "deepseek_chinese_name": "科希策帕沃尔·约瑟夫·沙法里克大学",
+    "cscse_chinese_name": "",
+    "country": "slovakia",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Ritsumeikan Asia Pacific University",
+    "deepseek_chinese_name": "立命馆亚洲太平洋大学",
+    "cscse_chinese_name": "",
+    "country": "japan",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Samarkand State University",
+    "deepseek_chinese_name": "撒马尔罕国立大学",
+    "cscse_chinese_name": "",
+    "country": "uzbekistan",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Shiv Nadar University, Delhi NCR",
+    "deepseek_chinese_name": "希夫·纳达尔大学德里国家首都区校区",
+    "cscse_chinese_name": "",
+    "country": "india",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Siberian Federal University, SibFU",
+    "deepseek_chinese_name": "西伯利亚联邦大学",
+    "cscse_chinese_name": "",
+    "country": "russia",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "Siberian Federal University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Sumgayit State University",
+    "deepseek_chinese_name": "苏姆盖特国立大学",
+    "cscse_chinese_name": "",
+    "country": "azerbaijan",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Széchenyi István University (University of Győr)",
+    "deepseek_chinese_name": "塞切尼·伊什特万大学",
+    "cscse_chinese_name": "",
+    "country": "hungary",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "manually_excluded",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Tashkent State Technical University",
+    "deepseek_chinese_name": "塔什干国立技术大学",
+    "cscse_chinese_name": "",
+    "country": "uzbekistan",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad de Puerto Rico",
+    "deepseek_chinese_name": "波多黎各大学",
+    "cscse_chinese_name": "",
+    "country": "puerto rico",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad de San Andrés - UdeSA",
+    "deepseek_chinese_name": "圣安德烈斯大学",
+    "cscse_chinese_name": "",
+    "country": "argentina",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad ORT Uruguay",
+    "deepseek_chinese_name": "乌拉圭ORT大学",
+    "cscse_chinese_name": "",
+    "country": "uruguay",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universit de Bretagne Occidentale",
+    "deepseek_chinese_name": "西布列塔尼大学",
+    "cscse_chinese_name": "",
+    "country": "france",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Université Lumière Lyon 2",
+    "deepseek_chinese_name": "里昂第二大学",
+    "cscse_chinese_name": "",
+    "country": "france",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Algarve",
+    "deepseek_chinese_name": "阿尔加维大学",
+    "cscse_chinese_name": "",
+    "country": "portugal",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "Universidade do Algarve",
+    "method": "english_high_confidence",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Balamand",
+    "deepseek_chinese_name": "巴拉曼大学",
+    "cscse_chinese_name": "",
+    "country": "lebanon",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Cassino and Southern Lazio",
+    "deepseek_chinese_name": "卡西诺和南拉齐奥大学",
+    "cscse_chinese_name": "",
+    "country": "italy",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Lancashire",
+    "deepseek_chinese_name": "兰开夏大学",
+    "cscse_chinese_name": "",
+    "country": "united kingdom",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "University of Central Lancashire",
+    "method": "english_high_confidence",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Naples Parthenope",
+    "deepseek_chinese_name": "那不勒斯帕特诺珀大学",
+    "cscse_chinese_name": "",
+    "country": "italy",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "Parthenope University Naples",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "University of Roehampton, London",
+    "deepseek_chinese_name": "伦敦罗汉普顿大学",
+    "cscse_chinese_name": "",
+    "country": "united kingdom",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Xi'an Jiaotong Liverpool University",
+    "deepseek_chinese_name": "西交利物浦大学",
+    "cscse_chinese_name": "",
+    "country": "china",
+    "qs_rank": "1001-1200",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "A'Sharqiyah University",
+    "deepseek_chinese_name": "东方大学",
+    "cscse_chinese_name": "",
+    "country": "oman",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Ahmadu Bello University, Zaria",
+    "deepseek_chinese_name": "艾哈迈杜·贝洛大学",
+    "cscse_chinese_name": "",
+    "country": "nigeria",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "Ahmadu Bello University",
+    "method": "english_high_confidence",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Amman Arab University",
+    "deepseek_chinese_name": "安曼阿拉伯大学",
+    "cscse_chinese_name": "",
+    "country": "jordan",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Beijing Foreign Studies University",
+    "deepseek_chinese_name": "北京外国语大学",
+    "cscse_chinese_name": "",
+    "country": "china",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Capital University – Egypt",
+    "deepseek_chinese_name": "埃及首都大学",
+    "cscse_chinese_name": "",
+    "country": "egypt",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Empress Catherine II Saint Petersburg Mining University",
+    "deepseek_chinese_name": "圣彼得堡矿业大学",
+    "cscse_chinese_name": "",
+    "country": "russia",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Florida Atlantic University - Boca Raton",
+    "deepseek_chinese_name": "佛罗里达大西洋大学",
+    "cscse_chinese_name": "",
+    "country": "united states",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "Florida Atlantic University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "German University of Technology in Oman (GUtech)",
+    "deepseek_chinese_name": "阿曼德国理工大学",
+    "cscse_chinese_name": "",
+    "country": "oman",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Instituto Tecnológico de Buenos Aires (ITBA)",
+    "deepseek_chinese_name": "布宜诺斯艾利斯理工学院",
+    "cscse_chinese_name": "",
+    "country": "argentina",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "International Christian University",
+    "deepseek_chinese_name": "国际基督教大学",
+    "cscse_chinese_name": "",
+    "country": "japan",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Islamic University of Lebanon",
+    "deepseek_chinese_name": "黎巴嫩伊斯兰大学",
+    "cscse_chinese_name": "",
+    "country": "lebanon",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "ITESO, Universidad Jesuita de Guadalajara",
+    "deepseek_chinese_name": "瓜达拉哈拉耶稣会大学",
+    "cscse_chinese_name": "",
+    "country": "mexico",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Izmir Institute of Technology (IZTECH)",
+    "deepseek_chinese_name": "伊兹密尔理工学院",
+    "cscse_chinese_name": "",
+    "country": "turkey",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Jadara University",
+    "deepseek_chinese_name": "贾达拉大学",
+    "cscse_chinese_name": "",
+    "country": "jordan",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Kazakh-British Technical University",
+    "deepseek_chinese_name": "哈萨克英国技术大学",
+    "cscse_chinese_name": "",
+    "country": "kazakhstan",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Kyrgyz National University",
+    "deepseek_chinese_name": "吉尔吉斯国立大学",
+    "cscse_chinese_name": "",
+    "country": "kyrgyzstan",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Lobachevsky University",
+    "deepseek_chinese_name": "罗巴切夫斯基大学",
+    "cscse_chinese_name": "",
+    "country": "russia",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "National Research Saratov State University",
+    "deepseek_chinese_name": "萨拉托夫国立研究大学",
+    "cscse_chinese_name": "",
+    "country": "russia",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "National Taipei University",
+    "deepseek_chinese_name": "国立台北大学",
+    "cscse_chinese_name": "",
+    "country": "taiwan",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "National University of Science and Technology POLITEHNICA Bucharest",
+    "deepseek_chinese_name": "布加勒斯特理工大学",
+    "cscse_chinese_name": "",
+    "country": "romania",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "Polytechnic University of Bucharest",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "National University of Science and Technology, Oman",
+    "deepseek_chinese_name": "阿曼国立科技大学",
+    "cscse_chinese_name": "",
+    "country": "oman",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Notre Dame University-Louaize NDU",
+    "deepseek_chinese_name": "圣母大学（卢瓦兹）",
+    "cscse_chinese_name": "",
+    "country": "lebanon",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Odessa I.I.Mechnikov National University",
+    "deepseek_chinese_name": "敖德萨国立大学",
+    "cscse_chinese_name": "",
+    "country": "ukraine",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Palestine Technical University - Kadoorie",
+    "deepseek_chinese_name": "巴勒斯坦技术大学",
+    "cscse_chinese_name": "",
+    "country": "palestine",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Paul Valéry University Montpellier",
+    "deepseek_chinese_name": "蒙彼利埃保罗·瓦莱里大学",
+    "cscse_chinese_name": "",
+    "country": "france",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Russian Presidential Academy of National Economy and Public Administration",
+    "deepseek_chinese_name": "俄罗斯总统国民经济与公共管理学院",
+    "cscse_chinese_name": "",
+    "country": "russia",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Saint Petersburg Electrotechnical University ETU-LETI",
+    "deepseek_chinese_name": "圣彼得堡电工大学",
+    "cscse_chinese_name": "",
+    "country": "russia",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Saken Seifullin Kazakh Agrotechnical Research University",
+    "deepseek_chinese_name": "哈萨克农业技术研究大学",
+    "cscse_chinese_name": "",
+    "country": "kazakhstan",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Shanghai University of Finance and Economics",
+    "deepseek_chinese_name": "上海财经大学",
+    "cscse_chinese_name": "",
+    "country": "china",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "Shanghai University of Finance",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Siksha ‘O’ Anusandhan (Deemed to be University), SOA",
+    "deepseek_chinese_name": "教育与研究大学",
+    "cscse_chinese_name": "",
+    "country": "india",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "Siksha 'O' Anusandhan University",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Sungshin Women's University",
+    "deepseek_chinese_name": "诚信女子大学",
+    "cscse_chinese_name": "",
+    "country": "south korea",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Tashkent State Transport University",
+    "deepseek_chinese_name": "塔什干国立交通大学",
+    "cscse_chinese_name": "",
+    "country": "uzbekistan",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Tecnológico de Costa Rica -TEC",
+    "deepseek_chinese_name": "哥斯达黎加理工学院",
+    "cscse_chinese_name": "",
+    "country": "costa rica",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Telkom University",
+    "deepseek_chinese_name": "特尔科姆大学",
+    "cscse_chinese_name": "",
+    "country": "indonesia",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "The Josip Juraj Strossmayer University of Osijek",
+    "deepseek_chinese_name": "奥西耶克大学",
+    "cscse_chinese_name": "",
+    "country": "croatia",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Tishk International University",
+    "deepseek_chinese_name": "提什克国际大学",
+    "cscse_chinese_name": "",
+    "country": "iraq",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "UCAM Universidad Católica San Antonio de Murcia",
+    "deepseek_chinese_name": "穆尔西亚圣安东尼奥天主教大学",
+    "cscse_chinese_name": "",
+    "country": "spain",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad Autónoma Chapingo",
+    "deepseek_chinese_name": "查平戈自治大学",
+    "cscse_chinese_name": "",
+    "country": "mexico",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad de Las Américas (UDLA) Ecuador",
+    "deepseek_chinese_name": "厄瓜多尔美洲大学",
+    "cscse_chinese_name": "",
+    "country": "ecuador",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad de Los Andes - (ULA) Mérida",
+    "deepseek_chinese_name": "梅里达洛斯安第斯大学",
+    "cscse_chinese_name": "",
+    "country": "venezuela",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad Nacional de Asunción",
+    "deepseek_chinese_name": "亚松森国立大学",
+    "cscse_chinese_name": "",
+    "country": "paraguay",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad Nacional de Cuyo (UNCUYO)",
+    "deepseek_chinese_name": "库约国立大学",
+    "cscse_chinese_name": "",
+    "country": "argentina",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "University Nacional Cuyo Mendoza",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universidad Nacional, Costa Rica",
+    "deepseek_chinese_name": "哥斯达黎加国立大学",
+    "cscse_chinese_name": "",
+    "country": "costa rica",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universitatea de Vest din Timisoara /  West University of Timisoara",
+    "deepseek_chinese_name": "蒂米什瓦拉西部大学",
+    "cscse_chinese_name": "",
+    "country": "romania",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "West University of Timisoara",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Université Bourgogne Europe",
+    "deepseek_chinese_name": "勃艮第欧洲大学",
+    "cscse_chinese_name": "",
+    "country": "france",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Université Paris-Nanterre",
+    "deepseek_chinese_name": "巴黎楠泰尔大学",
+    "cscse_chinese_name": "",
+    "country": "france",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Université Polytechnique Hauts‑de‑France",
+    "deepseek_chinese_name": "上法兰西理工大学",
+    "cscse_chinese_name": "",
+    "country": "france",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Université Toulouse - Jean Jaurès",
+    "deepseek_chinese_name": "图卢兹让·饶勒斯大学",
+    "cscse_chinese_name": "",
+    "country": "france",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Anbar",
+    "deepseek_chinese_name": "安巴尔大学",
+    "cscse_chinese_name": "",
+    "country": "iraq",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Management and Technology (UMT) Pakistan",
+    "deepseek_chinese_name": "巴基斯坦管理技术大学",
+    "cscse_chinese_name": "",
+    "country": "pakistan",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "University of Management & Technology (UMT)",
+    "method": "english_high_confidence",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of New England Australia",
+    "deepseek_chinese_name": "澳大利亚新英格兰大学",
+    "cscse_chinese_name": "",
+    "country": "australia",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Nigeria Nsukka",
+    "deepseek_chinese_name": "尼日利亚恩苏卡大学",
+    "cscse_chinese_name": "",
+    "country": "nigeria",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "University of Nigeria",
+    "method": "english_high_confidence",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Silesia in Katowice",
+    "deepseek_chinese_name": "卡托维兹西里西亚大学",
+    "cscse_chinese_name": "",
+    "country": "poland",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Tunis",
+    "deepseek_chinese_name": "突尼斯大学",
+    "cscse_chinese_name": "",
+    "country": "tunisia",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Warmia and Mazury in Olsztyn",
+    "deepseek_chinese_name": "奥尔什丁瓦尔米亚-马祖里大学",
+    "cscse_chinese_name": "",
+    "country": "poland",
+    "qs_rank": "1201-1400",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "American International University-Bangladesh (AIUB)",
+    "deepseek_chinese_name": "孟加拉美国国际大学",
+    "cscse_chinese_name": "",
+    "country": "bangladesh",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Benha University - Egypt",
+    "deepseek_chinese_name": "埃及本哈大学",
+    "cscse_chinese_name": "",
+    "country": "egypt",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "Benha University",
+    "method": "english_high_confidence",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "China University of Political Science and Law",
+    "deepseek_chinese_name": "中国政法大学",
+    "cscse_chinese_name": "",
+    "country": "china",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Chittagong University of Engineering and Technology",
+    "deepseek_chinese_name": "吉大港工程技术大学",
+    "cscse_chinese_name": "",
+    "country": "bangladesh",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Doshisha University",
+    "deepseek_chinese_name": "同志社大学",
+    "cscse_chinese_name": "",
+    "country": "japan",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Escuela Politécnica Nacional",
+    "deepseek_chinese_name": "国立理工学院",
+    "cscse_chinese_name": "",
+    "country": "ecuador",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "Escuela Politecnica Nacional Ecuador",
+    "method": "english_high_confidence",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "I. Razzakov Kyrgyz State Technical University",
+    "deepseek_chinese_name": "吉尔吉斯国立技术大学",
+    "cscse_chinese_name": "",
+    "country": "kyrgyzstan",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Instituto Tecnológico de Santo Domingo (INTEC)",
+    "deepseek_chinese_name": "圣多明各理工学院",
+    "cscse_chinese_name": "",
+    "country": "dominican republic",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "International Islamic University, Islamabad (IIU)",
+    "deepseek_chinese_name": "伊斯兰堡国际伊斯兰大学",
+    "cscse_chinese_name": "",
+    "country": "pakistan",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Islamic University of Technology",
+    "deepseek_chinese_name": "伊斯兰科技大学",
+    "cscse_chinese_name": "",
+    "country": "bangladesh",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Kazakh Ablai Khan University of International Relations and World Languages",
+    "deepseek_chinese_name": "哈萨克阿布莱汗国际关系与世界语言大学",
+    "cscse_chinese_name": "",
+    "country": "kazakhstan",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "National Chinyi University of Technology",
+    "deepseek_chinese_name": "国立勤益科技大学",
+    "cscse_chinese_name": "",
+    "country": "taiwan",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "National Chin-Yi University of Technology",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "National Research University Moscow Power Engineering Institute (MPEI)",
+    "deepseek_chinese_name": "国立研究大学莫斯科动力工程学院",
+    "cscse_chinese_name": "",
+    "country": "russia",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Shahjalal University of Science and Technology",
+    "deepseek_chinese_name": "沙赫贾拉勒科技大学",
+    "cscse_chinese_name": "",
+    "country": "bangladesh",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Stefan cel Mare University of Suceava",
+    "deepseek_chinese_name": "苏恰瓦斯特凡大公大学",
+    "cscse_chinese_name": "",
+    "country": "romania",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "The Islamia University of Bahawalpur,Pakistan",
+    "deepseek_chinese_name": "巴基斯坦巴哈瓦尔布尔伊斯兰大学",
+    "cscse_chinese_name": "",
+    "country": "pakistan",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "Islamia University of Bahawalpur",
+    "method": "english_high_confidence",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "The University of Georgia, Tbilisi",
+    "deepseek_chinese_name": "第比利斯格鲁吉亚大学",
+    "cscse_chinese_name": "",
+    "country": "georgia",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Toraighyrov University",
+    "deepseek_chinese_name": "托拉伊吉罗夫大学",
+    "cscse_chinese_name": "",
+    "country": "kazakhstan",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad Autónoma de Guadalajara (UAG)",
+    "deepseek_chinese_name": "瓜达拉哈拉自治大学",
+    "cscse_chinese_name": "",
+    "country": "mexico",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN)",
+    "deepseek_chinese_name": "布宜诺斯艾利斯省中部国立大学",
+    "cscse_chinese_name": "",
+    "country": "argentina",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad Nacional del Litoral",
+    "deepseek_chinese_name": "滨海国立大学",
+    "cscse_chinese_name": "",
+    "country": "argentina",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "National University of the Littoral",
+    "method": "unique_chinese_country",
+    "candidate_count": 1
+  },
+  {
+    "qs_english_name": "Universidad Peruana de Ciencias Aplicadas (UPC)",
+    "deepseek_chinese_name": "秘鲁应用科学大学",
+    "cscse_chinese_name": "",
+    "country": "peru",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad Tecnológica Centroamericana (UNITEC)",
+    "deepseek_chinese_name": "中美洲科技大学",
+    "cscse_chinese_name": "",
+    "country": "honduras",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universidad Tecnológica de Panamá (UTP)",
+    "deepseek_chinese_name": "巴拿马科技大学",
+    "cscse_chinese_name": "",
+    "country": "panama",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universitas Andalas",
+    "deepseek_chinese_name": "安达拉斯大学",
+    "cscse_chinese_name": "",
+    "country": "indonesia",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Universitas Pendidikan Indonesia",
+    "deepseek_chinese_name": "印度尼西亚教育大学",
+    "cscse_chinese_name": "",
+    "country": "indonesia",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Université de Rouen Normandie",
+    "deepseek_chinese_name": "鲁昂诺曼底大学",
+    "cscse_chinese_name": "",
+    "country": "france",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Kaiserslautern-Landau (RPTU)",
+    "deepseek_chinese_name": "凯泽斯劳滕-兰道大学",
+    "cscse_chinese_name": "",
+    "country": "germany",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "University of Kaiserslautern",
+    "method": "english_high_confidence",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Kerbala",
+    "deepseek_chinese_name": "卡尔巴拉大学",
+    "cscse_chinese_name": "",
+    "country": "iraq",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Kufa",
+    "deepseek_chinese_name": "库法大学",
+    "cscse_chinese_name": "",
+    "country": "iraq",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Petra",
+    "deepseek_chinese_name": "佩特拉大学",
+    "cscse_chinese_name": "",
+    "country": "jordan",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Sri Jayawardenapura",
+    "deepseek_chinese_name": "斯里贾亚瓦德纳普拉大学",
+    "cscse_chinese_name": "",
+    "country": "sri lanka",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "University of Tyumen",
+    "deepseek_chinese_name": "秋明大学",
+    "cscse_chinese_name": "",
+    "country": "russia",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  },
+  {
+    "qs_english_name": "Yessenov University",
+    "deepseek_chinese_name": "叶谢诺夫大学",
+    "cscse_chinese_name": "",
+    "country": "kazakhstan",
+    "qs_rank": "1401+",
+    "matched_usnews_english_name": "",
+    "method": "unmatched",
+    "candidate_count": 0
+  }
+]
